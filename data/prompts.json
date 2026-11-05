@@ -1,0 +1,52 @@
+{
+  "slug": "gpt-image-2-6",
+  "synced_at": "2026-11-05T03:52:09.417Z",
+  "sources": [
+    {
+      "key": "x-direct",
+      "type": "x",
+      "url": "https://x.com",
+      "tool": "sandbase_twitter_web_tweet_detail",
+      "license": "Original creators retain rights; no blanket reuse license."
+    }
+  ],
+  "categories": {
+    "portrait": 1
+  },
+  "items": [
+    {
+      "id": "2118147596891901957-tea-at-home",
+      "title": "A cup of tea at home",
+      "title_zh": "家中手持茶杯的人像",
+      "category": "portrait",
+      "prompt": "a realistic photo of a woman holding a cup of tea inside her home",
+      "images": [
+        "/lab/media/prompts/blobs/85955e37d7d5fef6170fbb097fc09103c4d3568840b46742b58b038a8e9106ed.jpg"
+      ],
+      "author": "v3rt0x_",
+      "source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118147596891901957",
+        "published_at": "Thu Nov 05 01:05:15 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "Gpt image 2.6 (Left) vs 2.5 (Right)",
+        "model_variant": null,
+        "reproduced": false,
+        "source_text_sha256": "d377f31b56188b618566b27f682f34fcc6897f28e26fc1b5733dd38b3dd5e10d",
+        "run_id": "19425f0c-117d-4413-bc1a-51af8ab6667b",
+        "raw_sha256": "ace38f8c7b51892d0c80cb19422405f18ceccd0757d9c91c072e561675a9ab85",
+        "result_media_ids": [
+          "2118147098709274624"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "The author labels the first image as GPT Image 2.6 and the second as 2.5. Only the 2.6 image is shown here. The original variant and settings are unspecified. SandBase has not rerun this example.",
+          "zh-CN": "作者将第一张标为 GPT Image 2.6、第二张标为 2.5；这里仅展示 2.6 结果。原作未注明具体变体和参数，SandBase 尚未复跑此示例。"
+        }
+      }
+    }
+  ]
+}
