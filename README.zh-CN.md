@@ -4,7 +4,7 @@
 
 来自 X 原作者的图片、动图与原始提示词，由 [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**27 个案例：15 条提示词 · 12 个作品示例** · Lab 数据日期：2026-11-05T16:34:29.831Z。
+**29 个案例：17 条提示词 · 12 个作品示例** · Lab 数据日期：2026-11-06T05:05:25.223199Z。
 
 模型归属依据作者的原帖声明；具体变体可能未知，尚未由 SandBase 复跑。图片和提示词权利属于原作者。
 
@@ -490,6 +490,74 @@ A young woman with the same unchanged face and soft natural complexion, captured
 作者展示了这段 GIF，但未公开提示词；仅作为作品示例展示，原始参数未注明。模型归属依据作者声明；SandBase 尚未复跑此示例。
 
 **作品示例：作者未公开提示词。**
+
+## [火焰特效：从关键帧到十二帧序列](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118533805262999854-body-prompt)
+
+[@nanyuan0412](https://x.com/nanyuan0412/status/2118533805262999854)
+
+[![火焰特效：从关键帧到十二帧序列](https://www.sandbase.ai/lab/media/prompts/blobs/0957d80ce1d26f2d48289777ad823e770104874ec281bb8edac1e1e82e8caaf9.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118533805262999854-body-prompt)
+[![火焰特效：从关键帧到十二帧序列](https://www.sandbase.ai/lab/media/prompts/blobs/9203f30048252afc023c8d7fac748f937f4422facdc4f96dcbdf54dda0ac73a7.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118533805262999854-body-prompt)
+
+[播放动图 1](https://www.sandbase.ai/lab/media/prompts/blobs/87aea278ed70bcf7f82da3956de895bee3519bde154323656dfbd980e8ae0c04.mp4)
+
+作者公开了原始提示词、关键帧参考图、十二帧特效序列图及 GIF 动画；关键帧单独列为参考输入。模型归属依据作者声明，SandBase 尚未复跑此示例。
+
+```text
+根据提供的魔法、能量或粒子特效关键帧，制作4×3共12帧的特效序列图。保持帧间特效尺度、中心和风格一致，体现自然的起势、展开与消散，各格不重叠，背景便于后续抠图。输出是序列参考图。
+```
+
+参考输入图：
+
+[输入图 1](https://www.sandbase.ai/lab/media/prompts/blobs/4b250a7f23a4e5e6d48b71076ab54b4d77d203cb7e55dd1ac9c1ab7374307586.jpg)
+
+## [把照片变成民间艺术风节日贺卡](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118562099987398753-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118562099987398753)
+
+[![把照片变成民间艺术风节日贺卡](https://www.sandbase.ai/lab/media/prompts/blobs/25336e4a87e8a90370b6aa20c97e94df00a48275eaf2927563fbbe1db9e4cf84.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118562099987398753-body-prompt)
+[![把照片变成民间艺术风节日贺卡](https://www.sandbase.ai/lab/media/prompts/blobs/0bb3d1652729e5b819713b7877d4f1a54e2e9cc28325aebc3cb329759f4cdb20.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118562099987398753-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.
+
+ART STYLE:
+
+- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.
+- Slightly exaggerated, whimsical proportions.
+- Imperfect, irregular outlines and organic hand-drawn contours.
+- Simplified shapes with carefully selected decorative details.
+- Flat, bold, contrasting colours with a warm Christmas palette.
+- Subtle vintage paper texture with a refined printed-card finish.
+- Delicate hand-drawn decorative marks, patterns and festive accents.
+- Minimalist yet visually rich composition.
+
+COLOUR PALETTE:
+Use traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.
+
+PRESERVE THE ORIGINAL PHOTOGRAPH:
+Retain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.
+
+DESIGN & COMPOSITION:
+Create an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.
+
+STRICT VISUAL RULES:
+
+- No photorealism.
+- No 3D rendering.
+- No realistic lighting or shadows.
+- No gradients.
+- No glossy or metallic effects.
+- No artificial digital painting appearance.
+- No excessive detail or visual clutter.
+
+The final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.
+
+FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
 
 ## 贡献与权利
 

@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-05T16:34:29.831Z",
+  "synced_at": "2026-11-06T05:05:25.223199Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,13 +11,14 @@
     }
   ],
   "categories": {
-    "portrait": 5,
+    "portrait": 6,
     "other": 6,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
     "anime": 1,
-    "game": 1
+    "game": 1,
+    "editing": 1
   },
   "items": [
     {
@@ -1066,6 +1067,90 @@
         "note": {
           "en": "The author shares this GIF result without a prompt. Shown as a work example only; original settings are unspecified. Model attribution follows the author; SandBase has not rerun this example.",
           "zh-CN": "作者展示了这段 GIF，但未公开提示词；仅作为作品示例展示，原始参数未注明。模型归属依据作者声明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118533805262999854-body-prompt",
+      "videos": [
+        "/lab/media/prompts/blobs/87aea278ed70bcf7f82da3956de895bee3519bde154323656dfbd980e8ae0c04.mp4"
+      ],
+      "title": "Fire effect: from keyframe to a twelve-frame sequence",
+      "title_zh": "火焰特效：从关键帧到十二帧序列",
+      "category": "editing",
+      "prompt": "根据提供的魔法、能量或粒子特效关键帧，制作4×3共12帧的特效序列图。保持帧间特效尺度、中心和风格一致，体现自然的起势、展开与消散，各格不重叠，背景便于后续抠图。输出是序列参考图。",
+      "images": [
+        "/lab/media/prompts/blobs/0957d80ce1d26f2d48289777ad823e770104874ec281bb8edac1e1e82e8caaf9.jpg",
+        "/lab/media/prompts/blobs/9203f30048252afc023c8d7fac748f937f4422facdc4f96dcbdf54dda0ac73a7.jpg"
+      ],
+      "author": "nanyuan0412",
+      "source_url": "https://x.com/nanyuan0412/status/2118533805262999854",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "input_images": [
+        "/lab/media/prompts/blobs/4b250a7f23a4e5e6d48b71076ab54b4d77d203cb7e55dd1ac9c1ab7374307586.jpg"
+      ],
+      "provenance": {
+        "type": "x",
+        "post_id": "2118533805262999854",
+        "published_at": "Fri Nov 06 02:39:54 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "从图片到特效序列图到gif 动态图，由于GPT image 2.6 的更新已经可以全流程在GPT里很方便的完成了。",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "editorial-source-media-v1",
+        "source_text_sha256": "8011aea4360ed563b1ffed80834c6af916d54bb0c32c82dd0b2681716d0270fe",
+        "run_id": "b6ddf0c7-a78e-490d-92cc-b13a14896ef3",
+        "raw_sha256": "1694cb2a58afc60f19aa328ad219579f5f63416ca4cba9df1556b1492ab96352",
+        "result_media_ids": [
+          "2118533396947427328",
+          "2118533390572072960"
+        ],
+        "input_media_ids": [
+          "2118533362986143744"
+        ],
+        "note": {
+          "en": "The author shares the original prompt, a source keyframe, a twelve-frame effect sheet and its GIF animation. The source keyframe is shown separately as the reference input. Model attribution follows the author; SandBase has not rerun this example.",
+          "zh-CN": "作者公开了原始提示词、关键帧参考图、十二帧特效序列图及 GIF 动画；关键帧单独列为参考输入。模型归属依据作者声明，SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118562099987398753-body-prompt",
+      "title": "Turn a photograph into a folk-art holiday card",
+      "title_zh": "把照片变成民间艺术风节日贺卡",
+      "category": "portrait",
+      "prompt": "Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.\n\nART STYLE:\n\n- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.\n- Slightly exaggerated, whimsical proportions.\n- Imperfect, irregular outlines and organic hand-drawn contours.\n- Simplified shapes with carefully selected decorative details.\n- Flat, bold, contrasting colours with a warm Christmas palette.\n- Subtle vintage paper texture with a refined printed-card finish.\n- Delicate hand-drawn decorative marks, patterns and festive accents.\n- Minimalist yet visually rich composition.\n\nCOLOUR PALETTE:\nUse traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.\n\nPRESERVE THE ORIGINAL PHOTOGRAPH:\nRetain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.\n\nDESIGN & COMPOSITION:\nCreate an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.\n\nSTRICT VISUAL RULES:\n\n- No photorealism.\n- No 3D rendering.\n- No realistic lighting or shadows.\n- No gradients.\n- No glossy or metallic effects.\n- No artificial digital painting appearance.\n- No excessive detail or visual clutter.\n\nThe final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.\n\nFORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.",
+      "images": [
+        "/lab/media/prompts/blobs/25336e4a87e8a90370b6aa20c97e94df00a48275eaf2927563fbbe1db9e4cf84.jpg",
+        "/lab/media/prompts/blobs/0bb3d1652729e5b819713b7877d4f1a54e2e9cc28325aebc3cb329759f4cdb20.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118562099987398753",
+        "published_at": "Fri Nov 06 04:32:20 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "87542ba36f260a8a6e7da7beb01ace38d927d1b405b5c51bee0283c0da60ad90",
+        "run_id": "b64cc280-fe93-4e7c-93d3-50ca3a48f36c",
+        "raw_sha256": "b0963060d1299fe5ae727d561752440ffae84b093ae1e015ab4ee2d63af97b5c",
+        "result_media_ids": [
+          "2118562074649604096",
+          "2118562087459037184"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
         }
       }
     }

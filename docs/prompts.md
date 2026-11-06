@@ -416,3 +416,65 @@ The author quotes this short Japanese instruction \(“a robot brewing coffee”
 The author shares this GIF result without a prompt. Shown as a work example only; original settings are unspecified. Model attribution follows the author; SandBase has not rerun this example.
 
 **Work example: no prompt shared by the author.**
+
+## [Fire effect: from keyframe to a twelve-frame sequence](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118533805262999854-body-prompt)
+
+[@nanyuan0412](https://x.com/nanyuan0412/status/2118533805262999854)
+
+[Play animation 1](https://www.sandbase.ai/lab/media/prompts/blobs/87aea278ed70bcf7f82da3956de895bee3519bde154323656dfbd980e8ae0c04.mp4)
+
+The author shares the original prompt, a source keyframe, a twelve-frame effect sheet and its GIF animation. The source keyframe is shown separately as the reference input. Model attribution follows the author; SandBase has not rerun this example.
+
+```text
+根据提供的魔法、能量或粒子特效关键帧，制作4×3共12帧的特效序列图。保持帧间特效尺度、中心和风格一致，体现自然的起势、展开与消散，各格不重叠，背景便于后续抠图。输出是序列参考图。
+```
+
+Reference inputs:
+
+[Input 1](https://www.sandbase.ai/lab/media/prompts/blobs/4b250a7f23a4e5e6d48b71076ab54b4d77d203cb7e55dd1ac9c1ab7374307586.jpg)
+
+## [Turn a photograph into a folk-art holiday card](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118562099987398753-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118562099987398753)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.
+
+ART STYLE:
+
+- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.
+- Slightly exaggerated, whimsical proportions.
+- Imperfect, irregular outlines and organic hand-drawn contours.
+- Simplified shapes with carefully selected decorative details.
+- Flat, bold, contrasting colours with a warm Christmas palette.
+- Subtle vintage paper texture with a refined printed-card finish.
+- Delicate hand-drawn decorative marks, patterns and festive accents.
+- Minimalist yet visually rich composition.
+
+COLOUR PALETTE:
+Use traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.
+
+PRESERVE THE ORIGINAL PHOTOGRAPH:
+Retain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.
+
+DESIGN & COMPOSITION:
+Create an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.
+
+STRICT VISUAL RULES:
+
+- No photorealism.
+- No 3D rendering.
+- No realistic lighting or shadows.
+- No gradients.
+- No glossy or metallic effects.
+- No artificial digital painting appearance.
+- No excessive detail or visual clutter.
+
+The final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.
+
+FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
