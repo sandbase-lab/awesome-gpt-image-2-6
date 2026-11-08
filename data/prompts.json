@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-06T05:05:25.223199Z",
+  "synced_at": "2026-11-08T01:38:19.690Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,8 +11,8 @@
     }
   ],
   "categories": {
-    "portrait": 6,
-    "other": 6,
+    "portrait": 10,
+    "other": 15,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
@@ -1151,6 +1151,497 @@
         "note": {
           "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
           "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2118564255867777123-body-prompt",
+      "videos": [
+        "/lab/media/prompts/blobs/3170abcdcf30123c81e069d68962cf9a2b34a64007e8857829a1d806135ce5d0.mp4"
+      ],
+      "title": "GPT Image 2.6 work by @SUOHA_AI",
+      "title_zh": "@SUOHA_AI 的 GPT Image 2.6 作品",
+      "category": "other",
+      "prompt": "",
+      "images": [
+        "/lab/media/prompts/blobs/8fc7426666075bd3f4f523a341496ce1882f023b736e35d46b4733d105c738fe.jpg",
+        "/lab/media/prompts/blobs/d190d87c05a51090acacb79cf329ff44c46c8ce88700e7b7f7fd5babbd578aef.jpg"
+      ],
+      "author": "SUOHA_AI",
+      "source_url": "https://x.com/SUOHA_AI/status/2118564255867777123",
+      "via": "x-direct",
+      "has_slots": false,
+      "prompt_unavailable": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118564255867777123",
+        "published_at": "Fri Nov 06 04:40:54 +0000 2026",
+        "prompt_source": "none",
+        "model_claim": "最新信息差—GPT Image 2.6 估计会掀起一波定制表情包热潮，就看谁做得快了",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "none-single-v3",
+        "source_text_sha256": "441930c89438a67110736d87d3e0cc854be0f9b9c15d40a8102f58f657d41999",
+        "run_id": "8906f4e0-c92f-43e5-8bdb-cdd719a3577c",
+        "raw_sha256": "3f052bac67dce51884a2f1269bb499d1031c2d5b6681dc9dc1a8385767224c66",
+        "result_media_ids": [
+          "2118561295406407680",
+          "2118561294236192768"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.",
+          "zh-CN": "自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。"
+        }
+      }
+    },
+    {
+      "id": "2118657897739743717-body-prompt",
+      "title": "GPT Image 2.6 work by @byteoxo",
+      "title_zh": "@byteoxo 的 GPT Image 2.6 作品",
+      "category": "other",
+      "prompt": "",
+      "images": [
+        "/lab/media/prompts/blobs/31b962d71922d795b8450468fb9006f787dbbcab397f53072e534276c569ae29.jpg",
+        "/lab/media/prompts/blobs/a9b589abce1ffaca6412b5a70eceef7454628d11ee2faa982199ab1ac968e16d.jpg"
+      ],
+      "author": "byteoxo",
+      "source_url": "https://x.com/byteoxo/status/2118657897739743717",
+      "via": "x-direct",
+      "has_slots": false,
+      "prompt_unavailable": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118657897739743717",
+        "published_at": "Fri Nov 06 10:53:00 +0000 2026",
+        "prompt_source": "none",
+        "model_claim": "实测：codex里面无法直接调用gpt image 2.6原生生成gif动图的，让他去生成gif动图，是给我生成分镜图，或者几个图片然后去合成gif",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "none-single-v3",
+        "source_text_sha256": "ec7844f69cfcf89f7caa602a5c3f52dcded1e6f725f07c224b670151a6fd9159",
+        "run_id": "104f3ee1-6985-456f-803f-48e7b698e439",
+        "raw_sha256": "0dae6d2e814cef918ac1cb90ee4e9ce39bc07595488479f3a96c4ede04d06cf4",
+        "result_media_ids": [
+          "2118642531470901248",
+          "2118642843963248640"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.",
+          "zh-CN": "自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。"
+        }
+      }
+    },
+    {
+      "id": "2118675942898077837-body-prompt",
+      "title": "GPT Image 2.6 work by @tujiao",
+      "title_zh": "@tujiao 的 GPT Image 2.6 作品",
+      "category": "other",
+      "prompt": "",
+      "images": [
+        "/lab/media/prompts/blobs/0941bc757247556ec066e7b4934dec1aeb9856208adc3d8ea8a8bec867410f39.jpg",
+        "/lab/media/prompts/blobs/c80f2d953b60e830d5a110d93f0ab16edc3a35446799d33c90ad654558e7c495.jpg"
+      ],
+      "author": "tujiao",
+      "source_url": "https://x.com/tujiao/status/2118675942898077837",
+      "via": "x-direct",
+      "has_slots": false,
+      "prompt_unavailable": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118675942898077837",
+        "published_at": "Fri Nov 06 12:04:42 +0000 2026",
+        "prompt_source": "none",
+        "model_claim": "这两天ChatGPT发布了 gpt image 2.6，大家都在炫耀自己做的 gif 表情包，发现这个产品 https://t.co/Nb2SH6MSL0 可以直接在线上传一张自己喜欢的照片生成 24 张表情包，制作完后还可以直接修改表情文字。 #GPTImage26 #表情包 #gif #codex #emoimg https://t.co/CK8ckzBwiX",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "none-single-v3",
+        "source_text_sha256": "a0c651e448f5820fa3388f1b1d687a832c60d8c18388b664614bbc6b1d3ffc1a",
+        "run_id": "2e09c330-75f3-4f50-90f9-60676cf5ba51",
+        "raw_sha256": "d29908c89b605cb4bc8bb074927a8d2df4731ec56084f5479f3ae69dad4a1d56",
+        "result_media_ids": [
+          "2118674489898876928",
+          "2118674592193773568"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.",
+          "zh-CN": "自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。"
+        }
+      }
+    },
+    {
+      "id": "2118690776637161759-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create a poetic 3:4 vertical print poster using my uploaded photograph.\n\nFirst, carefully examine the photograph and identify its most distinctive elements that could naturally extend upward, such as flower branches, an animal’s head and neck, tree canopies, or other prominent subjects. Preserve the key elements of the original photograph and the spatial relationships between the main subject and its surroundings.\n\nOVERALL COMPOSITION:\n\nDesign the entire poster as one continuous, seamless composition.\n\nTop section (approximately 1/3): Create clean, warm-white negative space featuring two short lines of English poetry that complement the mood and atmosphere of the photograph.\n\nMiddle section: Select one short English word that reflects the photograph’s theme. Display it in large, elegant serif typography, stretching across the width of the composition. The oversized word must serve as the visual boundary between the upper negative space and the photograph below.\n\nAllow the main subject extracted from the original photograph to retain its realistic photographic appearance. Naturally extend it upward from the lower photographic scene, crossing the typographic boundary and partially overlapping some of the large letters as it enters the upper negative space. Maintain a believable physical connection between the subject and the original scene, with realistic overlap and depth, while ensuring that the word remains clearly readable.\n\nIMPORTANT: Do not create two separate images stacked on top of each other. The entire poster must feel like one continuous, integrated composition.\n\nPHOTOGRAPHIC TREATMENT AND ATMOSPHERE:\n\nApply a noticeable artistic atmospheric treatment to the main photograph. Choose lighting and colour grading that complement the original image, such as golden sunset light, soft spring sunlight, tranquil twilight tones, or luminous water reflections.\n\nEnhance the emotional atmosphere while preserving the recognisability and essential details of the original photograph.\n\nCOLOUR PRINT HALFTONE EFFECT:\n\nIncorporate fine, clearly visible, colourful circular halftone printing dots within the oversized typography and the stylised photographic areas.\n\n- Use cyan, blue, magenta, and yellow dots.\n- Allow subtle misregistration between the coloured dots to create an authentic vintage CMYK printing effect.\n- Make the halftone dots denser in darker areas and more widely spaced in brighter areas.\n- Preserve the main subject’s realistic photographic texture.\n- Keep the upper warm-white negative space relatively clean and uncluttered.\n\nORIGINAL PHOTO INSET:\n\nPlace a small thumbnail of the original, unedited photograph in the upper-right corner, occupying approximately 15–18% of the poster's total width.\n\n- Display the complete original photograph without any artistic filters or stylisation.\n- Add a delicate, thin border.\n- Include a small, neat \"ORIGINAL\" label.\n- Ensure the thumbnail does not obstruct the main typography or the subject extending across the visual boundary.\n\nFINAL ART DIRECTION:\n\nMaintain a restrained, poetic, sophisticated aesthetic with the appearance of a premium vintage editorial magazine print.\n\nEnsure all text is correctly spelled, accurately rendered, and visually balanced.\n\nNo additional titles, watermarks, unnecessary text, or unrelated decorative elements.",
+      "images": [
+        "/lab/media/prompts/blobs/92fe9b4e38a12f213884f48812938bf3220483cb76ba95b4c4b10edc8c71de78.jpg",
+        "/lab/media/prompts/blobs/6f861a541a16c0215fd0aed5208dcac2b55ae1f6717824aedfaa3466c63dcd3f.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2118690776637161759",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118690776637161759",
+        "published_at": "Fri Nov 06 13:03:39 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "5db6693dff7918c15095c1f58e277fd49316b192c3848b89f9936139c0b448d3",
+        "run_id": "b0dce952-b2f0-4723-a6dd-8cc2060aac90",
+        "raw_sha256": "638f4fa71e4d0dc61a77ac9bd05d45d369f65e474e84ca12623db0c12f4cb85c",
+        "result_media_ids": [
+          "2118690750867349504",
+          "2118690763932655616"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2118695917759119547-body-prompt",
+      "title": "Image prompt by @kriaszone",
+      "title_zh": "@kriaszone 分享的图片提示词",
+      "category": "other",
+      "prompt": "⬇️",
+      "images": [
+        "/lab/media/prompts/blobs/c2c1bae9e34ef8d3718a98a3f108034acb576eca627f76231bde896920d70eae.jpg"
+      ],
+      "author": "kriaszone",
+      "source_url": "https://x.com/kriaszone/status/2118695917759119547",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118695917759119547",
+        "published_at": "Fri Nov 06 13:24:04 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6 Flare #AIart #Prompt #GPTImage26",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "a9274514ecb6dc8cabec6dc0e0200fbbd2254ea442e37fcad58c37e9b504e0e3",
+        "run_id": "ce941480-4a4c-4e90-8873-a5731f4681ea",
+        "raw_sha256": "3774db3568e404e996f10842903c6750b1dcb94095254072a30ed9cbb8d63155",
+        "result_media_ids": [
+          "2118695590213369856"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118782100321275943-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create an extraordinarily detailed, whimsical miniature fantasy world inspired by [YOUR SUBJECT], designed entirely as an enchanting handcrafted textile and sewing-art diorama.\n\nCORE CONCEPT:\nTransform [YOUR SUBJECT] into a magical miniature village made entirely from sewing materials, including colorful buttons, spools of thread, sewing thimbles, embroidered fabrics, lace, yarn, felt, crochet, ribbons, and delicate stitching. The entire scene must look like an intricate handmade miniature world brought to life.\n\nARCHITECTURE & DETAILS:\nBuild charming miniature houses, whimsical towers, tiny shops, bridges, pathways, staircases, and decorative structures using sewing thimbles, stacked thread spools, wooden buttons, folded fabrics, and embroidered textile pieces. Incorporate oversized colorful buttons as circular village squares and stepping stones. Use thread spools as towers, thimbles as little houses, and delicate stitched fabrics as rooftops, walls, and surrounding landscapes.\n\nENVIRONMENT:\nCreate a richly layered miniature landscape with rolling fabric hills, patchwork pathways, embroidered flowers, tiny gardens, delicate lace fences, hanging threads, and miniature decorative details. Everything must appear physically handcrafted from real textile materials.\n\nMATERIALS & TEXTURES:\nShow incredibly realistic fabric fibers, visible embroidery stitches, woven linen, knitted yarn, soft felt, frayed fabric edges, delicate lace patterns, buttonholes, twisted threads, and intricate handmade craftsmanship. Every object must have convincing tactile texture.\n\nLIGHTING & ATMOSPHERE:\nUse warm, dreamy golden-hour lighting with soft sunlight streaming diagonally across the miniature world. Add tiny glowing lanterns, gentle atmospheric haze, delicate shadows, and beautiful depth. Create a magical, nostalgic fairytale atmosphere.\n\nCOLOR PALETTE:\nSoft dusty pink, warm beige, muted lavender, cream, blush, sage green, pastel blue, and subtle golden accents. Maintain a harmonious, sophisticated pastel color palette.\n\nCOMPOSITION:\nCreate a wide, immersive, three-dimensional miniature diorama viewed from a slightly elevated front-facing perspective. Fill the entire frame with intricate details, multiple layers of miniature architecture, and a beautifully constructed foreground, middle ground, and background. Make the scene feel like a photograph of an actual handcrafted miniature installation.\n\nVISUAL QUALITY:\nUltra-photorealistic miniature photography, extraordinary micro-details, realistic textile materials, exquisite handcrafted construction, cinematic depth of field, soft natural lighting, premium editorial photography, magical realism, and museum-quality miniature artistry.\n\nIMPORTANT:\nThe identity and recognizable characteristics of [YOUR SUBJECT] must remain central to the entire composition. Interpret the subject creatively through the miniature sewing-world aesthetic rather than simply placing an ordinary object inside the scene.\n\nNo cartoon appearance, no plastic materials, no CGI-looking surfaces, no flat illustration, no artificial-looking textures, no unrelated objects, no typography, no captions, no watermarks.\n\nThe final result must look like a breathtaking, physically handcrafted miniature textile fantasy village photographed with a professional macro camera.",
+      "images": [
+        "/lab/media/prompts/blobs/da341dfcc099669a8dcb6626a7994370ac4646b6389278af82dc526e37f339a7.jpg",
+        "/lab/media/prompts/blobs/7506f7593d0f208836f555648ac567d09a8ba2d7d5c2c27e5cb3886d6ab00fa7.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2118782100321275943",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118782100321275943",
+        "published_at": "Fri Nov 06 19:06:32 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "fd128e0f98f42f4dcf57526de01eab7733a16a1b4660921ecaa652752502787f",
+        "run_id": "ed28be10-e254-4b40-ad05-e2440f2347dc",
+        "raw_sha256": "84dd7d790c5e7ad82b81c8eedb9544503afefd70cba72e1b0045d6c79c5d2667",
+        "result_media_ids": [
+          "2118782069627297792",
+          "2118782085922197504"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118901753923965090-body-prompt",
+      "title": "Image prompt by @sdjn_wgc",
+      "title_zh": "@sdjn_wgc 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "场景：\n虚构创意时尚摄影，冲绳白沙海滩的正午。她刚游完泳，带着麦当劳外带午餐往遮阳伞走，红色纸袋上的金色拱门与薯条盒清楚可辨，海面和礁石退在背景，画面只有她一人。\n\n人物：\n绝美23岁东亚成年女性，身材匀称丰满，上围自然饱满圆润，与纤细腰部形成明显而真实的比例，不夸张。湿发扎成高马尾，橘调唇，鼻尖微红，被海风吹乱额发，忍不住笑出声。\n\n服装：\n上身穿着纯白细绳三角杯比基尼，颈后蝴蝶结系带，杯缘有细密罗纹包边。下身是做旧浅蓝低腰牛仔热裤，裤脚毛边，腰侧挂着细金链。外面一件奶油色亚麻衬衫完全敞开，下摆被风吹向身后。\n\n姿态与构图：\n4:5竖幅，35毫米镜头平视跟拍，从头顶拍至膝上，人物占满画面大半。身体朝左前方迈步，脸转回镜头，一手拎纸袋，另一手握着薯条盒；包装留在身侧，不遮挡泳装。\n\n环境与光：\n正午硬光在沙地投下利落影子，白沙反光照亮脸部，肤色自然。超写实海滨生活摄影，光圈f/4，泳衣罗纹、牛仔毛边与亚麻纤维分别清楚呈现。",
+      "images": [
+        "/lab/media/prompts/blobs/91d9a9bb3549ec2ccb8f434ada5475225f256d928a35b10ccabfcd24531d5518.jpg"
+      ],
+      "author": "sdjn_wgc",
+      "source_url": "https://x.com/sdjn_wgc/status/2118901753923965090",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118901753923965090",
+        "published_at": "Sat Nov 07 03:02:00 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "今天GPT出图，畸形的概率超高，60%的畸形率。GPT Image 2.6果然牛逼。",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "4ec1d6d276608790d8424c40aa6d6b8612509e54f0aff3243c8a42807453a4a8",
+        "run_id": "58ff7afc-9d13-46a1-a741-7bec8ffe974d",
+        "raw_sha256": "5f0d745283c50591e91216f63de7cab2f7b55779f2c475b8bfa8de1f6ac621f8",
+        "result_media_ids": [
+          "2118901741483692032"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118908691311112213-body-prompt",
+      "title": "Image prompt by @johnAGI168",
+      "title_zh": "@johnAGI168 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "A cinematic 16:9 intimate still photograph captured at chest height during golden hour — a waist-up medium two-shot of an exceptionally handsome young East Asian man embracing a gorgeous young East Asian woman from behind in a high-rise bedroom.\n\nThe strikingly handsome young Asian man has tousled ash-blonde wavy hair with curtain bangs, a small silver ear cartilage hoop, a razor-sharp jawline, and athletic broad shoulders in a fitted charcoal-black cotton t-shirt. Holding her waist tightly from behind, his lips are pressed tenderly into the sensitive curve of her neck and shoulder. The stunning young Asian woman has warm caramel-ginger hair woven into a loose side braid with wispy face-framing strands, flushed ears and cheeks, and captivating emerald-green eyes glancing back over her shoulder with a breathless, vulnerable smile in a fitted white cotton tee.\n\nThe setting is an upscale, dimly lit modern suite with floor-to-ceiling windows overlooking a sunset cityscape. Rich golden-hour light casts warm amber rim lighting across their hair and shoulders, while the interior settles into soft, moody twilight shadows with subtle atmospheric depth.\n\nCaptured on a 50mm cinema prime at f/1.8 with gentle highlight halation, creamy bokeh, and fine 35mm film grain in an M1 narrative register. Genuine human skin with fine pores, biological warmth, and authentic cotton fabric folds — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.",
+      "images": [
+        "/lab/media/prompts/blobs/a01e5dcf5229e956bfff6520ebf20d6b36d0b544f27fcd34971d0db4fc38b76f.jpg"
+      ],
+      "author": "johnAGI168",
+      "source_url": "https://x.com/johnAGI168/status/2118908691311112213",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118908691311112213",
+        "published_at": "Sat Nov 07 03:29:34 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "ChatGPT Images 2.6 📷 prompt 👇",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "a3993f124c49163439f58d9cba120572b109d5a85cd6fbbd8b9818d8df4bfc44",
+        "run_id": "f1e9d82f-0a29-4c31-8b47-a9c6c2be390c",
+        "raw_sha256": "985ee90059747ddccaa0dafa976a7b5c3bb06843761519e340d060f454fbac82",
+        "result_media_ids": [
+          "2118908681286782976"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118925189329420653-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Cinematic Streetwear Editorial Portrait\n\nCreate an ultra-realistic, high-end fashion editorial photograph of a beautiful young European woman in her early 20s, captured in a candid close-up street-style portrait. She has naturally fair skin, delicate facial features, expressive light hazel-green eyes, softly defined lips, and long, voluminous dark brunette hair falling naturally around her face, with a few loose strands crossing her forehead.\n\nOutfit & Styling:\nShe wears an oversized, washed-black heavyweight hoodie with the hood pulled over her head. The hoodie features a subtle, minimalist embroidered logo on the chest, with a relaxed silhouette and premium cotton texture. Her styling is effortlessly understated, contemporary, and editorial.\n\nPose & Expression:\nStanding still in a crowded urban environment, she looks directly into the camera with a calm, slightly mysterious, emotionally neutral expression. Her head is subtly turned, shoulders relaxed, and hair moves naturally across her face. Capture an authentic, spontaneous street-photography moment.\n\nEnvironment & Composition:\nA softly blurred crowd of people surrounds her, creating layered foreground and background depth. Include out-of-focus figures wearing dark clothing, with warm skin tones and indistinct urban surroundings. Keep the woman perfectly sharp and visually separated from the environment through shallow depth of field.\n\nLighting & Color Grading:\nNatural warm-brunette daylight falling softly across her face, subtle highlights on her skin, gentle shadows beneath the hood, and a cinematic balance of cool charcoal blues and warm earthy skin tones. Muted, desaturated color palette with deep blacks, subtle film grain, and rich tonal contrast.\n\nCamera & Technical Details:\nShot on an 85mm portrait lens at f/1.2, extreme shallow depth of field, precise eye focus, creamy optical bokeh, cinematic subject isolation, natural skin texture, realistic individual hair strands, authentic fabric details, professional full-frame photography, premium fashion campaign aesthetic.\n\nOverall Aesthetic: Luxury streetwear editorial, candid European street photography, understated cinematic mood, photorealistic, sophisticated, atmospheric, and effortlessly fashionable.\n\nAspect Ratio: 4:5 | Style: Photorealistic Editorial Photography",
+      "images": [
+        "/lab/media/prompts/blobs/f92bb720dc09097a4b2d8cbb2a515720b9915c2e5e1a87a18eb5c6cc902c4f48.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2118925189329420653",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118925189329420653",
+        "published_at": "Sat Nov 07 04:35:07 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "4a52b9ec644da309090d137150873e96ade7e769d0a82595b8238e1659a5a269",
+        "run_id": "14e28dbc-19bc-44d4-adc0-004a1716c0cd",
+        "raw_sha256": "bd61612fbf37a936af53737c4934c6716a9d948f689adc84ff8a57531495f8e9",
+        "result_media_ids": [
+          "2118925178583572480"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118968665769197976-body-prompt",
+      "title": "Image prompt by @Naiknelofar788",
+      "title_zh": "@Naiknelofar788 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods.\n\nInstead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination.\n\nThe iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame.\n\nPhotography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain.\n\nMood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic.\n\nCamera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures.\n\nVertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.",
+      "images": [
+        "/lab/media/prompts/blobs/03d248b80e19289d48a886d91b20e5b09613f18ecf8de877e6c33729afcb65ae.jpg",
+        "/lab/media/prompts/blobs/008b973590e446ab344dd1d213266047f2d5f8d6d0449b9f470f33d88cf42ba1.jpg",
+        "/lab/media/prompts/blobs/ec3f0d0da7cf2d6e47877858a6d69bb81eb33c5b10b521e29a06a82aae28dbd6.jpg"
+      ],
+      "author": "Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2118968665769197976",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118968665769197976",
+        "published_at": "Sat Nov 07 07:27:53 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "ff363898090815afae9b3d05fe08355018b6d63c7b734bf353baf987f159f92f",
+        "run_id": "5d00b65e-fbe3-47b4-b555-6b71f6adcf10",
+        "raw_sha256": "c32f10df4e2a6654aeb4169af8b32f46bc3f00920d4f246d7e07e0f510b6395f",
+        "result_media_ids": [
+          "2118968646475419648",
+          "2118968646450257920",
+          "2118968646479581184"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2118971356578742730-body-prompt",
+      "title": "GPT Image 2.6 work by @notoro_ai",
+      "title_zh": "@notoro_ai 的 GPT Image 2.6 作品",
+      "category": "other",
+      "prompt": "",
+      "images": [
+        "/lab/media/prompts/blobs/35932372c77ad38783bd5c0c085685ebdf17db530f776b30a6db329c027dffe3.jpg",
+        "/lab/media/prompts/blobs/c945c7cbac374988257321cdb92e83084f1872909b1550b0d2d7c05eaeb45737.jpg",
+        "/lab/media/prompts/blobs/f342fdcef8d7c6762d5d9f0066d0d9a71018a1dc2b10e8c608fecd23c8fb1ff1.jpg",
+        "/lab/media/prompts/blobs/21c18a8b3fbcae5a02824f22238461a516f3a026da5d46e49f07e35995157e4e.jpg"
+      ],
+      "author": "notoro_ai",
+      "source_url": "https://x.com/notoro_ai/status/2118971356578742730",
+      "via": "x-direct",
+      "has_slots": false,
+      "prompt_unavailable": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2118971356578742730",
+        "published_at": "Sat Nov 07 07:38:34 +0000 2026",
+        "prompt_source": "none",
+        "model_claim": "GPT Image 2.6の登場後も、GPT Image 2.5の画風や迫力を求める声が多かったので、その魅力の再現を目指しました。",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "none-single-v3",
+        "source_text_sha256": "20ce386c0c36c60b300824f30ed56e1c67b3b7ad0a5d40562f0c6d42ab8f4af4",
+        "run_id": "89400cfe-01dc-4cac-851a-2d3ebf0a6529",
+        "raw_sha256": "d0f06fae36a4629952c41a7bdb99634bcc03707773a799083bd3c2dfb248a7ad",
+        "result_media_ids": [
+          "2118968153690779649",
+          "2118968329688006656",
+          "2118968253947281408",
+          "2118968358653829120"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.",
+          "zh-CN": "自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。"
+        }
+      }
+    },
+    {
+      "id": "2119083132691615772-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.\n\nCORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.\n\nPHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.\n\nThe main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.\n\nTYPOGRAPHIC DESIGN:\n\n- Add an enormous, bold, uppercase headline featuring the main subject or activity.\n- Use condensed extra-bold sans-serif typography.\n- Position the headline across the lower-middle portion of the poster.\n- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.\n- Choose typography colors that contrast beautifully with the photograph.\n- Include subtle microtypography, thin horizontal divider lines, and editorial labels.\n\nEDITORIAL DETAILS: Include sophisticated magazine-style elements:\n\n- Small uppercase category label at the top.\n- Edition number: EDITION 01.\n- Small subtitle describing the activity or environment.\n- Minimalist footer branding: VISUAL STUDIES.\n- Short editorial tagline: THE ART OF [MAIN SUBJECT].\n- Subtle technical coordinates or location details where appropriate.\n\nVISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.\n\nLAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.\n\nIMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.",
+      "images": [
+        "/lab/media/prompts/blobs/f7355012b07ccf59a455a762741e3b82a0f80595f13532eb83b204a46c89fe48.jpg",
+        "/lab/media/prompts/blobs/b2e4fb14b9d312607ecd9a95de860d8d0b7c6ade41974fd2a4bbdc8274434d59.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2119083132691615772",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2119083132691615772",
+        "published_at": "Sat Nov 07 15:02:44 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "43d5bee4772b46fb2fe2c394a54aab5aa25cdd099a66b06379932d7a04d5aff6",
+        "run_id": "755a9b02-62fd-4d0b-bb3e-a6982cf822e3",
+        "raw_sha256": "6f99b2945e293953864e476fe4928d11dbf691abbe328bc557f471b07702d264",
+        "result_media_ids": [
+          "2119083106296877056",
+          "2119083118611304448"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2119096833293402157-body-prompt",
+      "title": "Image prompt by @MrLarus",
+      "title_zh": "@MrLarus 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create a premium 9:16 street-style editorial advertising poster.\n\nBrand: [Brand Name]\nProduct: [Product & Color]\nHeadline: [Main Headline]\nTagline: [Short Slogan]\nModel & Outfit: [Character & Styling]\nScene: [Urban Location]\nColor Palette: [Main Colors]\n\nPhotography & Composition\n\nUse realistic street photography with a dramatic high-angle or wide-angle perspective. Feature a stylish adult model naturally interacting with the product. Make the product clearly visible and visually prominent through perspective, positioning, and realistic physical interaction.\n\nPreserve authentic skin texture, natural fabric folds, detailed materials, urban surfaces, directional sunlight, strong shadows, and subtle digital film grain.\n\nTypography & Layout\n\nCombine oversized bold typography with contrasting italic serif or script lettering. Integrate text into the photographic composition through natural layering, cropping, and selective foreground-background occlusion.\n\nInclude a small brand header, a striking headline, concise supporting copy, and refined product details near the bottom. Maintain rich editorial information density without clutter.\n\nVisual Direction\n\nUse a muted urban background with one dominant accent color that connects the product and typography. Keep the design energetic, fashionable, and commercially polished.\n\nEnsure accurate, readable English text, realistic anatomy, coherent lighting, and believable product details. Avoid generic templates, excessive UI elements, unnecessary decorations, random text, watermarks, and artificial CGI aesthetics.\n\nThe final image should feel like a professionally art-directed streetwear or lifestyle brand campaign.",
+      "images": [
+        "/lab/media/prompts/blobs/481ff62395d5be7b6a3bef5552157efc1289d8d3b5822865e37426ff46ccf976.jpg",
+        "/lab/media/prompts/blobs/2d1c203e3b987641275d178581bced12c1a51386ea489ee489dd8cc068257639.jpg",
+        "/lab/media/prompts/blobs/b4d2eb03cfe2cb99fe47c6b3db0325eddc2c290ae60a322ecbfeef2fd5c96415.jpg",
+        "/lab/media/prompts/blobs/0931738108dfae903a09e8e792409cc7446109a08507d16cc234481e35e5be4d.jpg"
+      ],
+      "author": "MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2119096833293402157",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2119096833293402157",
+        "published_at": "Sat Nov 07 15:57:10 +0000 2026",
+        "prompt_source": "self-thread",
+        "model_claim": "🤯 ChatGPT Images 2.6 makes street-style brand posters look incredible!",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "self-thread-single-v3",
+        "source_text_sha256": "60890a0012d8a90ff1271c1015ef36ab2109728a2bd023387b58ac528acc55f8",
+        "run_id": "d5186d43-e157-47b2-a7a0-cf10b653374e",
+        "raw_sha256": "ded0709379470595e551e5643c54f892c995460cc6ebf24605bcd0ce56408cc5",
+        "result_media_ids": [
+          "2119096534470148096",
+          "2119096534461775872",
+          "2119096554447622144",
+          "2119096567370326016"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author shared the prompt in a follow-up tweet of the same thread. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "自动收录：作者在同一串推文的下一条中分享了提示词。模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
         }
       }
     }

@@ -478,3 +478,317 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 ```
 
 此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@SUOHA\_AI 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118564255867777123-body-prompt)
+
+[@SUOHA_AI](https://x.com/SUOHA_AI/status/2118564255867777123)
+
+[播放动图 1](https://www.sandbase.ai/lab/media/prompts/blobs/3170abcdcf30123c81e069d68962cf9a2b34a64007e8857829a1d806135ce5d0.mp4)
+
+自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。
+
+**作品示例：作者未公开提示词。**
+
+## [@byteoxo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118657897739743717-body-prompt)
+
+[@byteoxo](https://x.com/byteoxo/status/2118657897739743717)
+
+自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。
+
+**作品示例：作者未公开提示词。**
+
+## [@tujiao 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118675942898077837-body-prompt)
+
+[@tujiao](https://x.com/tujiao/status/2118675942898077837)
+
+自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。
+
+**作品示例：作者未公开提示词。**
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118690776637161759-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118690776637161759)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+Create a poetic 3:4 vertical print poster using my uploaded photograph.
+
+First, carefully examine the photograph and identify its most distinctive elements that could naturally extend upward, such as flower branches, an animal’s head and neck, tree canopies, or other prominent subjects. Preserve the key elements of the original photograph and the spatial relationships between the main subject and its surroundings.
+
+OVERALL COMPOSITION:
+
+Design the entire poster as one continuous, seamless composition.
+
+Top section (approximately 1/3): Create clean, warm-white negative space featuring two short lines of English poetry that complement the mood and atmosphere of the photograph.
+
+Middle section: Select one short English word that reflects the photograph’s theme. Display it in large, elegant serif typography, stretching across the width of the composition. The oversized word must serve as the visual boundary between the upper negative space and the photograph below.
+
+Allow the main subject extracted from the original photograph to retain its realistic photographic appearance. Naturally extend it upward from the lower photographic scene, crossing the typographic boundary and partially overlapping some of the large letters as it enters the upper negative space. Maintain a believable physical connection between the subject and the original scene, with realistic overlap and depth, while ensuring that the word remains clearly readable.
+
+IMPORTANT: Do not create two separate images stacked on top of each other. The entire poster must feel like one continuous, integrated composition.
+
+PHOTOGRAPHIC TREATMENT AND ATMOSPHERE:
+
+Apply a noticeable artistic atmospheric treatment to the main photograph. Choose lighting and colour grading that complement the original image, such as golden sunset light, soft spring sunlight, tranquil twilight tones, or luminous water reflections.
+
+Enhance the emotional atmosphere while preserving the recognisability and essential details of the original photograph.
+
+COLOUR PRINT HALFTONE EFFECT:
+
+Incorporate fine, clearly visible, colourful circular halftone printing dots within the oversized typography and the stylised photographic areas.
+
+- Use cyan, blue, magenta, and yellow dots.
+- Allow subtle misregistration between the coloured dots to create an authentic vintage CMYK printing effect.
+- Make the halftone dots denser in darker areas and more widely spaced in brighter areas.
+- Preserve the main subject’s realistic photographic texture.
+- Keep the upper warm-white negative space relatively clean and uncluttered.
+
+ORIGINAL PHOTO INSET:
+
+Place a small thumbnail of the original, unedited photograph in the upper-right corner, occupying approximately 15–18% of the poster's total width.
+
+- Display the complete original photograph without any artistic filters or stylisation.
+- Add a delicate, thin border.
+- Include a small, neat "ORIGINAL" label.
+- Ensure the thumbnail does not obstruct the main typography or the subject extending across the visual boundary.
+
+FINAL ART DIRECTION:
+
+Maintain a restrained, poetic, sophisticated aesthetic with the appearance of a premium vintage editorial magazine print.
+
+Ensure all text is correctly spelled, accurately rendered, and visually balanced.
+
+No additional titles, watermarks, unnecessary text, or unrelated decorative elements.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@kriaszone 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118695917759119547-body-prompt)
+
+[@kriaszone](https://x.com/kriaszone/status/2118695917759119547)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+⬇️
+```
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118782100321275943-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118782100321275943)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create an extraordinarily detailed, whimsical miniature fantasy world inspired by [YOUR SUBJECT], designed entirely as an enchanting handcrafted textile and sewing-art diorama.
+
+CORE CONCEPT:
+Transform [YOUR SUBJECT] into a magical miniature village made entirely from sewing materials, including colorful buttons, spools of thread, sewing thimbles, embroidered fabrics, lace, yarn, felt, crochet, ribbons, and delicate stitching. The entire scene must look like an intricate handmade miniature world brought to life.
+
+ARCHITECTURE & DETAILS:
+Build charming miniature houses, whimsical towers, tiny shops, bridges, pathways, staircases, and decorative structures using sewing thimbles, stacked thread spools, wooden buttons, folded fabrics, and embroidered textile pieces. Incorporate oversized colorful buttons as circular village squares and stepping stones. Use thread spools as towers, thimbles as little houses, and delicate stitched fabrics as rooftops, walls, and surrounding landscapes.
+
+ENVIRONMENT:
+Create a richly layered miniature landscape with rolling fabric hills, patchwork pathways, embroidered flowers, tiny gardens, delicate lace fences, hanging threads, and miniature decorative details. Everything must appear physically handcrafted from real textile materials.
+
+MATERIALS & TEXTURES:
+Show incredibly realistic fabric fibers, visible embroidery stitches, woven linen, knitted yarn, soft felt, frayed fabric edges, delicate lace patterns, buttonholes, twisted threads, and intricate handmade craftsmanship. Every object must have convincing tactile texture.
+
+LIGHTING & ATMOSPHERE:
+Use warm, dreamy golden-hour lighting with soft sunlight streaming diagonally across the miniature world. Add tiny glowing lanterns, gentle atmospheric haze, delicate shadows, and beautiful depth. Create a magical, nostalgic fairytale atmosphere.
+
+COLOR PALETTE:
+Soft dusty pink, warm beige, muted lavender, cream, blush, sage green, pastel blue, and subtle golden accents. Maintain a harmonious, sophisticated pastel color palette.
+
+COMPOSITION:
+Create a wide, immersive, three-dimensional miniature diorama viewed from a slightly elevated front-facing perspective. Fill the entire frame with intricate details, multiple layers of miniature architecture, and a beautifully constructed foreground, middle ground, and background. Make the scene feel like a photograph of an actual handcrafted miniature installation.
+
+VISUAL QUALITY:
+Ultra-photorealistic miniature photography, extraordinary micro-details, realistic textile materials, exquisite handcrafted construction, cinematic depth of field, soft natural lighting, premium editorial photography, magical realism, and museum-quality miniature artistry.
+
+IMPORTANT:
+The identity and recognizable characteristics of [YOUR SUBJECT] must remain central to the entire composition. Interpret the subject creatively through the miniature sewing-world aesthetic rather than simply placing an ordinary object inside the scene.
+
+No cartoon appearance, no plastic materials, no CGI-looking surfaces, no flat illustration, no artificial-looking textures, no unrelated objects, no typography, no captions, no watermarks.
+
+The final result must look like a breathtaking, physically handcrafted miniature textile fantasy village photographed with a professional macro camera.
+```
+
+## [@sdjn\_wgc 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118901753923965090-body-prompt)
+
+[@sdjn_wgc](https://x.com/sdjn_wgc/status/2118901753923965090)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+场景：
+虚构创意时尚摄影，冲绳白沙海滩的正午。她刚游完泳，带着麦当劳外带午餐往遮阳伞走，红色纸袋上的金色拱门与薯条盒清楚可辨，海面和礁石退在背景，画面只有她一人。
+
+人物：
+绝美23岁东亚成年女性，身材匀称丰满，上围自然饱满圆润，与纤细腰部形成明显而真实的比例，不夸张。湿发扎成高马尾，橘调唇，鼻尖微红，被海风吹乱额发，忍不住笑出声。
+
+服装：
+上身穿着纯白细绳三角杯比基尼，颈后蝴蝶结系带，杯缘有细密罗纹包边。下身是做旧浅蓝低腰牛仔热裤，裤脚毛边，腰侧挂着细金链。外面一件奶油色亚麻衬衫完全敞开，下摆被风吹向身后。
+
+姿态与构图：
+4:5竖幅，35毫米镜头平视跟拍，从头顶拍至膝上，人物占满画面大半。身体朝左前方迈步，脸转回镜头，一手拎纸袋，另一手握着薯条盒；包装留在身侧，不遮挡泳装。
+
+环境与光：
+正午硬光在沙地投下利落影子，白沙反光照亮脸部，肤色自然。超写实海滨生活摄影，光圈f/4，泳衣罗纹、牛仔毛边与亚麻纤维分别清楚呈现。
+```
+
+## [@johnAGI168 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118908691311112213-body-prompt)
+
+[@johnAGI168](https://x.com/johnAGI168/status/2118908691311112213)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+A cinematic 16:9 intimate still photograph captured at chest height during golden hour — a waist-up medium two-shot of an exceptionally handsome young East Asian man embracing a gorgeous young East Asian woman from behind in a high-rise bedroom.
+
+The strikingly handsome young Asian man has tousled ash-blonde wavy hair with curtain bangs, a small silver ear cartilage hoop, a razor-sharp jawline, and athletic broad shoulders in a fitted charcoal-black cotton t-shirt. Holding her waist tightly from behind, his lips are pressed tenderly into the sensitive curve of her neck and shoulder. The stunning young Asian woman has warm caramel-ginger hair woven into a loose side braid with wispy face-framing strands, flushed ears and cheeks, and captivating emerald-green eyes glancing back over her shoulder with a breathless, vulnerable smile in a fitted white cotton tee.
+
+The setting is an upscale, dimly lit modern suite with floor-to-ceiling windows overlooking a sunset cityscape. Rich golden-hour light casts warm amber rim lighting across their hair and shoulders, while the interior settles into soft, moody twilight shadows with subtle atmospheric depth.
+
+Captured on a 50mm cinema prime at f/1.8 with gentle highlight halation, creamy bokeh, and fine 35mm film grain in an M1 narrative register. Genuine human skin with fine pores, biological warmth, and authentic cotton fabric folds — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
+```
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118925189329420653-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118925189329420653)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Cinematic Streetwear Editorial Portrait
+
+Create an ultra-realistic, high-end fashion editorial photograph of a beautiful young European woman in her early 20s, captured in a candid close-up street-style portrait. She has naturally fair skin, delicate facial features, expressive light hazel-green eyes, softly defined lips, and long, voluminous dark brunette hair falling naturally around her face, with a few loose strands crossing her forehead.
+
+Outfit & Styling:
+She wears an oversized, washed-black heavyweight hoodie with the hood pulled over her head. The hoodie features a subtle, minimalist embroidered logo on the chest, with a relaxed silhouette and premium cotton texture. Her styling is effortlessly understated, contemporary, and editorial.
+
+Pose & Expression:
+Standing still in a crowded urban environment, she looks directly into the camera with a calm, slightly mysterious, emotionally neutral expression. Her head is subtly turned, shoulders relaxed, and hair moves naturally across her face. Capture an authentic, spontaneous street-photography moment.
+
+Environment & Composition:
+A softly blurred crowd of people surrounds her, creating layered foreground and background depth. Include out-of-focus figures wearing dark clothing, with warm skin tones and indistinct urban surroundings. Keep the woman perfectly sharp and visually separated from the environment through shallow depth of field.
+
+Lighting & Color Grading:
+Natural warm-brunette daylight falling softly across her face, subtle highlights on her skin, gentle shadows beneath the hood, and a cinematic balance of cool charcoal blues and warm earthy skin tones. Muted, desaturated color palette with deep blacks, subtle film grain, and rich tonal contrast.
+
+Camera & Technical Details:
+Shot on an 85mm portrait lens at f/1.2, extreme shallow depth of field, precise eye focus, creamy optical bokeh, cinematic subject isolation, natural skin texture, realistic individual hair strands, authentic fabric details, professional full-frame photography, premium fashion campaign aesthetic.
+
+Overall Aesthetic: Luxury streetwear editorial, candid European street photography, understated cinematic mood, photorealistic, sophisticated, atmospheric, and effortlessly fashionable.
+
+Aspect Ratio: 4:5 | Style: Photorealistic Editorial Photography
+```
+
+## [@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118968665769197976-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2118968665769197976)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods.
+
+Instead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination.
+
+The iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame.
+
+Photography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain.
+
+Mood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic.
+
+Camera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures.
+
+Vertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.
+```
+
+## [@notoro\_ai 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2118971356578742730-body-prompt)
+
+[@notoro_ai](https://x.com/notoro_ai/status/2118971356578742730)
+
+自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。
+
+**作品示例：作者未公开提示词。**
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119083132691615772-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2119083132691615772)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+TYPOGRAPHIC DESIGN:
+
+- Add an enormous, bold, uppercase headline featuring the main subject or activity.
+- Use condensed extra-bold sans-serif typography.
+- Position the headline across the lower-middle portion of the poster.
+- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+- Choose typography colors that contrast beautifully with the photograph.
+- Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+- Small uppercase category label at the top.
+- Edition number: EDITION 01.
+- Small subtitle describing the activity or environment.
+- Minimalist footer branding: VISUAL STUDIES.
+- Short editorial tagline: THE ART OF [MAIN SUBJECT].
+- Subtle technical coordinates or location details where appropriate.
+
+VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.
+```
+
+## [@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119096833293402157-body-prompt)
+
+[@MrLarus](https://x.com/MrLarus/status/2119096833293402157)
+
+自动收录：作者在同一串推文的下一条中分享了提示词。模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create a premium 9:16 street-style editorial advertising poster.
+
+Brand: [Brand Name]
+Product: [Product & Color]
+Headline: [Main Headline]
+Tagline: [Short Slogan]
+Model & Outfit: [Character & Styling]
+Scene: [Urban Location]
+Color Palette: [Main Colors]
+
+Photography & Composition
+
+Use realistic street photography with a dramatic high-angle or wide-angle perspective. Feature a stylish adult model naturally interacting with the product. Make the product clearly visible and visually prominent through perspective, positioning, and realistic physical interaction.
+
+Preserve authentic skin texture, natural fabric folds, detailed materials, urban surfaces, directional sunlight, strong shadows, and subtle digital film grain.
+
+Typography & Layout
+
+Combine oversized bold typography with contrasting italic serif or script lettering. Integrate text into the photographic composition through natural layering, cropping, and selective foreground-background occlusion.
+
+Include a small brand header, a striking headline, concise supporting copy, and refined product details near the bottom. Maintain rich editorial information density without clutter.
+
+Visual Direction
+
+Use a muted urban background with one dominant accent color that connects the product and typography. Keep the design energetic, fashionable, and commercially polished.
+
+Ensure accurate, readable English text, realistic anatomy, coherent lighting, and believable product details. Avoid generic templates, excessive UI elements, unnecessary decorations, random text, watermarks, and artificial CGI aesthetics.
+
+The final image should feel like a professionally art-directed streetwear or lifestyle brand campaign.
+```
