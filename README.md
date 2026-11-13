@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 Images, animations and original prompts from X creators, curated by [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**42 examples: 26 prompts · 16 work examples** · Lab snapshot: 2026-11-08T01:38:19.690Z.
+**64 examples: 46 prompts · 18 work examples** · Lab snapshot: 2026-11-13T21:07:38.930Z.
 
 Model attribution follows the original creator’s claim. The variant may be unknown; SandBase has not rerun these examples. Images and prompts remain their creators’ work.
 
@@ -912,6 +912,600 @@ Ensure accurate, readable English text, realistic anatomy, coherent lighting, an
 
 The final image should feel like a professionally art-directed streetwear or lifestyle brand campaign.
 ```
+
+## [Image prompt by @johnAGI168](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119277962939818026-body-prompt)
+
+[@johnAGI168](https://x.com/johnAGI168/status/2119277962939818026)
+
+[![Image prompt by @johnAGI168](https://www.sandbase.ai/lab/media/prompts/blobs/0870ee4b2939b68c5df285b51fda3f64d767215891ebdc014d8a09aea0bbb8ad.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119277962939818026-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+A cinematic vertical 3:4 romantic photograph capturing a sweet, youthful first-love still in bright, airy light — a tender medium close-up of a handsome 19-year-old East Asian boy gently embracing a cute, fresh-faced 18-year-old East Asian girl from behind.
+
+The girl has delicate, baby-soft facial features, luminous fair skin, soft pink-blushed cheeks, and a youthful short layered bob with wispy see-through bangs and a tiny silver crescent-moon hairclip. Smiling shyly with eyes softly closed, she wears an oversized slouchy dark knit sweater slipping casually off one shoulder, her hands adorably tucked into the long ribbed sleeves at her chest. The boy has fresh boyish charm, fluffy tousled dark hair, and a small silver ear hoop in a casual dark hoodie, leaning his cheek tenderly against her neck and ear in pure adolescent devotion.
+
+The setting is a bright, sun-drenched minimalist room with soft translucent morning light. The color grading is clean, airy, and gently desaturated with pastel warmth, emphasizing their youthful glow and innocent romance without heavy shadows.
+
+Captured on a 50mm portrait prime at f/1.8 with light diffusion bloom, creamy bokeh, and fine 35mm film grain in a youthful Japanese indie romance register. Fresh, natural human skin with delicate pores, youthful biological flush, and realistic soft knit wool texture — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119349664222986691-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2119349664222986691)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/21925b6604c059d7342dc184f44643355c7b2aad5e0dec5fdf75e8de9dcaad97.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119349664222986691-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an ultra-photorealistic, spontaneous street photograph captured from a slightly elevated angle, as if casually photographed by a passerby standing on a staircase.
+
+SUBJECT & POSE:
+A strikingly beautiful young adult East Asian woman pauses on a sunlit sidewalk while adjusting the strap of her backpack. Her head is slightly tilted upward, looking directly toward the camera with a naturally surprised, half-smiling, unguarded expression. Capture an authentic split-second candid moment rather than a deliberate fashion pose.
+
+She has a slightly messy low ponytail with loose flyaway strands framing her face. She wears a pale blue long-sleeved blouse with delicate ruffled detailing and carries a cream-colored canvas tote bag.
+
+COMPOSITION & ENVIRONMENT:
+
+- Vertical 9:16 composition.
+- Slightly elevated, spontaneous street-photography perspective.
+- Subject positioned slightly off-center.
+- Out-of-focus white blossoms and a dark metal railing partially obscure the foreground, creating natural visual depth.
+- Soft stone pavement extends beneath her and gradually fades into the background.
+- Strong foreground blur with shallow depth of field.
+- Natural, imperfect framing, as if captured unexpectedly by someone passing by.
+
+LIGHTING & COLOR:
+Bright midday sunlight with a mixture of soft and harsh natural light. Realistic shadows beneath her chin, subtle highlights on her hair and face, and slightly uneven exposure. Preserve the authentic warmth of daylight without artificial studio illumination.
+
+SKIN & FACIAL REALISM:
+Extremely realistic human skin with visible pores, subtle cheek redness, delicate skin texture, tiny natural imperfections, realistic facial asymmetry, and authentic expression lines. Preserve natural facial proportions and believable anatomy. Absolutely no plastic, waxy, excessively smooth, or airbrushed skin.
+
+CAMERA & FILM AESTHETIC:
+Medium-format film photography, Kodak Portra 160-inspired color science, organic color rendering, shallow depth of field, soft optical falloff, pronounced authentic film grain, subtle vignette, delicate highlight roll-off, and natural photographic imperfections.
+
+The final photograph should feel like an accidental frame from an independent street-photography magazine: intimate, spontaneous, imperfect, atmospheric, and genuinely photographic.
+
+WATERMARK:
+Add a small, subtle lowercase cursive watermark reading "bundachemy" in the bottom-right corner.
+
+NEGATIVE CONSTRAINTS:
+No artificial beauty filters, plastic skin, airbrushing, excessive retouching, CGI appearance, 3D rendering, HDR processing, oversharpening, artificial bokeh, studio lighting, exaggerated facial features, unnatural expressions, or synthetic textures.
+
+OUTPUT: Vertical 9:16, highly detailed photorealism, authentic analog film aesthetic, natural candid photography.
+```
+
+## [Image prompt by @ianneo\_ai](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119396099786146181-body-prompt)
+
+[@ianneo_ai](https://x.com/ianneo_ai/status/2119396099786146181)
+
+[![Image prompt by @ianneo\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/5f2854fef1a679a1a0c3de61d1fc9228bd8101293c8077745b56985d028e2ad6.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119396099786146181-body-prompt)
+[![Image prompt by @ianneo\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/2e847bddab98289b8a674fd7ab2072f71659d6b68313906870521eacc5c5fa5f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119396099786146181-body-prompt)
+[![Image prompt by @ianneo\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/6b13f40ae63082f6943b3080d6c967799b13ad40aa8e0f81539270f3a2af85b5.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119396099786146181-body-prompt)
+
+Automatically indexed: the author shared the prompt in a follow-up tweet of the same thread. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+请深入分析我提供的【表情包图片／整套素材】。先判断它的角色性格、情绪气质和聊天用途，再拆解造型、比例、线条、配色、表情、动作、配字与构图如何共同产生效果。重点解释它为什么传神、有趣、让人想用，以及整套如何保持角色一致，又让每张有明显区别。结合具体图片说明共通规律与刻意例外，不只罗列特征或堆砌审美形容词。最终输出：整体风格判断、关键设计规律及实例、可用于制作新表情包的原则与边界，明确哪些特征应保留、哪些可以变化。看不到或无法判断的内容明确说明。先分析，不生成表情包。
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [GPT Image 2.6 work by @Syquboj](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420161820426278-body-prompt)
+
+[@Syquboj](https://x.com/Syquboj/status/2119420161820426278)
+
+[![GPT Image 2.6 work by @Syquboj](https://www.sandbase.ai/lab/media/prompts/blobs/2fb717f89320217c1ac9b98e0b276606198dfe874bc83c460169094975555308.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420161820426278-body-prompt)
+
+Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.
+
+**Work example: no prompt shared by the author.**
+
+## [Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420417505120765-body-prompt)
+
+[@DeepBlueX0](https://x.com/DeepBlueX0/status/2119420417505120765)
+
+[![Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/media/prompts/blobs/9ae54eb6edae2c4fe0b4088c098d3c2f7aac53629d5a113fda7aba2552baa698.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420417505120765-body-prompt)
+[![Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/media/prompts/blobs/69ed5f1bba57439437c49b24f27da5fa47246ba7584608b3a175ac1e4b277a0e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420417505120765-body-prompt)
+[![Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/media/prompts/blobs/735674e71f6a0e6a1258077b13a723f5582157e2038a05ff67fa922ca2190420.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420417505120765-body-prompt)
+[![Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/media/prompts/blobs/ba266301f16f2ed51fd9dd93bb56f884c90c7ef188295220e154d34c3dae8c55.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119420417505120765-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+尺度刻度尺 × 九級穿搭進化 × 帶私密感的生活場景 × iPhone失敗抓拍。
+
+每張隨機選擇一位24歲左右的漂亮成年東亞女性，以及一處有趣、真實、帶私密感或具有反差感的生活場景，自由設計符合情境的自然動作與事件。不同作品主動變化人物、場景和構圖。
+
+人物高挑修長、腰細腿長、胸腰曲線鮮明，體態自然協調。
+
+採用9:16竪版3×3九宮格，同一張圖內九格保持相同的人物、髮型、身材、場景、動作、機位與光線。
+
+九格僅改變服裝，按從左到右、從上到下的順序，由保守日常逐級發展為更加大膽、性感、顯身材的時尚造型。九級差異清晰，避免相鄰穿搭趨同。
+
+服裝款式、剪裁、材質和露膚程度開放探索，第九格呈現模型可生成的大膽時尚上限，保持真實可穿著性。
+
+頂部根據場景生成一句有趣的懸念標題。每格以小號手寫字標注1至9，並配一句3至6字的俏皮短評。文字排版簡潔克制，像照片上的隨手批注。
+
+整體呈現朋友用iPhone在生活現場隨手拍下的普通照片，帶一點失敗抓拍感與隨手拍失誤的真實感，避免精修感、海報感和網紅擺拍感。
+
+九格構圖對齊，細線分隔。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+
+畫幅9:16。
+n=5，單獨出5圖，不拼圖
+```
+
+## [Image prompt by @johnAGI168](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119424566023827509-body-prompt)
+
+[@johnAGI168](https://x.com/johnAGI168/status/2119424566023827509)
+
+[![Image prompt by @johnAGI168](https://www.sandbase.ai/lab/media/prompts/blobs/091bc11fbb6f7a29571c510ac5c1cd6cf7b7f75b1dc5e5a780342153bb12e8cf.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119424566023827509-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+A cinematic vertical 3:4 medium standing two-shot captured at eye level — a striking visual of an exceptionally tall, muscular young East Asian man standing closely behind a petite, delicate young East Asian woman in a bright, minimalist interior.
+
+The towering athletic man has messy, textured black hair, a sharp jawline, and an intense, protective gaze, resting his chin firmly atop the woman's head. Dressed in a sleeveless heather-gray athletic tank top, his powerful muscular arms wrap completely around her in a secure, crossed hold. The petite woman reaches only to his chest, featuring long wavy dark hair, wide innocent eyes, flushed cheeks, and a cute surprised expression with slightly parted lips. She wears an oversized pastel-yellow long-sleeve cotton pajama shirt reaching her mid-thigh, her hands held together shyly in front.
+
+The setting is a bright, sunlit room with clean off-white walls and soft diffuse morning light. The gentle illumination cleanly defines the muscular contours of his shoulders and the soft cotton folds of her shirt, fully emphasizing their dramatic height and size difference.
+
+Captured on a 50mm portrait prime at f/2.2 with creamy optical falloff and fine 35mm film grain in an M1 narrative register. Authentic human skin with fine pores, biological warmth, realistic muscle definition, and crisp fabric drape — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.
+```
+
+## [Image prompt by @Diplomeme](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119429564619477297-body-prompt)
+
+[@Diplomeme](https://x.com/Diplomeme/status/2119429564619477297)
+
+[![Image prompt by @Diplomeme](https://www.sandbase.ai/lab/media/prompts/blobs/1eee0179535ecfd0d45fce3c11dd8b6cf75ed8e95cbc322b448fefd094a897bd.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119429564619477297-body-prompt)
+[![Image prompt by @Diplomeme](https://www.sandbase.ai/lab/media/prompts/blobs/8df7f4b3e42765f163e99b04f7bbcef67bec32df71a440582388ffdc4d1b2bba.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119429564619477297-body-prompt)
+[![Image prompt by @Diplomeme](https://www.sandbase.ai/lab/media/prompts/blobs/260f75819888a4423f6e350fa77f7480c0233a96de2469c594e1a4dd7e61cbeb.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119429564619477297-body-prompt)
+[![Image prompt by @Diplomeme](https://www.sandbase.ai/lab/media/prompts/blobs/6e7b0034db55fea66bee330f7fb66a2ae33e871535fddd5b09f0311fc7edc86c.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119429564619477297-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+⬇️
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120134373630722228-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2120134373630722228)
+
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/1e5a43bc42d6e2192cad17db85bea57e1275184204852816521e6f730ab09a90.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120134373630722228-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+Using my uploaded portrait as the identity reference, create a photo-booth collage: three black and white vertical strips side by side misaligned, four photos in each strip, each strip slightly tilted to overlap in a 9:16 composition. Preserve the subjects’ facial identity, outfits, and hairstyles. Poses and expressions are varied, fun, and silly. Some photos have people partially cropped, completely cropped, switching places, closer to camera. Use harsh direct flash, extreme contrast, crushed blacks, blown whites, few midtones, and lost detail. Add coarse film grain, overexposure, thick black borders, and very light wear. Analog booth print.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [Image prompt by @ChanJunor23588](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120308619199799423-body-prompt)
+
+[@ChanJunor23588](https://x.com/ChanJunor23588/status/2120308619199799423)
+
+[![Image prompt by @ChanJunor23588](https://www.sandbase.ai/lab/media/prompts/blobs/a2e9c43f8dd25deba1ce7796780a30e32633f736daa3ab29927dfacbceff8734.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120308619199799423-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Vintage record store · In front of the vinyl cabinet (CCD camera retro direct flash style)  Subject Setup: 23-year-old East Asian woman, cool and elegant facial features, slightly wavy shoulder-length short hair, with a lazy yet focused expression; balanced and athletic body proportions, full and rounded breasts, visually around D to E cup, with a clear and natural bust-to-waist drop, featuring the soft, realistic sag of natural fat tissue; wearing an oversized light smoky gray mesh crewneck knit sweater, with the neckline slipped off one shoulder and neck, the cut extremely loose and casual. Scene Action: Inside a vintage vinyl record store, the character is bending over and leaning forward to select records from a low vinyl record bin, body in a forward-leaning posture, with the loose neckline naturally draping downward significantly, using the droop of the collar and light-shadow depth to subtly and three-dimensionally reveal the full contours of the breasts, fingertips just sliding over a record sleeve. Visual Style: 2000s retro CCD digital camera direct flash style, high contrast, saturated colors, with a slight vintage feel and film grain. Composition Shot: 9:16 vertical frame, slightly low-angle upward half-body shot, character occupying the core of the frame, background is neatly arranged colorful record shelves. Lighting and Color: On-camera direct flash hard light hitting the subject, creating a subtle edge hard shadow behind the character; background colors rich and saturated, the smoky gray clothing forming a texture contrast with the red-and-black miscellaneous record colors in the background. Material Details: Clear knit fiber light spots under the flash, reflective vinyl texture on the black record, realistic and delicate glossy clavicle and chest skin texture, distinct layered strands of hair. Negative Constraints: Prohibit prosthetic-like contours, prohibit excessive exposure of inappropriate elements, prohibit facial distortion or expression inaccuracies, prohibit incorrect finger counts, prohibit low-clarity noise erasing details.
+```
+
+## [Image prompt by @ChanJunor23588](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120547991404826986-body-prompt)
+
+[@ChanJunor23588](https://x.com/ChanJunor23588/status/2120547991404826986)
+
+[![Image prompt by @ChanJunor23588](https://www.sandbase.ai/lab/media/prompts/blobs/6324de02f3d5e515c60eb7ec87b9a52056a7b9038d4542511ae7ae72f4a7ed98.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120547991404826986-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Masterful cinematic photography, wide horizontal 16:9 frame. Three different adult East Asian women in the same pure-white art studio, huge lightweight white linen curtains, pale wooden floor, soft champagne, apricot and ivory sidelight like a large softbox. They are clearly three distinct people with different faces, body language, and wardrobe, arranged left to right with breathing room between them. Photorealistic fashion editorial, no text, no watermark, no logos, no extra people.
+
+LEFT — glamorous, confident sexy type (mature "onee" beauty, about 27): slightly sharper features, smoky eyes, deep rose lips, long dark hair half-up. She wears a pale champagne-gold silk camisole with thin straps and floral lace, finely tailored and close-fitting on a curvy figure with a full ample bust. Pose: turned three-quarters away, looking back over her right shoulder at the camera with a slow, knowing gaze, weight on one hip. Cool, sensual, commanding.
+
+CENTER — pure, fresh jade-like beauty (about 23): softer rounder face, large clear eyes, naturally pink lips, light makeup, long dark hair loosely down with a few strands at the cheeks. She wears a pale ivory silk camisole with thin straps and delicate lace, lighter and more modest than the others, still elegant. Pose: standing or lightly seated with knees together, hands gently clasped in front, gazing softly toward the window with a shy, luminous expression. Innocent, delicate, quietly pretty.
+
+RIGHT — warm older-sister type (about 26): softer mature features, kind eyes, a gentle genuine smile looking directly at the camera as if speaking to you, hair in a loose elegant bun with a few relaxed strands. She wears a warm apricot-honey silk camisole with thin straps and floral lace. Pose: seated on the pale wooden floor, torso slightly leaning forward in a relaxed welcoming way, one hand resting naturally on the floor, open and calm. Caring, intimate, approachable.
+
+Same studio and lighting quality, but each woman has her own mood in her pocket of light. Exceptionally sharp, lifelike skin texture, soft shadows along the collarbones, delicate lace detail. No malformed hands, no plastic skin, no identical faces.
+```
+
+## [Image prompt by @AJCreatesAI](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120724356699767069-body-prompt)
+
+[@AJCreatesAI](https://x.com/AJCreatesAI/status/2120724356699767069)
+
+[![Image prompt by @AJCreatesAI](https://www.sandbase.ai/lab/media/prompts/blobs/a6b662b6f84905f2d65f088f51ab7fd900413b4affbf4fdca467c0c8b6153529.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120724356699767069-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+3:4 竖幅，写实中长焦近摄。以当前照片的侧前方构图为基础，小幅调整拍摄机位和服装材质。
+
+镜头与蚊子停驻的皮肤曲面基本齐平，光轴接近水平，轻微下倾。从人物侧方拍入，沿近侧身体曲面看向侧后方。近侧轮廓靠近镜头，远侧肩部和领口向后退，呈现自然的体积与纵深。取景中心落在蚊子附近，蚊子落在视觉黄金分割点上。颈部只从画面右上边缘带入少量。
+
+画面仍包含皮肤的自然弧面、倾斜的领口和部分背心，保留现在的前后层次。
+
+成年女性穿浅奶油粉色细吊带背心，拥有饱满坚挺的胸部，胸部撑起吊带裙的吊带，使吊带悬空。沿用当前贴身版型和弧形领口。面料换成细腻、不透明的柔软缎面，领口增加一圈窄窄的同色花卉蕾丝边。蕾丝带细小波浪齿边，顺着领口自然贴合。原有疏落的小玫瑰图案保留为缎面上的细致印花。布料随身体形成柔和褶皱，受光处只有细长、低亮度的丝绸反光。
+
+一只褐色小蚊子停在衣领上方的皮肤上，位置沿用当前画面。头胸部、六条细腿和半透明翅清楚可辨，足尖与皮肤自然接触，右下方有短小投影。焦点精确落在蚊子和落足处，附近毛孔、绒毛与少量蕾丝纹理清楚，远处逐渐柔化。
+
+暖色柔光从画外左前上方斜着掠过，沿皮肤曲面形成连续亮部和柔和阴影。蚊子处于亮部边缘，深褐色身体、翅缘和微小投影形成清楚的局部反差。缎面高光柔和，肩颈亮度低于蚊子附近。背景保留暗酒红与深棕色，左后方烛光成为小而柔软的琥珀色散景。
+
+避免高机位俯拍、锁骨居中的特写、正面对称构图、过度裁切、巨大化蚊子、针织镂空面料、大面积镜面反光和圆形聚光斑。
+夏夜被蚊子盯上的那一秒，镜头离她只有一厘米🦟✨
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120744115751260312-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2120744115751260312)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/f6ea38eaa1227b6cdbe2cf263de9a935cd265630b8295f585436729f8a41cc31.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120744115751260312-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+PROMPT — ÉLORA | LUXURY FASHION MAGAZINE COVER
+
+Transform the photograph into a sophisticated, high-end fashion magazine cover. Feature the subject in a naturally relaxed pose, wearing an elegant minimalist outfit in soft neutral tones, standing against an aged architectural stone wall. Create beautiful afternoon sunlight with delicate tree-branch shadows falling naturally across the background.
+
+Preserve the subject's original facial features, hairstyle, expression, body proportions, pose and outfit. Maintain authentic photography, realistic skin texture and natural lighting.
+
+MAGAZINE DESIGN:
+• Large, elegant, high-contrast serif masthead at the top reading "ÉLORA".
+• Refined editorial headlines arranged beautifully around the subject.
+• Small uppercase subtitle, issue date and edition details.
+• A graceful handwritten-style signature near the lower-left corner.
+• A bold two-line feature headline near the bottom.
+• Include a minimal barcode and a small decorative QR-style graphic.
+
+ART DIRECTION:
+Premium Korean fashion editorial meets European luxury magazine aesthetics. Sophisticated typography, muted warm tones, natural shadows, elegant spacing, authentic photographic details and professional print design.
+
+The final composition should resemble an exclusive luxury fashion magazine cover, with impeccable typography and balanced visual hierarchy. Keep the subject as the central focus. Avoid excessive text, artificial filters, distorted anatomy, altered facial identity or cluttered graphic elements.
+```
+
+## [Image prompt by @Mxfo888](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120752702959612278-body-prompt)
+
+[@Mxfo888](https://x.com/Mxfo888/status/2120752702959612278)
+
+[![Image prompt by @Mxfo888](https://www.sandbase.ai/lab/media/prompts/blobs/a9d51e3f2c0f264b690eea62dd016d461d4448a59da7d98c653d80f61dd0c00c.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120752702959612278-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+男友第一人称极近距离微俯拍，夜晚高级酒吧包厢，温暖灯光。一位漂亮的东亚年轻女性，长黑发，黑色猫耳发箍，黑色缎面吊带裙，细肩带、蕾丝边、深低胸，戴着带铃铛的黑色项圈。镜头从她侧面稍高处贴着拍，人物占满画面，能清楚看到她微微低头时嘴唇的形状和湿润感，以及低胸处自然形成的深沟与侧乳轮廓，她双手轻轻交叠在小腹前，身体没有主动靠近，只是安静地坐着，眼神有点躲闪又忍不住看过来，脸颊泛红，矜持又带点反差，丝绸质感，浅景深，电影感光影，写实风格，8k
+
+MinimaxH3 限时特价15s仅需3毛钱！
+🎁 **新用户注册即送：**
+- ✅ 5 次 GPT Image 2.6 图片生成 / 编辑体验
+- ✅ DeepSeek V4.1 Flash 免费体验金
+```
+
+## [Image prompt by @mehvishs25](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120880993741762811-body-prompt)
+
+[@mehvishs25](https://x.com/mehvishs25/status/2120880993741762811)
+
+[![Image prompt by @mehvishs25](https://www.sandbase.ai/lab/media/prompts/blobs/5004860f511e4b21aeb19870d445b835af556a35d2a8398a8fa10d7cca6df59a.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120880993741762811-body-prompt)
+[![Image prompt by @mehvishs25](https://www.sandbase.ai/lab/media/prompts/blobs/b60de67c1951d2db346ecbe29c965a1ede7787bbbab9aa95d75474366bf37bf4.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120880993741762811-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+One hand is reaching upward, holding the smartphone above her head, capturing an intimate bird's-eye selfie with a slightly wide-angle perspective. Her posture feels spontaneous and comfortable, as if captured during a peaceful outdoor moment.
+Bright yet gentle daylight illuminates her face, creating natural highlights and delicate shadows. The surrounding meadow fills the frame with rich green grass and scattered white blossoms, adding a fresh springtime atmosphere.
+Photography style: Authentic smartphone photography, realistic facial proportions, true-to-life skin texture, fine hair details, natural lighting, subtle lens perspective, sharp focus, balanced colors, and beautifully detailed surroundings.
+Important: Use the reference girl as the exact identity. Do not alter her face, facial structure, or recognizable features. Avoid face beautification, artificial skin smoothing, exaggerated body proportions, extra fingers, CGI aesthetics, or overly edited effects. Ultra-realistic, high-resolution photography.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120887954801635549-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2120887954801635549)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/43f0daea6a2869c4bc142c98fd930e162082563e402e71139cbc49f5660e3b04.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120887954801635549-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/b51a76e3b9777e7c4ed7f9d9ab9bfa965f20f102aff80f73a9a3cbfef6161266.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120887954801635549-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+HANDCRAFTED MINIATURE CITY | STOP-MOTION ARCHITECTURAL ART
+
+Create a beautifully detailed handmade miniature cityscape featuring [CITY NAME], built on a rectangular matte warm-white paper base, with the aesthetic of a premium stop-motion architectural model.
+
+SCULPTED SET: Recreate the city's most recognizable landmark, distinctive architecture, and iconic skyline using carefully crafted miniature structures. Include individually shaped architectural details, clean joints, smooth velvet-matte surfaces, and natural light-and-shadow definition. Add one signature vehicle or transport element that reflects the city's identity.
+
+FLAT DOODLES: Decorate the surrounding paper background with delicate brown ink illustrations, such as a simple sun, minimal clouds, flying birds, or other subtle atmospheric details. Keep all illustrations completely flat, without shadows or three-dimensional effects.
+
+COMPOSITION: Use a tabletop camera with a three-quarter angle, looking slightly downward. Position the miniature city within the middle third of the frame, leaving generous empty paper margins at the top, left, and right. Include a traditional street lamp on one side and a small wooden directional signpost on the other, naturally complementing the destination.
+
+TYPOGRAPHY: Add the city name, “[CITY NAME],” in elegant, natural handwritten ink lettering at the bottom of the paper base.
+
+LIGHTING & FINISH: Use warm, directional studio lighting to create delicate contact shadows beneath the miniature structures. Maintain a refined handcrafted aesthetic, tactile materials, balanced proportions, and authentic stop-motion model-making quality.
+
+IMPORTANT: Every generation should feature architecture, landmarks, transport, and visual details unique to the selected city. Maintain the same miniature art direction and composition while making each destination individually recognizable. Avoid glossy surfaces, heavy outlines, unnecessary decorations, and full-scale photorealistic architecture.
+```
+
+## [GPT Image 2.6 work by @EvoLinkAi](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120924589413069030-body-prompt)
+
+[@EvoLinkAi](https://x.com/EvoLinkAi/status/2120924589413069030)
+
+[![GPT Image 2.6 work by @EvoLinkAi](https://www.sandbase.ai/lab/media/prompts/blobs/e09f38867fd66b475909dbe5187ec31dd1c2003f04a256fdac92a52562a6257f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120924589413069030-body-prompt)
+[![GPT Image 2.6 work by @EvoLinkAi](https://www.sandbase.ai/lab/media/prompts/blobs/f79c12e87cf69293529bdf76585acede0904c08f013f4e70556deff49209b30c.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120924589413069030-body-prompt)
+[![GPT Image 2.6 work by @EvoLinkAi](https://www.sandbase.ai/lab/media/prompts/blobs/30e042bd2d09da4f06158ec2efaaa2a64a2e35bc05bf03dd114d37119a1a8d02.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120924589413069030-body-prompt)
+[![GPT Image 2.6 work by @EvoLinkAi](https://www.sandbase.ai/lab/media/prompts/blobs/3c5638ea6d260cec1d8e4b697ae9cfddcb9fec54d05ff8b47bbc1d08bca6d636.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120924589413069030-body-prompt)
+
+Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.
+
+**Work example: no prompt shared by the author.**
+
+## [Image prompt by @libn498262](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121081775963386054-body-prompt)
+
+[@libn498262](https://x.com/libn498262/status/2121081775963386054)
+
+[![Image prompt by @libn498262](https://www.sandbase.ai/lab/media/prompts/blobs/aac686209aaaca0f4def6126941cd85804180f59dd8c1102b077e696a56d775e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121081775963386054-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+画幅与摄影风格
+9:16竖版，超写实真人夜间时尚摄影，昏暗楼梯间，近距离手机直闪抓拍。强烈闪光灯、深色环境、自然颗粒与真实阴影，呈现冷静、克制、具有都市感的夜间街头时尚氛围。
+
+人物设定
+一位25岁成年东亚女性模特，身高170cm，身材纤细匀称，腰线自然，腿部线条修长。
+黑棕色长发自然披散，几缕碎发垂落额前。佩戴纯白色一次性医用口罩，完整遮住鼻子、嘴巴和下巴。
+面部重点表现真实眉眼结构、自然眼距、轻微不对称和冷静的眼神。保留眼周真实皮肤纹理，不使用过度美颜。
+
+服装造型
+风衣：黑色长款修身风衣，长度至小腿中部，厚实哑光面料，衣襟完全敞开，不系纽扣或腰带，随动作自然向两侧展开。
+内搭：黑色深V蕾丝上衣，精细花卉镂空蕾丝与不透明内衬结合，完整覆盖上半身，自然呈现锁骨线条。
+下装：黑色高腰短款针织短裤，采用厚实不透明弹力面料，贴合腰臀线条，完整覆盖臀部。
+袜饰：黑色15D半透明大腿袜，袜口位于大腿中上部，带宽约3cm的黑色蕾丝边。黑色细吊带从短裤下方自然延伸，分别连接左右袜口，结构清晰。
+鞋履：黑色尖头细高跟鞋，鞋跟约8cm，真实皮革材质。
+无任何项链、耳环、手链、戒指、腰链及其他装饰配件。
+
+核心动作
+模特站在昏暗楼梯间的宽大平台中央，身体正对摄影机，双脚一前一后自然站立。
+左手抓住风衣左侧衣襟，向身体外侧拉开。
+右手抓住风衣右侧衣襟，同样向外侧拉开。
+风衣两侧衣襟同时展开，清楚露出内搭上衣、腰腹、短裤与吊带袜结构。
+上半身：腰背挺直，肩膀自然向后舒展，身体略微向镜头前倾。
+双腿：左腿承担身体重心，右腿轻轻向前迈出半步，膝盖自然放松，呈现自然腿部线条。
+头部：微微低垂，从眉眼处向上注视摄影机。
+表情：通过眼神表现冷静、成熟的气质，眼睑略微半垂，目光平静而有神。由于佩戴口罩，不出现可见嘴唇或微笑。
+动作如摄影师突然开启闪光灯，捕捉到模特自然展开风衣的瞬间，具有真实动态感。
+
+摄影机位与构图
+摄影师站在楼梯平台前方，距离人物约1.5–2米，采用胸口略下方高度的正面机位。
+35mm镜头，9:16全身构图，完整呈现头部、白色口罩、敞开的黑色风衣、蕾丝上衣、短裤、吊带袜和高跟鞋。
+风衣两侧形成深色纵向边框，闪光灯照亮人物中央的服装层次。
+人物占据画面约80%，不使用极端低机位或夸张广角。
+
+环境与灯光
+老式公寓或现代商业建筑的消防楼梯间，灰色水泥墙、金属扶手、深灰色台阶和微弱冷绿色应急照明。
+周围环境昏暗，摄影机直闪作为主要光源，形成：
+人物皮肤与黑色蕾丝的清晰高光。
+风衣面料的哑光褶皱。
+黑色丝袜的自然透肤层次。
+人物身后投射在墙面上的真实硬阴影。
+略微欠曝的背景与自然高感光颗粒。
+模拟2000年代CCD数码相机夜间直闪质感，保留真实皮肤纹理、轻微动态模糊和不完美光影，避免商业棚拍式柔光。
+
+人体与服装结构要求
+左右手分别抓住对应风衣衣襟，不出现多余手臂。蕾丝上衣与短裤均完整覆盖身体，吊带正确连接大腿袜口，丝袜与高跟鞋结构自然。双腿比例真实，楼梯台阶与人物透视一致。
+```
+
+## [Image prompt by @libn498262](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121083158338977889-body-prompt)
+
+[@libn498262](https://x.com/libn498262/status/2121083158338977889)
+
+[![Image prompt by @libn498262](https://www.sandbase.ai/lab/media/prompts/blobs/0089d2e820b92ac022684edb64ad943cf8295f1542756b5231f109b8b393b992.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121083158338977889-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+画幅与摄影风格
+9:16竖版，超写实真人夜间时尚摄影，香港街头霓虹夜景。采用明显的微仰角近距离拍摄，强化人物上半身与腰腹线条，霓虹暖光与局部高光结合，深色背景虚化，自然颗粒与真实光影。
+
+人物设定
+一位25岁成年东亚女性模特，身材丰满匀称，腰腹平坦，锁骨与腰线清晰。
+深棕色长卷发自然披散，发丝蓬松有层次。佩戴红色小椭圆墨镜，金色细链垂落。
+面部表现真实眉眼结构、自然眼距与冷艳眼神，保留皮肤纹理，妆容精致但不使用过度AI美颜。
+
+服装造型
+上衣：米白色高领盘扣短款上衣，传统盘扣装饰，泡袖设计，下摆位于胸部下方，大幅露出腰腹与下胸轮廓，面料带有细腻提花纹路。
+下装：红色高腰百褶长裙，裙身布满金色龙纹与祥云纹样，面料厚实有光泽，裙摆自然垂坠。
+配饰：右手持红色折扇，扇面绘有金色龙纹与云纹；金色长耳环。
+无其他项链、手链、戒指等多余首饰。
+
+核心动作
+模特身体略微侧向镜头，站立于霓虹街头。
+右手高举红色折扇，扇面朝外。
+左手轻轻提起裙摆一侧，露出部分裙身纹样。
+上半身微微前倾，腰背挺直，肩膀自然舒展，配合仰角形成修长比例。
+头部微侧并略微低垂，目光透过墨镜向下注视镜头，表情冷静带有轻微慵懒。
+
+摄影机位与构图（重点强调）
+摄影师位于人物前方约1.2–1.5米，机位明显低于胸口高度，采用仰角拍摄。
+镜头从下往上轻微仰拍，突出腰腹线条、上衣下摆位置与裙身体积感。
+35mm镜头，9:16半身偏全身构图，人物从头部到裙摆占据画面约85%。
+仰角使锁骨、胸部轮廓与腰线更加清晰，同时保持真实透视，不使用极端鱼眼或过度夸张低机位。
+风衣两侧（此处为裙身与袖子）形成纵向框架，霓虹光斑在后方自然虚化。
+
+环境与灯光
+香港夜间街头，背景有红色与绿色霓虹招牌（可见“香港”字样），城市灯光虚化成光斑。
+主要光源为暖色霓虹灯配合仰角直光，形成：
+皮肤与上衣的柔和暖色高光。
+红色裙子的光泽反射。
+人物身后轻微硬阴影。
+略微欠曝的深色背景与自然高感光颗粒。
+模拟夜间实拍质感，保留真实皮肤纹理与光影不完美，避免商业棚拍柔光。
+
+人体与服装结构要求
+右手持扇姿势自然，左手提裙动作清晰，不出现多余手臂或错误手指。上衣完整覆盖上胸，下摆位置准确。裙子纹样清晰，腰线与腿部比例真实。仰角透视下背景霓虹与人物比例一致。
+```
+
+## [Image prompt by @libn498262](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121097410185503193-body-prompt)
+
+[@libn498262](https://x.com/libn498262/status/2121097410185503193)
+
+[![Image prompt by @libn498262](https://www.sandbase.ai/lab/media/prompts/blobs/6e3aa70e3eecbf5299b545c94fd47208b962e2919ce32b9a8bade404301c5ef4.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121097410185503193-body-prompt)
+
+[Play animation 1](https://www.sandbase.ai/lab/media/prompts/blobs/366f9132b40675739542a94050decc41be5e68a6d6bd0cb4c3d5157be390258e.mp4)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+画幅与摄影风格
+9:16竖版，超写实真人街头摄影，日间自然光。采用略微俯视的中近距离抓拍，强调人物低头看手机的真实瞬间。柔和自然光、真实皮肤纹理与轻微颗粒，呈现冷静、日常的都市街拍氛围。
+
+人物设定
+一位成年东亚女性，长直深棕色头发自然披散，刘海整齐，几缕发丝垂落脸颊与镜框。
+佩戴细金属框圆形眼镜，镜片反光自然。
+巨大的胸部，明显的乳沟
+面部表情平静，眼神低垂注视手机，嘴唇自然闭合，保留真实皮肤纹理与轻微不对称。
+
+服装造型
+上衣：黑色露肩针织毛衣，厚实罗纹面料，领口大幅下拉至肩膀下方，一侧肩膀完全露出，长袖覆盖手臂。
+下装局部可见黑色衣物。
+配饰：双手持银色智能手机（三摄镜头可见），手机壳透明或浅色。
+无其他明显首饰。
+
+核心动作
+模特身体倚靠在右侧灰色石墙，上半身微微前倾。
+双手自然握住手机，拇指轻触屏幕，正在低头查看。
+头部微微低下，目光专注于手机屏幕。
+头发随动作自然垂落，肩膀放松。
+
+摄影机位与构图（重点强调）
+摄影师位于人物前方偏左约1米，机位略高于人物头部，采用轻微俯视角度。
+镜头从上方轻微向下拍摄，突出低头看手机的姿态与露肩线条。
+35mm镜头，9:16中近景构图，人物从头部到腰部占据画面约85%。
+右侧石墙形成自然边框，左侧背景虚化。
+不使用极端仰角或广角，保持真实透视。
+
+环境与灯光
+城市街道日间场景，右侧为灰色粗糙石墙，左侧为模糊的街道与行人。
+主要光源为柔和自然日光，从左上方照射，形成：
+头发的自然高光与发丝层次。
+皮肤的柔和过渡光。
+石墙的真实阴影。
+背景轻微虚化，整体曝光自然，保留真实颗粒与光影不完美。
+避免闪光灯与棚拍柔光。
+
+人体与服装结构要求
+双手持手机姿势自然，手指数量正确，不出现畸形。眼镜位置准确，露肩毛衣领口与肩膀衔接自然。头发与面部遮挡关系真实。石墙与人物透视一致。
+
+负面提示词
+未成年人、幼态、眼镜缺失、手机缺失、露肩毛衣闭合、平视或仰视机位、过度美颜、塑料皮肤、柔焦、CG渲染、动漫风、文字、水印、多余手臂、错误手指、畸形比例。
+```
+
+## [Image prompt by @john\_my07](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121113418677801184-body-prompt)
+
+[@john_my07](https://x.com/john_my07/status/2121113418677801184)
+
+[![Image prompt by @john\_my07](https://www.sandbase.ai/lab/media/prompts/blobs/cedb5920e38314e28f6360cadfccb99ea646d9ba4dc25600561d8c9e58ae20fe.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121113418677801184-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create a premium 3×3 photographic collage featuring the exact same exceptionally beautiful 23-year-old Portuguese woman in all nine frames. Maintain perfect facial consistency, identical features, complexion, hairstyle, and identity throughout.
+
+Subject: A stunning Portuguese woman with captivating hazel-green eyes, long voluminous dark brown wavy hair, naturally full lips, elegant facial symmetry, high cheekbones, a delicate jawline, and radiant fair olive-toned skin. Exceptionally photogenic, naturally feminine, and effortlessly beautiful. Wearing an elegant white outfit with delicate gold jewelry and sophisticated natural makeup.
+
+Nine Unique Poses:
+
+1. Close-up portrait with captivating direct eye contact.
+2. Graceful side profile with a gentle smile.
+3. Three-quarter view looking over her shoulder.
+4. Genuine candid laughter while looking away.
+5. Close-up, gently touching her flowing hair.
+6. Intense editorial expression with cinematic lighting.
+7. Relaxed seated portrait looking toward the camera.
+8. Dreamy downward gaze with a thoughtful expression.
+9. Confident upper-body fashion portrait with elegant posture.
+
+Photography Style: Ultra-photorealistic luxury fashion editorial, authentic skin texture, detailed eyes, realistic hair strands, soft cinematic lighting, natural shadows, 85mm portrait lens, shallow depth of field, subtle film color grading, sophisticated neutral tones.
+
+Composition: Perfectly aligned 3×3 grid, nine equal-sized rectangular photographs, clean borders, consistent outfit and appearance, distinct poses and camera angles. Absolute facial identity consistency across all frames.
+
+No text, logos, watermarks, artificial beauty filters, or facial distortions. Exceptional photographic realism and magazine-quality detail.
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121138764651356560-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121138764651356560)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/9b5a17377e0f14075e66732a7bed420707990ee99e32d1fe36d865c4ce99a45f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121138764651356560-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/3747ca87707cdd28755f767691843a888a2d14f641a924b73f0313dbef1df88e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121138764651356560-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+CAPSULE CULTURE | FUTURE PRODUCT ADVERTISING
+
+Create an ultra-realistic, premium macro advertising photograph of [ENTER BRAND, PRODUCT, BEVERAGE, OR FLAVOUR], reimagined as a futuristic pharmaceutical-style capsule inside a luxury blister pack.
+
+Transform the product's signature identity into a beautifully designed, elongated transparent capsule. Incorporate its recognizable brand colours, logo, typography, visual identity, and distinctive details into the capsule design. Make the capsule appear filled with the product's characteristic liquid, colour, or material, with realistic transparency and depth.
+
+Place it inside sophisticated metallic blister packaging with embossed detailing, precision-formed compartments, and premium reflective surfaces. Cover the capsule with realistic condensation droplets, tiny water beads, and subtle atmospheric reflections to enhance its tactile appearance.
+
+Use dramatic cinematic studio lighting, shallow depth of field, extreme macro photography, realistic reflections, intricate material textures, and a sophisticated colour palette inspired by the original brand.
+
+COMPOSITION: One prominent hero capsule, photographed at an elegant diagonal angle, occupying most of the frame. Keep the background minimal, atmospheric, and complementary to the product's identity.
+
+QUALITY: Photorealistic commercial product photography, luxury advertising campaign aesthetic, exceptional micro-details, physically accurate materials, crisp branding, realistic shadows, 8K detail.
+
+The final result should look like an extraordinary futuristic product launch campaign, blending pharmaceutical packaging design with the visual identity of the selected brand.
+```
+
+## [Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121227240994427316-body-prompt)
+
+[@Ziha_ai](https://x.com/Ziha_ai/status/2121227240994427316)
+
+[![Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/04901161d94dc1a69fde9cd2604be6918972d283d368e077b089e8c257c3b960.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121227240994427316-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+Create a highly realistic 3×3 photo collage featuring the same young woman from the reference image, maintaining consistent facial features, hairstyle, natural skin texture, outfit, and overall appearance across all nine frames.
+
+Outfit: A cute pastel pink winter outfit featuring a knitted pink beanie, fluffy white earmuffs, pink knitted gloves, a soft pink sweater with brown Nordic patterns, and a cozy winter scarf.
+
+Location: A beautiful snowy mountain landscape with snow-covered mountains, pine trees, a clear vibrant blue sky, and soft white clouds in the background.
+
+Composition: A perfectly aligned 3×3 grid collage containing nine separate portrait photographs. Each frame should feature a different natural pose and facial expression.
+
+Nine Different Poses:
+
+1. Sitting in the snow, raising one gloved hand high and smiling at the camera.
+2. Winking playfully while making a peace sign near her face.
+3. Holding both gloved hands close to her cheeks with a cute smile.
+4. Looking back over her shoulder with a gentle smile.
+5. Stretching both arms outward while enjoying the snowy scenery.
+6. Making a heart shape with her gloved hands in front of her chest.
+7. Sitting on the snow and looking up toward the sky with a happy expression.
+8. Bringing one gloved hand close to the camera for a playful perspective shot.
+9. Making a cute finger heart gesture while winking at the camera.
+
+Photography Style: Ultra-photorealistic winter travel photography, natural candid expressions, beautiful soft daylight, realistic snow textures, detailed knitted fabric, natural hair movement, subtle camera depth of field, flattering natural lighting, crisp facial details, and vibrant winter colors.
+
+Important: All nine frames must show exactly the same girl with consistent facial identity, clothing, accessories, and hairstyle. Every frame must have a unique pose and composition. Clean, symmetrical 3×3 collage layout, equal-sized panels, no borders, no text, no watermarks.
+
+Aspect Ratio: 3:4 portrait collage, high resolution, professional photography quality.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
 
 ## Contributing and rights
 
