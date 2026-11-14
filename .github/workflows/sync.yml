@@ -1,6 +1,9 @@
 name: Sync Lab prompts
 on:
   workflow_dispatch:
+  schedule:
+    # Independent fallback after the 05:00 Beijing collection run.
+    - cron: '47 23 * * *'
 permissions:
   contents: write
 concurrency:
