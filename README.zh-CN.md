@@ -4,7 +4,7 @@
 
 来自 X 原作者的图片、动图与原始提示词，由 [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**64 个案例：46 条提示词 · 18 个作品示例** · Lab 数据日期：2026-11-13T21:07:38.930Z。
+**72 个案例：54 条提示词 · 18 个作品示例** · Lab 数据日期：2026-11-14T21:04:41.565Z。
 
 模型归属依据作者的原帖声明；具体变体可能未知，尚未由 SandBase 复跑。图片和提示词权利属于原作者。
 
@@ -1503,6 +1503,289 @@ Photography Style: Ultra-photorealistic winter travel photography, natural candi
 Important: All nine frames must show exactly the same girl with consistent facial identity, clothing, accessories, and hairstyle. Every frame must have a unique pose and composition. Clean, symmetrical 3×3 collage layout, equal-sized panels, no borders, no text, no watermarks.
 
 Aspect Ratio: 3:4 portrait collage, high resolution, professional photography quality.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119104607666503724-body-prompt)
+
+[@MrLarus](https://x.com/MrLarus/status/2119104607666503724)
+
+[![@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/4e5b02671db63343c0b8534196f6a66f77da9f5854b301e84897e13dbcc2abb8.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119104607666503724-body-prompt)
+[![@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/a794e7166d9077fadeed473f1f0918c925db525923d8f93064201ee3fc4eb357.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119104607666503724-body-prompt)
+[![@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/40e87dc40a7bc5e5109253f00ff0405f109643066682eada402c37dfbae32a7f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119104607666503724-body-prompt)
+[![@MrLarus 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/1edb24a105cabb8ac019e87d06d401f38402dd764218a31545a59bc65837a223.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2119104607666503724-body-prompt)
+
+自动收录：作者在同一串推文的下一条中分享了提示词。模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create a premium 9:16 street-style editorial advertising poster.
+
+Brand: [Brand Name]
+Product: [Product & Color]
+Headline: [Main Headline]
+Tagline: [Short Slogan]
+Model & Outfit: [Character & Styling]
+Scene: [Urban Location]
+Color Palette: [Main Colors]
+
+Photography & Composition
+
+Use realistic street photography with a dramatic high-angle or wide-angle perspective. Feature a stylish adult model naturally interacting with the product. Make the product clearly visible and visually prominent through perspective, positioning, and realistic physical interaction.
+
+Preserve authentic skin texture, natural fabric folds, detailed materials, urban surfaces, directional sunlight, strong shadows, and subtle digital film grain.
+
+Typography & Layout
+
+Combine oversized bold typography with contrasting italic serif or script lettering. Integrate text into the photographic composition through natural layering, cropping, and selective foreground-background occlusion.
+
+Include a small brand header, a striking headline, concise supporting copy, and refined product details near the bottom. Maintain rich editorial information density without clutter.
+
+Visual Direction
+
+Use a muted urban background with one dominant accent color that connects the product and typography. Keep the design energetic, fashionable, and commercially polished.
+
+Ensure accurate, readable English text, realistic anatomy, coherent lighting, and believable product details. Avoid generic templates, excessive UI elements, unnecessary decorations, random text, watermarks, and artificial CGI aesthetics.
+
+The final image should feel like a professionally art-directed streetwear or lifestyle brand campaign.
+```
+
+## [@taoartc 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120765908125876695-body-prompt)
+
+[@taoartc](https://x.com/taoartc/status/2120765908125876695)
+
+[![@taoartc 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/ad1789bb6ce9b83b2d59f5a2c92f30a7f8831836e46fac2c3d98bf00a89067a1.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120765908125876695-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+An elaborate full-body anime fantasy illustration of an adult woman in a three-quarter side pose, her head turned left and her gaze lowered. She has pale skin, red eyes, and exceptionally long silver-white hair tied in a high ponytail, streaming across the right side of the frame. A black ruffled headpiece with gold ornaments and white flowers sits above her bangs, with delicate blue-and-gold earrings beside her face. She wears an ornate black dress with fitted sleeves, gold piping, wide embroidered cuffs, white ruffles, layered translucent white fabric, and a voluminous black skirt billowing around her legs. Large white lilies, a black-and-gold bow, and blue jeweled ornaments decorate her waist. One arm extends toward the left, holding a slender sword that emits an intense icy-blue glow; her other hand rests near the back of her head. Gold high heels appear beneath the swirling skirt, just above luminous ripples on the ground. Behind her, enormous dark translucent butterfly wings spread through a shadowy background filled with drifting blue flowers, petals, and sparkling particles. Vertical composition, elegant flowing silhouette, intricate costume details, cool blue-white magical lighting against deep navy and black, painterly anime linework, richly layered fabric, dramatic motion.
+```
+
+## [@alanblogsooo 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120885067438497997-body-prompt)
+
+[@alanblogsooo](https://x.com/alanblogsooo/status/2120885067438497997)
+
+[![@alanblogsooo 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/02283e50ce988707f3241966474da6a7c3e76882ccd282e57729efb3b615495d.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2120885067438497997-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+3:4纵向构图，清透胶片色调与细腻颗粒感。广角略俯视机位，平视纵深过道，奔跑人物居中。躯干微倾前冲，头颈轻仰直视镜头。一手轻挽裙裾，身姿腾跃带起气流。双眼弯如新月带水光高光，嘴角爽朗大笑，满溢逃离桎梏的肆意与娇俏 🌸✨。棕色浓密波浪卷发逆风凌空散开，身穿浅粉缎面抹胸蓬蓬礼服，蝴蝶结褶皱折射丝滑微光。车窗侧漫射光勾勒轮廓，冷白肌肤泛出透亮微粉次表面反光，下颌映出蓝色座椅微弱冷色反光。复古老式客车车厢极简虚化退后，凝固灵动梦幻瞬间。
+```
+
+## [@MarissaMeroxwq 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121089833875755055-body-prompt)
+
+[@MarissaMeroxwq](https://x.com/MarissaMeroxwq/status/2121089833875755055)
+
+[![@MarissaMeroxwq 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/9949ca825e7b3cd0ced10b25d579aba0820037da6a136631ee0c49487d0256b4.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121089833875755055-body-prompt)
+[![@MarissaMeroxwq 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/2a000c9be7cacda9897d7991b5b3b8c07e3279ebd9c94bf4ced6b4b2fa183f2f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121089833875755055-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+[Character] — reimagined in an independent Japanese manga illustration style 🌸
+
+full prompt below👇
+```
+
+## [@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+
+[@DeepBlueX0](https://x.com/DeepBlueX0/status/2121461700683821209)
+
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/68fa03b5765ccde18b7b3465c7334b61879d6e61eed188538053726cd9cc2828.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/44d689dcea7d94d497d3238e27bc434b955b90547f3c4b66bc8c0859cd135096.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/94aa2d3478c740b73113a23253793bae488b4fb251c7e4aa5f111e1ff763f264.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/b46de78a4a4bfa4d2f7aa2964e84231ec498d2c1f38d65bc7d942807028e5787.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/d666031be40fe9d914c77629ba0e524d4b492e78a7223a7dbe25d79202e70ccb.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/3a75ae7570a4fdf5e6e9d41e2c5d4c6b14f7f2b95cde1b7fb0708028a7683606.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/3a397d6515c210777a78c54abd6c67cb2761950091739159743474c4599d0cac.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/6caca1232fa2b7496cd14464f538027d31dfd1d05b12cf6a08bf2cab02841cfe.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/1771ca78cbe8a44472440137fb7de34ef9815b5016af5e751182e00630147df4.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/9e69ece521d7b79bfbdddc13cb892e98cbd99713f0e3934d0e79f8509414ab34.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/dbf68f096c861965f21d48f7e200061bdb38bb9fab02f4b81a2d2cd143a34c6f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/786d36a68a52b45c40d3ac20e870898fd8f8d26d90c0fec66e019ce1ea60ccd4.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121461700683821209-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+熱門二次元女性角色 × 極簡黑白條紋 × 性感漫畫藝術 × 正負形錯覺 × 光學視覺設計。
+
+【經典角色抽卡】
+
+每張獨立選擇一位具有高人氣、鮮明辨識度與成熟女性魅力的經典動漫或遊戲成年女性角色。
+
+準確保留角色原作的標誌性髮型、面部特徵、經典服裝輪廓、關鍵配飾及獨特氣質。
+
+將原作造型轉譯為極簡黑白漫畫，保留最能體現角色身份的設計特徵。服裝以原版經典造型為基礎，簡化內部細節，保留核心剪裁與結構。
+
+角色一眼可辨，同時具有鮮明的個人魅力。
+
+【女性魅力與情緒】
+
+人物保持原作的成熟氣質與身材特徵，適度突出高挑修長的身形、纖細腰線、優美的肩頸曲線與自然飽滿的女性輪廓。
+
+根據角色性格，自由表現冷艷、慵懶、嫵媚、俏皮、神秘、自信或強勢的氣質。
+
+通過有吸引力的眼神、微妙表情、自然舒展的身體語言與富有張力的姿態，營造強烈而克制的性感氛圍。
+
+保留角色經典服裝的性感設計與獨特剪裁，讓服裝輪廓、人物姿態和黑白條紋自然配合。
+
+【極簡黑白漫畫】
+
+融合經典二次元角色造型、成熟時尚漫畫與極簡平面藝術。
+
+除固定簽名外，整張畫面僅使用純黑與純白兩種顏色。
+
+以大面積純色剪影、簡潔流暢的漫畫線條和清晰的正負形構成畫面。
+
+同步簡化頭髮、五官、服裝與身體細節，重點保留角色標誌性的眼睛、髮型、服飾結構和身體輪廓。
+
+通過黑白色塊的形狀、邊界和位置區分人物不同部位，保持人體結構與角色辨識度。
+
+【黑白條紋視覺機制】
+
+黑白條紋是整張作品的核心視覺元素。
+
+每張獨立探索一種具有創意的條紋與角色關係，包括條紋隱身、輪廓顯形、黑白反相、曲線扭曲、負空間錯覺、圖案遮擋、身體與背景融合及其他有趣的光學機制。
+
+條紋可以融入角色經典服裝、頭髮、背景、身體剪影或畫面的局部結構。
+
+根據角色身體曲線、服裝結構和人物動作，自然改變條紋的方向、間距與弧度。
+
+讓部分身體輪廓融入條紋，又在關鍵位置重新顯現，形成有趣的視覺發現。
+
+每張突出一種主導機制，讓角色辨識與光學錯覺相互強化。
+
+優先保留角色面部、標誌性髮型與關鍵配飾的識別性，使視覺錯覺具有明確的觀看焦點。
+
+【構圖與開放抽卡】
+
+每張獨立抽取角色、神情、姿態、機位、景別、畫面結構與條紋機制。
+
+大膽探索近景、全身、背影、側身、局部特寫、慵懶坐姿、舒展臥姿以及富有角色個性的動態瞬間。
+
+角色姿態符合原作性格，展現自然的身體重心與富有表現力的輪廓。
+
+允許大膽裁切、非對稱構圖、大面積留白，以及人物與背景的巧妙融合。
+
+每張改變主要視覺結構和人物動作，避免重復相同的構圖模板。
+
+優先保證角色一眼可辨、黑白錯覺成立、畫面具有強烈的吸引力。
+
+【畫面呈現】
+
+現代極簡黑白二次元漫畫海報。
+
+純粹的黑白關係，乾淨利落的邊緣，鮮明的視覺節奏，清晰的視覺焦點與大片留白。
+
+性感、神秘、優雅，具有鮮明的角色魅力與令人回味的視覺趣味。
+
+單張獨立作品，無分屏，無多格漫畫。
+
+嚴格9:16竪版。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+
+n=10
+```
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121466614814220385-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121466614814220385)
+
+[![@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/d488bdd2d9e84a3499f759a29e3a0cc98def27a2b63b9040084324ac4a640e7e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121466614814220385-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+DREAMLIKE FLOATING TRAVEL POSTCARD | SURREAL PHOTOGRAPHY CONCEPT
+
+Transform [UPLOAD YOUR PHOTO / PERSON] into a breathtaking, dreamy travel photograph set in [DESTINATION / CITY NAME].
+
+Create a surreal yet photorealistic composition where the person appears naturally sitting or floating in mid-air, emerging from a beautiful vintage postage-stamp-shaped travel postcard. The postcard should feature a miniature scenic photograph of the destination, framed with authentic perforated white stamp edges and the destination name elegantly written inside.
+
+BACKGROUND: Use a breathtaking, location-specific landscape featuring recognizable scenery, mountains, lakes, forests, rooftops, misty valleys, coastal views, or iconic landmarks. Add atmospheric depth, soft morning mist, beautiful golden-hour lighting, and cinematic colors.
+
+SUBJECT INTEGRATION: Preserve the person's original facial identity, hairstyle, clothing, and recognizable features. Position them sitting casually on the edge of the floating postcard, with their legs naturally dangling outside the frame. Create a convincing 3D floating illusion with realistic proportions, natural shadows, and seamless compositing.
+
+ART DIRECTION: Dreamy travel editorial photography, nostalgic European postcard aesthetics, whimsical surrealism, miniature-world illusion, soft cinematic color grading, atmospheric depth, delicate details, and professional travel magazine photography.
+
+IMPORTANT: The postcard must look like a real physical postage stamp floating in the scene. The person must appear to interact naturally with it, not simply pasted onto the background. Keep the destination name clearly readable. Avoid extra text, watermarks, distorted anatomy, or artificial-looking edges.
+
+OUTPUT: Ultra-realistic, visually captivating travel artwork, vertical 4:5 composition, high resolution, professional photographic quality.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@AIwithWania 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121597485537710504-body-prompt)
+
+[@AIwithWania](https://x.com/AIwithWania/status/2121597485537710504)
+
+[![@AIwithWania 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/f226ad0741667326720a2cdf83cf3abec70a17529a3eb1b0142402eb059b8241.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121597485537710504-body-prompt)
+[![@AIwithWania 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/e2c0a16e309f4464513a893267fdbffdf0406fd78171a15d488a77b15fb77320.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121597485537710504-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+TWO-POSE EDITORIAL PORTRAIT  SERIES.. 
+
+Use the two uploaded images as the 
+
+SEQUENCE 1 — ELEGANT CLOSE-UP POSE
+
+Create a stunning, ultra-realistic close-up portrait. The woman gently rests her cheek against one hand, with her elbow naturally positioned. Her head is slightly tilted, and she looks directly into the camera with a soft, confident expression and a subtle smile.
+
+Her beautiful wavy hair falls naturally around both shoulders. Capture delicate facial details, realistic skin texture, and naturally expressive eyes.
+
+SEQUENCE 2 — EFFORTLESS HAIR POSE
+
+Create a second individual portrait of the exact same woman. She gently raises one hand and runs her fingers through her voluminous hair, slightly tilting her head while looking directly into the camera. Her expression is effortlessly charming, confident, and feminine.
+
+Allow some natural hair strands to fall around her face. Keep the pose relaxed and editorial, like a candid moment captured by a professional fashion photographer.
+
+VISUAL STYLE & ENVIRONMENT
+
+- Plain warm beige or soft grey background.
+- No furniture, no props, no extra objects.
+- Soft natural studio lighting.
+- Premium European editorial photography aesthetic.
+- Professional DSLR photography.
+- 85mm portrait lens, shallow depth of field.
+- Natural skin texture, realistic hair strands and fine details.
+- Soft cinematic color grading.
+- Elegant, sophisticated and photorealistic finish.
+
+STRICT CONSISTENCY RULES
+
+1. Both images must feature exactly the same woman.
+2. Do not modify her facial identity or facial proportions.
+3. Keep the exact same outfit and accessories.
+4. Keep the same hairstyle, makeup, lighting and background.
+5. Only change the pose, camera angle and natural facial expression.
+6. Generate two separate portrait images, never a collage or a 3×3 grid.
+7. Avoid artificial skin smoothing, excessive makeup, distorted hands and unrealistic facial features.
+
+FINAL RESULT: Two exceptionally beautiful, natural-looking, high-end editorial portraits that look like authentic professional photographs rather than AI-generated images.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@mehvishs25 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121622678478127403-body-prompt)
+
+[@mehvishs25](https://x.com/mehvishs25/status/2121622678478127403)
+
+[![@mehvishs25 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/4e088e96bd8a4b2be5eba1d9abf86eaa739680410865bd951f2e8ae01f93748a.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121622678478127403-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+Create a stunning, ultra-realistic close-up portrait of the same young woman from the reference image. Preserve her exact facial identity, face shape, eye color, nose, lips, skin tone, and distinctive facial features. Do not alter her identity or make her look like a different person.
+Her long, voluminous dark chocolate-brown hair falls in soft, naturally tousled waves over her shoulders, with a few delicate strands framing her face. Her captivating hazel-green eyes, naturally defined eyebrows, soft eyelashes, rosy lips, and realistic glowing skin create an effortlessly beautiful appearance.
+She wears delicate gold hoop earrings, a minimal gold pendant necklace, and an elegant muted sage-green sleeveless dress with subtle black floral lace detailing around the neckline. The outfit is stylish and feminine, with a slightly different design from the reference.
+She poses naturally in a warm, cozy indoor environment with soft beige-peach walls, gentle window daylight, and a softly blurred background. Her expression is relaxed and confident, with a subtle natural smile.
+Photography style: Professional editorial smartphone photography, intimate close-up framing, realistic skin pores, fine individual hair strands, natural facial proportions, soft cinematic lighting, gentle shadows, shallow depth of field, 85mm portrait lens, exceptional detail, photorealistic 8K quality.
+Important: Keep the woman's face exactly consistent with the reference image. Only slightly change her outfit styling, pose, and background. Avoid beauty filters, excessive retouching, artificial skin, CGI appearance, or exaggerated facial features.
 ```
 
 此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。

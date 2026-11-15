@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-13T21:07:38.930Z",
+  "synced_at": "2026-11-14T21:04:41.565Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,8 +11,8 @@
     }
   ],
   "categories": {
-    "portrait": 24,
-    "other": 23,
+    "portrait": 30,
+    "other": 25,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
@@ -2445,6 +2445,321 @@
         "raw_sha256": "7f4db053fb7dba0c62a8e1a2ea8765818b4e02e1a23f94c939bec9d63bbd94c2",
         "result_media_ids": [
           "2121227223701327873"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2119104607666503724-body-prompt",
+      "title": "Image prompt by @MrLarus",
+      "title_zh": "@MrLarus 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create a premium 9:16 street-style editorial advertising poster.\n\nBrand: [Brand Name]\nProduct: [Product & Color]\nHeadline: [Main Headline]\nTagline: [Short Slogan]\nModel & Outfit: [Character & Styling]\nScene: [Urban Location]\nColor Palette: [Main Colors]\n\nPhotography & Composition\n\nUse realistic street photography with a dramatic high-angle or wide-angle perspective. Feature a stylish adult model naturally interacting with the product. Make the product clearly visible and visually prominent through perspective, positioning, and realistic physical interaction.\n\nPreserve authentic skin texture, natural fabric folds, detailed materials, urban surfaces, directional sunlight, strong shadows, and subtle digital film grain.\n\nTypography & Layout\n\nCombine oversized bold typography with contrasting italic serif or script lettering. Integrate text into the photographic composition through natural layering, cropping, and selective foreground-background occlusion.\n\nInclude a small brand header, a striking headline, concise supporting copy, and refined product details near the bottom. Maintain rich editorial information density without clutter.\n\nVisual Direction\n\nUse a muted urban background with one dominant accent color that connects the product and typography. Keep the design energetic, fashionable, and commercially polished.\n\nEnsure accurate, readable English text, realistic anatomy, coherent lighting, and believable product details. Avoid generic templates, excessive UI elements, unnecessary decorations, random text, watermarks, and artificial CGI aesthetics.\n\nThe final image should feel like a professionally art-directed streetwear or lifestyle brand campaign.",
+      "images": [
+        "/lab/media/prompts/blobs/4e5b02671db63343c0b8534196f6a66f77da9f5854b301e84897e13dbcc2abb8.jpg",
+        "/lab/media/prompts/blobs/a794e7166d9077fadeed473f1f0918c925db525923d8f93064201ee3fc4eb357.jpg",
+        "/lab/media/prompts/blobs/40e87dc40a7bc5e5109253f00ff0405f109643066682eada402c37dfbae32a7f.jpg",
+        "/lab/media/prompts/blobs/1edb24a105cabb8ac019e87d06d401f38402dd764218a31545a59bc65837a223.jpg"
+      ],
+      "author": "MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2119104607666503724",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2119104607666503724",
+        "published_at": "Sat Nov 07 16:28:04 +0000 2026",
+        "prompt_source": "self-thread",
+        "model_claim": "📸 ChatGPT Images 2.6 takes street photography to another level with typography!",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "self-thread-single-v3",
+        "source_text_sha256": "1fb0650adbd2a44596c784b2cd55fae47858260e1ddf95df5c6614231e9a1fe2",
+        "run_id": "7e243729-3c9e-4fd1-9b69-d6481c63f11a",
+        "raw_sha256": "4ae3893c407f146a2d51deaec8ce487d4e8f11613c45be0a97a2c851d9dc1349",
+        "result_media_ids": [
+          "2119099027774177280",
+          "2119099027505709056",
+          "2119099054995234816",
+          "2119099073106264064"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author shared the prompt in a follow-up tweet of the same thread. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "自动收录：作者在同一串推文的下一条中分享了提示词。模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2120765908125876695-body-prompt",
+      "title": "Image prompt by @taoartc",
+      "title_zh": "@taoartc 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "An elaborate full-body anime fantasy illustration of an adult woman in a three-quarter side pose, her head turned left and her gaze lowered. She has pale skin, red eyes, and exceptionally long silver-white hair tied in a high ponytail, streaming across the right side of the frame. A black ruffled headpiece with gold ornaments and white flowers sits above her bangs, with delicate blue-and-gold earrings beside her face. She wears an ornate black dress with fitted sleeves, gold piping, wide embroidered cuffs, white ruffles, layered translucent white fabric, and a voluminous black skirt billowing around her legs. Large white lilies, a black-and-gold bow, and blue jeweled ornaments decorate her waist. One arm extends toward the left, holding a slender sword that emits an intense icy-blue glow; her other hand rests near the back of her head. Gold high heels appear beneath the swirling skirt, just above luminous ripples on the ground. Behind her, enormous dark translucent butterfly wings spread through a shadowy background filled with drifting blue flowers, petals, and sparkling particles. Vertical composition, elegant flowing silhouette, intricate costume details, cool blue-white magical lighting against deep navy and black, painterly anime linework, richly layered fabric, dramatic motion.",
+      "images": [
+        "/lab/media/prompts/blobs/ad1789bb6ce9b83b2d59f5a2c92f30a7f8831836e46fac2c3d98bf00a89067a1.jpg"
+      ],
+      "author": "taoartc",
+      "source_url": "https://x.com/taoartc/status/2120765908125876695",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2120765908125876695",
+        "published_at": "Thu Nov 12 06:29:29 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "Make this look your own ✨5 free GPT Image 2.6 tries : https://t.co/Sj6CHnb9Yl",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "c7523b2123c7c2190521066d28560d60936f006e2d943f6b593206a484351158",
+        "run_id": "31d3c634-bef2-4e85-8028-681fb665c06e",
+        "raw_sha256": "1921119197ca4ee6d3e024474b14dda157b60fcf24e91e3174fe5a5483efc6f2",
+        "result_media_ids": [
+          "2120765729641521152"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2120885067438497997-body-prompt",
+      "title": "Image prompt by @alanblogsooo",
+      "title_zh": "@alanblogsooo 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "3:4纵向构图，清透胶片色调与细腻颗粒感。广角略俯视机位，平视纵深过道，奔跑人物居中。躯干微倾前冲，头颈轻仰直视镜头。一手轻挽裙裾，身姿腾跃带起气流。双眼弯如新月带水光高光，嘴角爽朗大笑，满溢逃离桎梏的肆意与娇俏 🌸✨。棕色浓密波浪卷发逆风凌空散开，身穿浅粉缎面抹胸蓬蓬礼服，蝴蝶结褶皱折射丝滑微光。车窗侧漫射光勾勒轮廓，冷白肌肤泛出透亮微粉次表面反光，下颌映出蓝色座椅微弱冷色反光。复古老式客车车厢极简虚化退后，凝固灵动梦幻瞬间。",
+      "images": [
+        "/lab/media/prompts/blobs/02283e50ce988707f3241966474da6a7c3e76882ccd282e57729efb3b615495d.jpg"
+      ],
+      "author": "alanblogsooo",
+      "source_url": "https://x.com/alanblogsooo/status/2120885067438497997",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2120885067438497997",
+        "published_at": "Thu Nov 12 14:22:58 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "由 GPT-image-2.6 模型生成，提示词：",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "75c1ad323a967228374ae1dd8debfd2bbea3cf3957e91943895fedaa15327770",
+        "run_id": "bd066b8b-eae0-4657-92f5-575665d10e0f",
+        "raw_sha256": "a77c41889d61880f84fbe1db381880f835fce15407e3abb79235f8dbdc21ab89",
+        "result_media_ids": [
+          "2120883215775010816"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121089833875755055-body-prompt",
+      "title": "Image prompt by @MarissaMeroxwq",
+      "title_zh": "@MarissaMeroxwq 分享的图片提示词",
+      "category": "other",
+      "prompt": "[Character] — reimagined in an independent Japanese manga illustration style 🌸\n\nfull prompt below👇",
+      "images": [
+        "/lab/media/prompts/blobs/9949ca825e7b3cd0ced10b25d579aba0820037da6a136631ee0c49487d0256b4.jpg",
+        "/lab/media/prompts/blobs/2a000c9be7cacda9897d7991b5b3b8c07e3279ebd9c94bf4ced6b4b2fa183f2f.jpg"
+      ],
+      "author": "MarissaMeroxwq",
+      "source_url": "https://x.com/MarissaMeroxwq/status/2121089833875755055",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121089833875755055",
+        "published_at": "Fri Nov 13 03:56:38 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "74ad5a942d9a8b3c5fefd13868875d464ed0a22e90acb2b9303f7ecf3fdfcb54",
+        "run_id": "4ec7c1bf-3b2c-4ff2-96c8-b8b7c6220ed7",
+        "raw_sha256": "c331692281c5a0c81738e4fa8bdd6077333d19e2edd037cba1837127874c966a",
+        "result_media_ids": [
+          "2121089824027521024",
+          "2121089824031686656"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121461700683821209-body-prompt",
+      "title": "Image prompt by @DeepBlueX0",
+      "title_zh": "@DeepBlueX0 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "熱門二次元女性角色 × 極簡黑白條紋 × 性感漫畫藝術 × 正負形錯覺 × 光學視覺設計。\n\n【經典角色抽卡】\n\n每張獨立選擇一位具有高人氣、鮮明辨識度與成熟女性魅力的經典動漫或遊戲成年女性角色。\n\n準確保留角色原作的標誌性髮型、面部特徵、經典服裝輪廓、關鍵配飾及獨特氣質。\n\n將原作造型轉譯為極簡黑白漫畫，保留最能體現角色身份的設計特徵。服裝以原版經典造型為基礎，簡化內部細節，保留核心剪裁與結構。\n\n角色一眼可辨，同時具有鮮明的個人魅力。\n\n【女性魅力與情緒】\n\n人物保持原作的成熟氣質與身材特徵，適度突出高挑修長的身形、纖細腰線、優美的肩頸曲線與自然飽滿的女性輪廓。\n\n根據角色性格，自由表現冷艷、慵懶、嫵媚、俏皮、神秘、自信或強勢的氣質。\n\n通過有吸引力的眼神、微妙表情、自然舒展的身體語言與富有張力的姿態，營造強烈而克制的性感氛圍。\n\n保留角色經典服裝的性感設計與獨特剪裁，讓服裝輪廓、人物姿態和黑白條紋自然配合。\n\n【極簡黑白漫畫】\n\n融合經典二次元角色造型、成熟時尚漫畫與極簡平面藝術。\n\n除固定簽名外，整張畫面僅使用純黑與純白兩種顏色。\n\n以大面積純色剪影、簡潔流暢的漫畫線條和清晰的正負形構成畫面。\n\n同步簡化頭髮、五官、服裝與身體細節，重點保留角色標誌性的眼睛、髮型、服飾結構和身體輪廓。\n\n通過黑白色塊的形狀、邊界和位置區分人物不同部位，保持人體結構與角色辨識度。\n\n【黑白條紋視覺機制】\n\n黑白條紋是整張作品的核心視覺元素。\n\n每張獨立探索一種具有創意的條紋與角色關係，包括條紋隱身、輪廓顯形、黑白反相、曲線扭曲、負空間錯覺、圖案遮擋、身體與背景融合及其他有趣的光學機制。\n\n條紋可以融入角色經典服裝、頭髮、背景、身體剪影或畫面的局部結構。\n\n根據角色身體曲線、服裝結構和人物動作，自然改變條紋的方向、間距與弧度。\n\n讓部分身體輪廓融入條紋，又在關鍵位置重新顯現，形成有趣的視覺發現。\n\n每張突出一種主導機制，讓角色辨識與光學錯覺相互強化。\n\n優先保留角色面部、標誌性髮型與關鍵配飾的識別性，使視覺錯覺具有明確的觀看焦點。\n\n【構圖與開放抽卡】\n\n每張獨立抽取角色、神情、姿態、機位、景別、畫面結構與條紋機制。\n\n大膽探索近景、全身、背影、側身、局部特寫、慵懶坐姿、舒展臥姿以及富有角色個性的動態瞬間。\n\n角色姿態符合原作性格，展現自然的身體重心與富有表現力的輪廓。\n\n允許大膽裁切、非對稱構圖、大面積留白，以及人物與背景的巧妙融合。\n\n每張改變主要視覺結構和人物動作，避免重復相同的構圖模板。\n\n優先保證角色一眼可辨、黑白錯覺成立、畫面具有強烈的吸引力。\n\n【畫面呈現】\n\n現代極簡黑白二次元漫畫海報。\n\n純粹的黑白關係，乾淨利落的邊緣，鮮明的視覺節奏，清晰的視覺焦點與大片留白。\n\n性感、神秘、優雅，具有鮮明的角色魅力與令人回味的視覺趣味。\n\n單張獨立作品，無分屏，無多格漫畫。\n\n嚴格9:16竪版。\n\n左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後\n\nn=10",
+      "images": [
+        "/lab/media/prompts/blobs/68fa03b5765ccde18b7b3465c7334b61879d6e61eed188538053726cd9cc2828.jpg",
+        "/lab/media/prompts/blobs/44d689dcea7d94d497d3238e27bc434b955b90547f3c4b66bc8c0859cd135096.jpg",
+        "/lab/media/prompts/blobs/94aa2d3478c740b73113a23253793bae488b4fb251c7e4aa5f111e1ff763f264.jpg",
+        "/lab/media/prompts/blobs/b46de78a4a4bfa4d2f7aa2964e84231ec498d2c1f38d65bc7d942807028e5787.jpg",
+        "/lab/media/prompts/blobs/d666031be40fe9d914c77629ba0e524d4b492e78a7223a7dbe25d79202e70ccb.jpg",
+        "/lab/media/prompts/blobs/3a75ae7570a4fdf5e6e9d41e2c5d4c6b14f7f2b95cde1b7fb0708028a7683606.jpg",
+        "/lab/media/prompts/blobs/3a397d6515c210777a78c54abd6c67cb2761950091739159743474c4599d0cac.jpg",
+        "/lab/media/prompts/blobs/6caca1232fa2b7496cd14464f538027d31dfd1d05b12cf6a08bf2cab02841cfe.jpg",
+        "/lab/media/prompts/blobs/1771ca78cbe8a44472440137fb7de34ef9815b5016af5e751182e00630147df4.jpg",
+        "/lab/media/prompts/blobs/9e69ece521d7b79bfbdddc13cb892e98cbd99713f0e3934d0e79f8509414ab34.jpg",
+        "/lab/media/prompts/blobs/dbf68f096c861965f21d48f7e200061bdb38bb9fab02f4b81a2d2cd143a34c6f.jpg",
+        "/lab/media/prompts/blobs/786d36a68a52b45c40d3ac20e870898fd8f8d26d90c0fec66e019ce1ea60ccd4.jpg"
+      ],
+      "author": "DeepBlueX0",
+      "source_url": "https://x.com/DeepBlueX0/status/2121461700683821209",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121461700683821209",
+        "published_at": "Sat Nov 14 04:34:18 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "😵‍💫 GPT image 2.6 Prompt:",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "a952782095f72585f4cff8ec1a6b61e46efc2e8217b02c8f509859fac476d526",
+        "run_id": "2c3193cf-968d-4ebf-b649-f7089b1f5d81",
+        "raw_sha256": "6d77dcefceb197eb8e8d63e6c5879c4c2bad3e0c06adcdcf81b78725077704dd",
+        "result_media_ids": [
+          "2121461686574215168",
+          "2121461686578343937",
+          "2121461686628765696",
+          "2121461686607790080",
+          "2121461686586793984",
+          "2121461686607753216",
+          "2121461686586736640",
+          "2121461686582530048",
+          "2121461686620360704",
+          "2121461686645534720",
+          "2121461686599299072",
+          "2121461686611968000"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121466614814220385-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "DREAMLIKE FLOATING TRAVEL POSTCARD | SURREAL PHOTOGRAPHY CONCEPT\n\nTransform [UPLOAD YOUR PHOTO / PERSON] into a breathtaking, dreamy travel photograph set in [DESTINATION / CITY NAME].\n\nCreate a surreal yet photorealistic composition where the person appears naturally sitting or floating in mid-air, emerging from a beautiful vintage postage-stamp-shaped travel postcard. The postcard should feature a miniature scenic photograph of the destination, framed with authentic perforated white stamp edges and the destination name elegantly written inside.\n\nBACKGROUND: Use a breathtaking, location-specific landscape featuring recognizable scenery, mountains, lakes, forests, rooftops, misty valleys, coastal views, or iconic landmarks. Add atmospheric depth, soft morning mist, beautiful golden-hour lighting, and cinematic colors.\n\nSUBJECT INTEGRATION: Preserve the person's original facial identity, hairstyle, clothing, and recognizable features. Position them sitting casually on the edge of the floating postcard, with their legs naturally dangling outside the frame. Create a convincing 3D floating illusion with realistic proportions, natural shadows, and seamless compositing.\n\nART DIRECTION: Dreamy travel editorial photography, nostalgic European postcard aesthetics, whimsical surrealism, miniature-world illusion, soft cinematic color grading, atmospheric depth, delicate details, and professional travel magazine photography.\n\nIMPORTANT: The postcard must look like a real physical postage stamp floating in the scene. The person must appear to interact naturally with it, not simply pasted onto the background. Keep the destination name clearly readable. Avoid extra text, watermarks, distorted anatomy, or artificial-looking edges.\n\nOUTPUT: Ultra-realistic, visually captivating travel artwork, vertical 4:5 composition, high resolution, professional photographic quality.",
+      "images": [
+        "/lab/media/prompts/blobs/d488bdd2d9e84a3499f759a29e3a0cc98def27a2b63b9040084324ac4a640e7e.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2121466614814220385",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121466614814220385",
+        "published_at": "Sat Nov 14 04:53:50 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "e71176046175594fb464f95d534ce27e9bcbb36b086e10d5cb2c57f2d8ffb470",
+        "run_id": "2926ce70-2726-4604-8dae-8affc66edcdc",
+        "raw_sha256": "c0332f3e9970a7158b70b05ba4086ba288192c5ea7ae85e800e251f63a7b38ae",
+        "result_media_ids": [
+          "2121466604731187200"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2121597485537710504-body-prompt",
+      "title": "Image prompt by @AIwithWania",
+      "title_zh": "@AIwithWania 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "TWO-POSE EDITORIAL PORTRAIT  SERIES.. \n\nUse the two uploaded images as the \n\nSEQUENCE 1 — ELEGANT CLOSE-UP POSE\n\nCreate a stunning, ultra-realistic close-up portrait. The woman gently rests her cheek against one hand, with her elbow naturally positioned. Her head is slightly tilted, and she looks directly into the camera with a soft, confident expression and a subtle smile.\n\nHer beautiful wavy hair falls naturally around both shoulders. Capture delicate facial details, realistic skin texture, and naturally expressive eyes.\n\nSEQUENCE 2 — EFFORTLESS HAIR POSE\n\nCreate a second individual portrait of the exact same woman. She gently raises one hand and runs her fingers through her voluminous hair, slightly tilting her head while looking directly into the camera. Her expression is effortlessly charming, confident, and feminine.\n\nAllow some natural hair strands to fall around her face. Keep the pose relaxed and editorial, like a candid moment captured by a professional fashion photographer.\n\nVISUAL STYLE & ENVIRONMENT\n\n- Plain warm beige or soft grey background.\n- No furniture, no props, no extra objects.\n- Soft natural studio lighting.\n- Premium European editorial photography aesthetic.\n- Professional DSLR photography.\n- 85mm portrait lens, shallow depth of field.\n- Natural skin texture, realistic hair strands and fine details.\n- Soft cinematic color grading.\n- Elegant, sophisticated and photorealistic finish.\n\nSTRICT CONSISTENCY RULES\n\n1. Both images must feature exactly the same woman.\n2. Do not modify her facial identity or facial proportions.\n3. Keep the exact same outfit and accessories.\n4. Keep the same hairstyle, makeup, lighting and background.\n5. Only change the pose, camera angle and natural facial expression.\n6. Generate two separate portrait images, never a collage or a 3×3 grid.\n7. Avoid artificial skin smoothing, excessive makeup, distorted hands and unrealistic facial features.\n\nFINAL RESULT: Two exceptionally beautiful, natural-looking, high-end editorial portraits that look like authentic professional photographs rather than AI-generated images.",
+      "images": [
+        "/lab/media/prompts/blobs/f226ad0741667326720a2cdf83cf3abec70a17529a3eb1b0142402eb059b8241.jpg",
+        "/lab/media/prompts/blobs/e2c0a16e309f4464513a893267fdbffdf0406fd78171a15d488a77b15fb77320.jpg"
+      ],
+      "author": "AIwithWania",
+      "source_url": "https://x.com/AIwithWania/status/2121597485537710504",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121597485537710504",
+        "published_at": "Sat Nov 14 13:33:52 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6 on ChatGPT",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "b43e9a0acb0db19c8e97ea2caf407c43a38fe3de4629b541a6b3f64689c894df",
+        "run_id": "0da4b242-92de-41e9-a340-bc0d4ddd9556",
+        "raw_sha256": "9e1653998122ae915896272c66185c3de9c0908451d80a1debaa09889127161b",
+        "result_media_ids": [
+          "2121597457482055680",
+          "2121597470295683072"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2121622678478127403-body-prompt",
+      "title": "Image prompt by @mehvishs25",
+      "title_zh": "@mehvishs25 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create a stunning, ultra-realistic close-up portrait of the same young woman from the reference image. Preserve her exact facial identity, face shape, eye color, nose, lips, skin tone, and distinctive facial features. Do not alter her identity or make her look like a different person.\nHer long, voluminous dark chocolate-brown hair falls in soft, naturally tousled waves over her shoulders, with a few delicate strands framing her face. Her captivating hazel-green eyes, naturally defined eyebrows, soft eyelashes, rosy lips, and realistic glowing skin create an effortlessly beautiful appearance.\nShe wears delicate gold hoop earrings, a minimal gold pendant necklace, and an elegant muted sage-green sleeveless dress with subtle black floral lace detailing around the neckline. The outfit is stylish and feminine, with a slightly different design from the reference.\nShe poses naturally in a warm, cozy indoor environment with soft beige-peach walls, gentle window daylight, and a softly blurred background. Her expression is relaxed and confident, with a subtle natural smile.\nPhotography style: Professional editorial smartphone photography, intimate close-up framing, realistic skin pores, fine individual hair strands, natural facial proportions, soft cinematic lighting, gentle shadows, shallow depth of field, 85mm portrait lens, exceptional detail, photorealistic 8K quality.\nImportant: Keep the woman's face exactly consistent with the reference image. Only slightly change her outfit styling, pose, and background. Avoid beauty filters, excessive retouching, artificial skin, CGI appearance, or exaggerated facial features.",
+      "images": [
+        "/lab/media/prompts/blobs/4e088e96bd8a4b2be5eba1d9abf86eaa739680410865bd951f2e8ae01f93748a.jpg"
+      ],
+      "author": "mehvishs25",
+      "source_url": "https://x.com/mehvishs25/status/2121622678478127403",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121622678478127403",
+        "published_at": "Sat Nov 14 15:13:59 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6 on ChatGPT",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "30b8c734d6c4a6d8b74f7d053eb9a5864376726891d4318d2717b414a290dc97",
+        "run_id": "93650e97-e67a-479d-a591-67a6ac836931",
+        "raw_sha256": "3f7aae5c98b76372a5e272f88c6ded54eabc7b28913d7caa94a99db214a453b2",
+        "result_media_ids": [
+          "2121622661147279360"
         ],
         "input_media_ids": [],
         "note": {
