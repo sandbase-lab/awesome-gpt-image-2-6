@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 Images, animations and original prompts from X creators, curated by [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**76 examples: 57 prompts · 19 work examples** · Lab snapshot: 2026-11-15T04:39:29.461Z.
+**82 examples: 63 prompts · 19 work examples** · Lab snapshot: 2026-11-15T21:04:54.449Z.
 
 Model attribution follows the original creator’s claim. The variant may be unknown; SandBase has not rerun these examples. Images and prompts remain their creators’ work.
 
@@ -1954,6 +1954,453 @@ Automatically indexed from a photo/GIF post with an explicit prompt. Model attri
 左下签名：深蓝色实心圆点在前，白色手写体 DeepBlue 在后
 
 n=10
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121607404844617957-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121607404844617957)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/583f4ae71df1ff0507927c901b29cb957527db4f4514b8d7e7eaf8032e30fad3.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121607404844617957-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/d054827d844caa419f3f1f798afb06c9599d520f1c7cca5edfa3deb2a71159fe.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121607404844617957-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+WARM VINTAGE FLAT ILLUSTRATION | TEXTURED PAPER ART
+
+Create a beautiful, sophisticated flat illustration of [SUBJECT / SCENE / LOCATION] in a warm vintage storybook aesthetic.
+
+Interpret the entered subject creatively while maintaining its recognizable identity, essential features, natural proportions, and defining details. Build an appealing composition with thoughtfully arranged elements and a clear visual hierarchy.
+
+ILLUSTRATION STYLE
+
+Use large, bold, simplified color shapes resembling layered cut-paper artwork. Apply matte, opaque colors inspired by gouache painting and vintage screen printing. Add subtle, fine-grain texture throughout, creating the appearance of artwork printed on textured paper.
+
+Avoid heavy outlines. Define shapes through contrasting color areas, with slightly irregular, organic edges and a handcrafted appearance.
+
+COLOR PALETTE
+
+Use a harmonious, slightly muted vintage palette featuring dusty blue, peach beige, deep forest green, warm ivory, earthy brown, and occasional mustard-yellow accents.
+
+Use solid, clearly defined color shapes for shadows. Maintain subtle depth without gradients, realistic reflections, or glossy finishes.
+
+COMPOSITION AND DETAILS
+
+Arrange the subject and surrounding elements naturally, creating a balanced, visually engaging composition. Simplify architecture, objects, vegetation, furniture, and other details into clean geometric and organic shapes.
+
+If people are present, illustrate them using simple silhouettes, minimal facial features, and flat colors. Preserve recognizable characteristics without unnecessary realism.
+
+Every element should feel cohesive and belong to the same illustrated world.
+
+FINAL AESTHETIC
+
+The finished artwork should resemble a sophisticated European travel poster combined with a beautifully illustrated children's storybook. Make it elegant, nostalgic, warm, minimal, and visually distinctive.
+
+OUTPUT REQUIREMENTS
+
+- Aspect ratio: 3:4 portrait.
+- Consistent paper grain and matte printed texture.
+- Strong composition and recognizable subject.
+- No photorealism, 3D rendering, anime, watercolor bleeding, or thick black outlines.
+- No unnecessary text, borders, UI elements, or decorative clutter.
+
+Overall style: Warm vintage flat illustration, screen-printed color blocks, organic cut-paper shapes, and subtle tactile paper texture.
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121645147356270754-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2121645147356270754)
+
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/f18eb049f87f788415bf4ec379b66652f73857d6eaa4d61774861d547c31730e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121645147356270754-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/69c6138853d132a9fbf26597915789b87fb34aca7eea629ae64bb60315dcf101.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121645147356270754-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/8a7f5a9d0a4e1b46220228649e917da99318083ecb9f0e699356d911f44cb2a9.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121645147356270754-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/40ce77059c2770cc36c4b5326ee715f663df411b91e413c22fbfc2902351afc6.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121645147356270754-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an exceptionally beautiful, sophisticated minimalist geometric architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. CENTRAL ARCHITECTURAL SUBJECT
+
+Feature the iconic landmark as the dominant central attraction.
+
+Illustrate its recognisable architectural structure using simplified geometric shapes, clean silhouettes, elegant curves and carefully constructed flat-colour forms.
+Preserve the landmark’s distinctive architectural identity, proportions and signature details.
+Transform complex architectural details into beautifully simplified artistic elements.
+Integrate the architecture naturally into the surrounding abstract landscape.
+
+2. ORGANIC GEOMETRIC LANDSCAPE
+
+Create an imaginative environment using a combination of abstract geometric and organic forms.
+
+Oversized circles, semicircles and curved shapes representing the sun and moon.
+Flowing hills, layered mountains and abstract landscape formations.
+Architectural arches, rectangular frames and sculptural platforms.
+Overlapping organic shapes creating beautiful depth and dimension.
+Simplified trees, water bodies, pathways and natural elements.
+Large geometric foreground elements framing the landmark.
+
+Every shape should feel intentional, balanced and artistically connected.
+
+3. DISTINCTIVE COMPOSITION
+
+Create a visually striking composition inspired by contemporary Swiss graphic design, Bauhaus principles and modern editorial illustration.
+
+Strong central architectural arrangement.
+Beautiful interaction between positive and negative space.
+Layered foreground, middle ground and background.
+Oversized abstract forms framing the architecture.
+Elegant asymmetrical balance.
+Bold shapes with carefully controlled proportions.
+Avoid unnecessary details and visual clutter.
+
+4. UNIQUE DESTINATION COLOUR PALETTE
+
+Develop a completely distinctive colour identity inspired by the destination’s cultural character, architecture and natural environment.
+
+Use approximately 5–7 carefully coordinated colours.
+
+Combine bold contrasting tones with sophisticated muted shades, warm neutrals and occasional unexpected accents.
+
+Every destination must receive its own original palette. Never repeat colour combinations across the collection.
+
+5. COLOUR AND SHAPE INTERACTION
+
+Use large areas of solid colour, subtle overlapping forms and beautifully controlled tonal transitions.
+
+Crisp, clean edges.
+Smooth organic curves.
+Flat graphic illustration.
+Subtle paper-grain texture.
+Minimal gradients used selectively.
+Beautiful colour blocking.
+No excessive photorealism or 3D effects.
+
+6. POSTER TYPOGRAPHY
+
+Include sophisticated editorial typography.
+
+Main title: [DESTINATION NAME]
+
+Secondary text: [COUNTRY]
+
+Add a small poetic tagline inspired by the destination.
+
+Use elegant oversized contemporary serif or refined modern sans-serif typography.
+
+Typography should feel like an integral part of the composition rather than an afterthought.
+
+7. FINAL ART DIRECTION
+
+A beautiful fusion of minimalist architecture, organic geometry, contemporary graphic design, modernist illustration and premium international travel poster aesthetics.
+
+The finished artwork should feel timeless, intelligent, artistic, visually memorable and suitable for a prestigious design exhibition.
+
+Museum-quality graphic composition, exceptional colour harmony, clean silhouettes, refined details and sophisticated visual storytelling.
+
+Portrait 2:3 format. No borders, no watermark, no unnecessary text. Preserve the authentic recognisable identity of the landmark.
+```
+
+## [Image prompt by @Aiwithkami](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121660880178106681-body-prompt)
+
+[@Aiwithkami](https://x.com/Aiwithkami/status/2121660880178106681)
+
+[![Image prompt by @Aiwithkami](https://www.sandbase.ai/lab/media/prompts/blobs/36ea1cda1be04c9cbccb25f72a401b3c7ce31822adf5ccd74c9a68abbfc58971.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121660880178106681-body-prompt)
+[![Image prompt by @Aiwithkami](https://www.sandbase.ai/lab/media/prompts/blobs/7c9d09a4891bec7518e6c847e804662ad3e4106e1ec4a57f80a917983f86a9b6.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121660880178106681-body-prompt)
+[![Image prompt by @Aiwithkami](https://www.sandbase.ai/lab/media/prompts/blobs/69ed313cfc79ddc73d56e6b76e3dc6a76e486f215eac53103ba4b62b57af3ef9.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121660880178106681-body-prompt)
+[![Image prompt by @Aiwithkami](https://www.sandbase.ai/lab/media/prompts/blobs/220f584db428cf96a75424f426ec3bec8f93c4e21ca9e5b0328990bc68bad13e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121660880178106681-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. GIANT TYPOGRAPHIC COMPOSITION
+
+Feature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.
+
+The letter should dominate the composition, extending almost across the entire poster.
+
+Use bold, elegant, geometric typography with distinctive curves and negative spaces.
+
+2. LANDMARK INTEGRATION
+
+Seamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.
+
+The landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.
+
+Preserve the landmark’s authentic architectural details, proportions and recognisable silhouette.
+
+Create an artistic double-exposure effect where the architecture and typography become one unified visual composition.
+
+3. DISTINCTIVE COLOUR TREATMENT
+
+Choose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.
+
+Use two or three contrasting colours within the oversized typography.
+
+Apply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.
+
+Every new destination must receive a different colour combination. Never repeat palettes.
+
+4. TEXTURE & BACKGROUND
+
+Use a warm ivory, soft white or subtle textured paper background.
+
+Introduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.
+
+Keep the surrounding space clean and uncluttered.
+
+5. EDITORIAL TYPOGRAPHY
+
+Include the following information:
+
+[LANDMARK NAME]
+
+[CITY NAME]
+
+[COUNTRY NAME]
+
+Add small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.
+
+Use sophisticated editorial typography with carefully balanced spacing.
+
+6. ART DIRECTION
+
+Luxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.
+
+7. FINAL PRESENTATION
+
+Create a visually striking, intellectual and artistic collectible landmark poster.
+
+The architecture must remain recognisable while becoming an integral part of the oversized letter.
+
+Vertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.
+
+Avoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823699041157587-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2121823699041157587)
+
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/245e0071a9ce9204360476d2cbd0871557811310992894f5034f3d8778b5311d.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823699041157587-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/c2b16a72a36a0f110abd6c1ad4e15604e439e366e9ab4517fe77ab3286fc29fe.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823699041157587-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/da29436a4826344e24332e30dfca597cae2443e48de2221a255ea66ed4146b0e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823699041157587-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/8cfec58210903ab90ea389dafc6d2383fd58c93e28906e5faf910e8c749e0431.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823699041157587-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an exceptionally beautiful, ultra-minimalist Bauhaus-inspired architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. ICONIC ARCHITECTURAL SILHOUETTE
+
+Feature the destination’s most recognisable landmark as the central artistic subject.
+
+Preserve its authentic architectural identity and instantly recognisable silhouette.
+Simplify the structure into clean geometric lines, rectangles, circles, triangles and elegant architectural proportions.
+Use minimal details to communicate the landmark’s character.
+Make the architecture appear as though it has been constructed from carefully arranged geometric paper cutouts.
+Avoid photorealism, excessive details and complicated textures.
+
+2. GEOMETRIC ARTISTIC COMPOSITION
+
+Build the entire poster around a striking arrangement of oversized geometric shapes.
+
+Large semicircles and circles representing the sun or moon.
+Bold rectangular architectural foundations.
+Angular trapezoids and triangular landscape forms.
+Layered geometric platforms supporting the landmark.
+Carefully overlapping shapes creating depth.
+Simple curved forms and architectural abstractions.
+
+Use only shapes that complement the landmark’s natural structure.
+
+3. UNIQUE DESTINATION-INSPIRED COLOURS
+
+This is the most important part of the collection.
+
+Create a completely different 4–6 colour palette for every destination.
+
+Choose colours inspired by the destination’s architecture, history, cultural identity and natural surroundings.
+
+Use bold primary or complementary colours, balanced with warm ivory or soft neutral backgrounds.
+
+Never repeat the same colour combinations between destinations.
+
+4. MINIMALIST GRAPHIC STYLE
+
+Flat vector illustration.
+Solid colour blocks.
+Crisp architectural outlines.
+Strong geometric contrast.
+Subtle vintage paper texture.
+Perfectly controlled negative space.
+Clean, sophisticated modernist aesthetic.
+No gradients unless absolutely necessary.
+No unnecessary decorative elements.
+
+5. TYPOGRAPHY AND LAYOUT
+
+At the top, display the destination name in oversized, bold, uppercase geometric sans-serif typography.
+
+[DESTINATION NAME]
+
+At the bottom, add a small artistic caption:
+
+[COUNTRY]
+
+Include a discreet design movement label such as BAUHAUS.
+
+Keep the typography exceptionally clean, balanced and beautifully spaced.
+
+6. SIGNATURE ART DIRECTION
+
+Inspired by original Bauhaus graphic design, Swiss modernism, mid-century travel advertising and minimalist architectural illustration.
+
+The poster must look like a timeless collectible from an international design exhibition.
+
+The composition should be instantly recognisable even from a distance.
+
+Portrait 2:3 aspect ratio. Warm ivory background. No borders, no photographs, no people, no flowers, no leaves, no watermarks and no unnecessary text.
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121957609263739112-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121957609263739112)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/9f6380fec577e990a8739fe8a4f01fe06d07300c62772ea65c428591515541b8.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121957609263739112-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/f125e5528037aec8405f6e160f82b7160896db0847d985db0e1fd69c1b682a11.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121957609263739112-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+BOLD EDITORIAL STREETWEAR CAMPAIGN | GRAPHIC DESIGN & PEACE ART
+
+Create a striking, high-fashion editorial advertising poster for [BRAND / CAMPAIGN / CONCEPT], blending contemporary streetwear photography with oversized typography, artistic graphics, and commercial product presentation.
+
+COMPOSITION & PHOTOGRAPHY
+
+Feature a stylish young adult model in a relaxed, confident pose, wearing an oversized graphic T-shirt featuring [YOUR ARTWORK / DESIGN], layered with contemporary streetwear pieces. Use natural-looking editorial photography, dynamic styling, realistic fabric textures, and a bold fashion-magazine aesthetic.
+
+GRAPHIC DESIGN & LAYOUT
+
+Build a vibrant electric-blue background with oversized white typography, overlapping headlines, curved connecting lines, small informational labels, decorative symbols, and hand-drawn illustrations. Arrange the composition like a premium independent fashion magazine cover mixed with a creative advertising campaign.
+
+PRODUCT SHOWCASE
+
+Display the featured artwork across multiple products, including a T-shirt, laptop, printed fabric, and large close-up graphic panel. Ensure the original artwork remains visually consistent across every product.
+
+VISUAL STYLE & FINISH
+
+Use strong visual hierarchy, asymmetrical layouts, layered elements, crisp cutout photography, bold contrast, playful graphic details, and sophisticated editorial art direction. Combine modern streetwear culture with experimental Swiss-inspired graphic design.
+
+The final result should look like an authentic, professionally art-directed fashion campaign: energetic, youthful, visually rich, highly detailed, and instantly eye-catching. Vertical 4:5 composition, ultra-sharp, premium commercial poster quality.
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122013679248159226-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2122013679248159226)
+
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/0407b4ab262b6e50f05bdb45a08589e62c743a31886280dbb3564a4a95c3d56c.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122013679248159226-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/17fc9f1a074fea0a78b1b91feeea732d15d88c4e2042eff92d50033653510272.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122013679248159226-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/c968fe10744c10431ed8c0f89fef1431aaaff4a871009d5f226033941c3cb2d0.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122013679248159226-body-prompt)
+[![Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/media/prompts/blobs/bb9c9caa4d957f349df11fb58854d9f92c3e5953aa51b5c8821653642a7add2b.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122013679248159226-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an extraordinarily beautiful 3D layered paper-cut architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+Transform the destination into an enchanting miniature architectural world, crafted entirely from intricately layered, sculpted and cut coloured paper.
+
+1. CENTRAL ARCHITECTURAL SCENE
+
+Feature the destination’s most iconic landmark as the main attraction.
+Preserve its authentic and recognisable architectural identity.
+Recreate buildings using multiple layers of carefully cut paper.
+Include distinctive rooftops, windows, arches, towers, domes, bridges or architectural details specific to the destination.
+Arrange smaller surrounding buildings to create a charming miniature cityscape.
+Make the entire scene resemble a beautifully handcrafted architectural diorama.
+
+2. LAYERED PAPER LANDSCAPE
+
+Build an extraordinary three-dimensional environment.
+
+Flowing paper-cut hills and sculpted mountains.
+Layered rivers, lakes, coastlines or ocean waves where appropriate.
+Curved bridges, winding pathways and miniature staircases.
+Overlapping paper clouds, hills and architectural backgrounds.
+Intricate foreground elements framing the composition.
+Beautiful irregular paper-cut edges surrounding the scene.
+
+Every layer should have visible depth, delicate edges and realistic cast shadows.
+
+3. UNIQUE DESTINATION DETAILS
+
+Include small architectural and cultural elements that make each destination instantly recognisable.
+
+Select details according to the location rather than repeating the same decorations.
+
+4. DESTINATION-SPECIFIC COLOUR PALETTE
+
+Create a completely original colour identity for every destination.
+
+Use 6–9 harmonious shades inspired by its architecture, culture, landscape and atmosphere.
+
+Combine rich colours, soft pastels, contrasting paper layers and carefully selected neutral tones.
+
+Never repeat the same palette between different destinations.
+
+5. THREE-DIMENSIONAL PAPER ART
+
+Authentic handmade paper-cut aesthetic.
+Multiple overlapping cardstock layers.
+Sculpted paper architecture.
+Delicate folded and curved paper details.
+Visible paper thickness.
+Soft realistic shadows between layers.
+Beautiful tactile textures.
+Intricate miniature craftsmanship.
+Gentle studio lighting.
+
+The artwork must look like a real handcrafted paper sculpture photographed professionally, not a flat illustration or plastic 3D render.
+
+6. DISTINCTIVE POSTER COMPOSITION
+
+Place the entire architectural scene inside an elegant irregular organic paper-cut frame.
+
+Use a balanced vertical composition with:
+
+Large miniature architectural scene in the centre.
+Beautiful layered foreground.
+Subtle surrounding negative space.
+Soft neutral background.
+Realistic depth and dimensional shadows.
+
+7. MINIMAL TYPOGRAPHY
+
+Below the artwork, write:
+
+[CITY / DESTINATION NAME]
+
+[COUNTRY]
+
+Add one short, elegant poetic tagline of approximately 3–6 words inspired by the destination.
+
+Use elegant uppercase modern typography for the destination name and a delicate refined serif font for the tagline.
+
+Keep typography minimal, correctly spelled and beautifully positioned.
+
+8. FINAL ART DIRECTION
+
+A breathtaking fusion of miniature architecture, layered paper sculpture, handcrafted papercraft, whimsical storytelling and premium contemporary travel poster design.
+
+Extremely intricate craftsmanship, sophisticated colour harmony, realistic paper shadows, beautiful depth, exquisite architectural details and museum-quality presentation.
+
+Portrait 2:3 composition. No watermark, no unnecessary text, no photorealistic buildings, no plastic appearance.
 ```
 
 ## Contributing and rights

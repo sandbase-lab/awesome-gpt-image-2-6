@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-15T04:39:29.461Z",
+  "synced_at": "2026-11-15T21:04:54.449Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,8 +11,8 @@
     }
   ],
   "categories": {
-    "portrait": 31,
-    "other": 28,
+    "portrait": 35,
+    "other": 30,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
@@ -2925,6 +2925,244 @@
           "2121823127659597824",
           "2121823127617593345",
           "2121823127617630208"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121607404844617957-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "WARM VINTAGE FLAT ILLUSTRATION | TEXTURED PAPER ART\n\nCreate a beautiful, sophisticated flat illustration of [SUBJECT / SCENE / LOCATION] in a warm vintage storybook aesthetic.\n\nInterpret the entered subject creatively while maintaining its recognizable identity, essential features, natural proportions, and defining details. Build an appealing composition with thoughtfully arranged elements and a clear visual hierarchy.\n\nILLUSTRATION STYLE\n\nUse large, bold, simplified color shapes resembling layered cut-paper artwork. Apply matte, opaque colors inspired by gouache painting and vintage screen printing. Add subtle, fine-grain texture throughout, creating the appearance of artwork printed on textured paper.\n\nAvoid heavy outlines. Define shapes through contrasting color areas, with slightly irregular, organic edges and a handcrafted appearance.\n\nCOLOR PALETTE\n\nUse a harmonious, slightly muted vintage palette featuring dusty blue, peach beige, deep forest green, warm ivory, earthy brown, and occasional mustard-yellow accents.\n\nUse solid, clearly defined color shapes for shadows. Maintain subtle depth without gradients, realistic reflections, or glossy finishes.\n\nCOMPOSITION AND DETAILS\n\nArrange the subject and surrounding elements naturally, creating a balanced, visually engaging composition. Simplify architecture, objects, vegetation, furniture, and other details into clean geometric and organic shapes.\n\nIf people are present, illustrate them using simple silhouettes, minimal facial features, and flat colors. Preserve recognizable characteristics without unnecessary realism.\n\nEvery element should feel cohesive and belong to the same illustrated world.\n\nFINAL AESTHETIC\n\nThe finished artwork should resemble a sophisticated European travel poster combined with a beautifully illustrated children's storybook. Make it elegant, nostalgic, warm, minimal, and visually distinctive.\n\nOUTPUT REQUIREMENTS\n\n- Aspect ratio: 3:4 portrait.\n- Consistent paper grain and matte printed texture.\n- Strong composition and recognizable subject.\n- No photorealism, 3D rendering, anime, watercolor bleeding, or thick black outlines.\n- No unnecessary text, borders, UI elements, or decorative clutter.\n\nOverall style: Warm vintage flat illustration, screen-printed color blocks, organic cut-paper shapes, and subtle tactile paper texture.",
+      "images": [
+        "/lab/media/prompts/blobs/583f4ae71df1ff0507927c901b29cb957527db4f4514b8d7e7eaf8032e30fad3.jpg",
+        "/lab/media/prompts/blobs/d054827d844caa419f3f1f798afb06c9599d520f1c7cca5edfa3deb2a71159fe.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2121607404844617957",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121607404844617957",
+        "published_at": "Sat Nov 14 14:13:17 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "ab6b3103e47437a43c03060586856c335491d962f743018ad3438357d2f2ddcd",
+        "run_id": "de453a2a-ee6b-402e-9c92-f89c3cb84c38",
+        "raw_sha256": "1debe6b0f6aaefbb9b5fbc8d525c64caac9d97a330d6e6d5a154805bd6d4e044",
+        "result_media_ids": [
+          "2121607373227986944",
+          "2121607387023122432"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121645147356270754-body-prompt",
+      "title": "Image prompt by @Naiknelofar788",
+      "title_zh": "@Naiknelofar788 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create an exceptionally beautiful, sophisticated minimalist geometric architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\n1. CENTRAL ARCHITECTURAL SUBJECT\n\nFeature the iconic landmark as the dominant central attraction.\n\nIllustrate its recognisable architectural structure using simplified geometric shapes, clean silhouettes, elegant curves and carefully constructed flat-colour forms.\nPreserve the landmark’s distinctive architectural identity, proportions and signature details.\nTransform complex architectural details into beautifully simplified artistic elements.\nIntegrate the architecture naturally into the surrounding abstract landscape.\n\n2. ORGANIC GEOMETRIC LANDSCAPE\n\nCreate an imaginative environment using a combination of abstract geometric and organic forms.\n\nOversized circles, semicircles and curved shapes representing the sun and moon.\nFlowing hills, layered mountains and abstract landscape formations.\nArchitectural arches, rectangular frames and sculptural platforms.\nOverlapping organic shapes creating beautiful depth and dimension.\nSimplified trees, water bodies, pathways and natural elements.\nLarge geometric foreground elements framing the landmark.\n\nEvery shape should feel intentional, balanced and artistically connected.\n\n3. DISTINCTIVE COMPOSITION\n\nCreate a visually striking composition inspired by contemporary Swiss graphic design, Bauhaus principles and modern editorial illustration.\n\nStrong central architectural arrangement.\nBeautiful interaction between positive and negative space.\nLayered foreground, middle ground and background.\nOversized abstract forms framing the architecture.\nElegant asymmetrical balance.\nBold shapes with carefully controlled proportions.\nAvoid unnecessary details and visual clutter.\n\n4. UNIQUE DESTINATION COLOUR PALETTE\n\nDevelop a completely distinctive colour identity inspired by the destination’s cultural character, architecture and natural environment.\n\nUse approximately 5–7 carefully coordinated colours.\n\nCombine bold contrasting tones with sophisticated muted shades, warm neutrals and occasional unexpected accents.\n\nEvery destination must receive its own original palette. Never repeat colour combinations across the collection.\n\n5. COLOUR AND SHAPE INTERACTION\n\nUse large areas of solid colour, subtle overlapping forms and beautifully controlled tonal transitions.\n\nCrisp, clean edges.\nSmooth organic curves.\nFlat graphic illustration.\nSubtle paper-grain texture.\nMinimal gradients used selectively.\nBeautiful colour blocking.\nNo excessive photorealism or 3D effects.\n\n6. POSTER TYPOGRAPHY\n\nInclude sophisticated editorial typography.\n\nMain title: [DESTINATION NAME]\n\nSecondary text: [COUNTRY]\n\nAdd a small poetic tagline inspired by the destination.\n\nUse elegant oversized contemporary serif or refined modern sans-serif typography.\n\nTypography should feel like an integral part of the composition rather than an afterthought.\n\n7. FINAL ART DIRECTION\n\nA beautiful fusion of minimalist architecture, organic geometry, contemporary graphic design, modernist illustration and premium international travel poster aesthetics.\n\nThe finished artwork should feel timeless, intelligent, artistic, visually memorable and suitable for a prestigious design exhibition.\n\nMuseum-quality graphic composition, exceptional colour harmony, clean silhouettes, refined details and sophisticated visual storytelling.\n\nPortrait 2:3 format. No borders, no watermark, no unnecessary text. Preserve the authentic recognisable identity of the landmark.",
+      "images": [
+        "/lab/media/prompts/blobs/f18eb049f87f788415bf4ec379b66652f73857d6eaa4d61774861d547c31730e.jpg",
+        "/lab/media/prompts/blobs/69c6138853d132a9fbf26597915789b87fb34aca7eea629ae64bb60315dcf101.jpg",
+        "/lab/media/prompts/blobs/8a7f5a9d0a4e1b46220228649e917da99318083ecb9f0e699356d911f44cb2a9.jpg",
+        "/lab/media/prompts/blobs/40ce77059c2770cc36c4b5326ee715f663df411b91e413c22fbfc2902351afc6.jpg"
+      ],
+      "author": "Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2121645147356270754",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121645147356270754",
+        "published_at": "Sat Nov 14 16:43:16 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "5591f3a7d1a39a8ac3f3729c604332c2468cc249232c7a1ddbc9a5c0b37e6e2b",
+        "run_id": "40e4aabd-aa7a-43f7-85a9-69d70910f925",
+        "raw_sha256": "5034195a35d2e625a22be57271ff427d94c3edeee792ac77af3c257207754fdf",
+        "result_media_ids": [
+          "2121645136048480256",
+          "2121645136069468160",
+          "2121645136056827904",
+          "2121645136081985536"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121660880178106681-body-prompt",
+      "title": "Image prompt by @Aiwithkami",
+      "title_zh": "@Aiwithkami 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\n1. GIANT TYPOGRAPHIC COMPOSITION\n\nFeature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.\n\nThe letter should dominate the composition, extending almost across the entire poster.\n\nUse bold, elegant, geometric typography with distinctive curves and negative spaces.\n\n2. LANDMARK INTEGRATION\n\nSeamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.\n\nThe landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.\n\nPreserve the landmark’s authentic architectural details, proportions and recognisable silhouette.\n\nCreate an artistic double-exposure effect where the architecture and typography become one unified visual composition.\n\n3. DISTINCTIVE COLOUR TREATMENT\n\nChoose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.\n\nUse two or three contrasting colours within the oversized typography.\n\nApply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.\n\nEvery new destination must receive a different colour combination. Never repeat palettes.\n\n4. TEXTURE & BACKGROUND\n\nUse a warm ivory, soft white or subtle textured paper background.\n\nIntroduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.\n\nKeep the surrounding space clean and uncluttered.\n\n5. EDITORIAL TYPOGRAPHY\n\nInclude the following information:\n\n[LANDMARK NAME]\n\n[CITY NAME]\n\n[COUNTRY NAME]\n\nAdd small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.\n\nUse sophisticated editorial typography with carefully balanced spacing.\n\n6. ART DIRECTION\n\nLuxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.\n\n7. FINAL PRESENTATION\n\nCreate a visually striking, intellectual and artistic collectible landmark poster.\n\nThe architecture must remain recognisable while becoming an integral part of the oversized letter.\n\nVertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.\n\nAvoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.",
+      "images": [
+        "/lab/media/prompts/blobs/36ea1cda1be04c9cbccb25f72a401b3c7ce31822adf5ccd74c9a68abbfc58971.jpg",
+        "/lab/media/prompts/blobs/7c9d09a4891bec7518e6c847e804662ad3e4106e1ec4a57f80a917983f86a9b6.jpg",
+        "/lab/media/prompts/blobs/69ed313cfc79ddc73d56e6b76e3dc6a76e486f215eac53103ba4b62b57af3ef9.jpg",
+        "/lab/media/prompts/blobs/220f584db428cf96a75424f426ec3bec8f93c4e21ca9e5b0328990bc68bad13e.jpg"
+      ],
+      "author": "Aiwithkami",
+      "source_url": "https://x.com/Aiwithkami/status/2121660880178106681",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121660880178106681",
+        "published_at": "Sat Nov 14 17:45:47 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "d6415f9de4b276bd31ebd823ce0b0f04792a6ed398afa896095dcfd520ec1fa0",
+        "run_id": "2e84bbec-778d-43a0-812a-723f39d79214",
+        "raw_sha256": "0f9f9cc3ee76964eddb143f2ce253b8056ecf240cf37e415b2dbcf0791e1e8c4",
+        "result_media_ids": [
+          "2121660534810681344",
+          "2121660631778762752",
+          "2121660762070679552",
+          "2121660843469455360"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121823699041157587-body-prompt",
+      "title": "Image prompt by @Naiknelofar788",
+      "title_zh": "@Naiknelofar788 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create an exceptionally beautiful, ultra-minimalist Bauhaus-inspired architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\n1. ICONIC ARCHITECTURAL SILHOUETTE\n\nFeature the destination’s most recognisable landmark as the central artistic subject.\n\nPreserve its authentic architectural identity and instantly recognisable silhouette.\nSimplify the structure into clean geometric lines, rectangles, circles, triangles and elegant architectural proportions.\nUse minimal details to communicate the landmark’s character.\nMake the architecture appear as though it has been constructed from carefully arranged geometric paper cutouts.\nAvoid photorealism, excessive details and complicated textures.\n\n2. GEOMETRIC ARTISTIC COMPOSITION\n\nBuild the entire poster around a striking arrangement of oversized geometric shapes.\n\nLarge semicircles and circles representing the sun or moon.\nBold rectangular architectural foundations.\nAngular trapezoids and triangular landscape forms.\nLayered geometric platforms supporting the landmark.\nCarefully overlapping shapes creating depth.\nSimple curved forms and architectural abstractions.\n\nUse only shapes that complement the landmark’s natural structure.\n\n3. UNIQUE DESTINATION-INSPIRED COLOURS\n\nThis is the most important part of the collection.\n\nCreate a completely different 4–6 colour palette for every destination.\n\nChoose colours inspired by the destination’s architecture, history, cultural identity and natural surroundings.\n\nUse bold primary or complementary colours, balanced with warm ivory or soft neutral backgrounds.\n\nNever repeat the same colour combinations between destinations.\n\n4. MINIMALIST GRAPHIC STYLE\n\nFlat vector illustration.\nSolid colour blocks.\nCrisp architectural outlines.\nStrong geometric contrast.\nSubtle vintage paper texture.\nPerfectly controlled negative space.\nClean, sophisticated modernist aesthetic.\nNo gradients unless absolutely necessary.\nNo unnecessary decorative elements.\n\n5. TYPOGRAPHY AND LAYOUT\n\nAt the top, display the destination name in oversized, bold, uppercase geometric sans-serif typography.\n\n[DESTINATION NAME]\n\nAt the bottom, add a small artistic caption:\n\n[COUNTRY]\n\nInclude a discreet design movement label such as BAUHAUS.\n\nKeep the typography exceptionally clean, balanced and beautifully spaced.\n\n6. SIGNATURE ART DIRECTION\n\nInspired by original Bauhaus graphic design, Swiss modernism, mid-century travel advertising and minimalist architectural illustration.\n\nThe poster must look like a timeless collectible from an international design exhibition.\n\nThe composition should be instantly recognisable even from a distance.\n\nPortrait 2:3 aspect ratio. Warm ivory background. No borders, no photographs, no people, no flowers, no leaves, no watermarks and no unnecessary text.",
+      "images": [
+        "/lab/media/prompts/blobs/245e0071a9ce9204360476d2cbd0871557811310992894f5034f3d8778b5311d.jpg",
+        "/lab/media/prompts/blobs/c2b16a72a36a0f110abd6c1ad4e15604e439e366e9ab4517fe77ab3286fc29fe.jpg",
+        "/lab/media/prompts/blobs/da29436a4826344e24332e30dfca597cae2443e48de2221a255ea66ed4146b0e.jpg",
+        "/lab/media/prompts/blobs/8cfec58210903ab90ea389dafc6d2383fd58c93e28906e5faf910e8c749e0431.jpg"
+      ],
+      "author": "Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2121823699041157587",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121823699041157587",
+        "published_at": "Sun Nov 15 04:32:46 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "ab6f9fa672b3a0f701519eb635466184644b2cc527dd15a9289fbb5095c58de6",
+        "run_id": "0d65166b-315c-41af-b165-ca6a34203339",
+        "raw_sha256": "72760864849f770a621900085b90e71b0eb98d6ba5d4daab65838f390c3421eb",
+        "result_media_ids": [
+          "2121823689100738560",
+          "2121823689083961344",
+          "2121823689096470528",
+          "2121823689083879424"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121957609263739112-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "BOLD EDITORIAL STREETWEAR CAMPAIGN | GRAPHIC DESIGN & PEACE ART\n\nCreate a striking, high-fashion editorial advertising poster for [BRAND / CAMPAIGN / CONCEPT], blending contemporary streetwear photography with oversized typography, artistic graphics, and commercial product presentation.\n\nCOMPOSITION & PHOTOGRAPHY\n\nFeature a stylish young adult model in a relaxed, confident pose, wearing an oversized graphic T-shirt featuring [YOUR ARTWORK / DESIGN], layered with contemporary streetwear pieces. Use natural-looking editorial photography, dynamic styling, realistic fabric textures, and a bold fashion-magazine aesthetic.\n\nGRAPHIC DESIGN & LAYOUT\n\nBuild a vibrant electric-blue background with oversized white typography, overlapping headlines, curved connecting lines, small informational labels, decorative symbols, and hand-drawn illustrations. Arrange the composition like a premium independent fashion magazine cover mixed with a creative advertising campaign.\n\nPRODUCT SHOWCASE\n\nDisplay the featured artwork across multiple products, including a T-shirt, laptop, printed fabric, and large close-up graphic panel. Ensure the original artwork remains visually consistent across every product.\n\nVISUAL STYLE & FINISH\n\nUse strong visual hierarchy, asymmetrical layouts, layered elements, crisp cutout photography, bold contrast, playful graphic details, and sophisticated editorial art direction. Combine modern streetwear culture with experimental Swiss-inspired graphic design.\n\nThe final result should look like an authentic, professionally art-directed fashion campaign: energetic, youthful, visually rich, highly detailed, and instantly eye-catching. Vertical 4:5 composition, ultra-sharp, premium commercial poster quality.",
+      "images": [
+        "/lab/media/prompts/blobs/9f6380fec577e990a8739fe8a4f01fe06d07300c62772ea65c428591515541b8.jpg",
+        "/lab/media/prompts/blobs/f125e5528037aec8405f6e160f82b7160896db0847d985db0e1fd69c1b682a11.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2121957609263739112",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121957609263739112",
+        "published_at": "Sun Nov 15 13:24:52 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "04047dfe9e884c4e1514956d7216c0139b4442bd6b20aa7ad1164387707d398f",
+        "run_id": "5558b018-ea2b-46fa-8cb4-5b6674d0783b",
+        "raw_sha256": "992476cac22163fc4bf2a9eb7c9a27bea66a0d9557676ef1068e5a394159d118",
+        "result_media_ids": [
+          "2121957575227060224",
+          "2121957591303786496"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122013679248159226-body-prompt",
+      "title": "Image prompt by @Naiknelofar788",
+      "title_zh": "@Naiknelofar788 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create an extraordinarily beautiful 3D layered paper-cut architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\nTransform the destination into an enchanting miniature architectural world, crafted entirely from intricately layered, sculpted and cut coloured paper.\n\n1. CENTRAL ARCHITECTURAL SCENE\n\nFeature the destination’s most iconic landmark as the main attraction.\nPreserve its authentic and recognisable architectural identity.\nRecreate buildings using multiple layers of carefully cut paper.\nInclude distinctive rooftops, windows, arches, towers, domes, bridges or architectural details specific to the destination.\nArrange smaller surrounding buildings to create a charming miniature cityscape.\nMake the entire scene resemble a beautifully handcrafted architectural diorama.\n\n2. LAYERED PAPER LANDSCAPE\n\nBuild an extraordinary three-dimensional environment.\n\nFlowing paper-cut hills and sculpted mountains.\nLayered rivers, lakes, coastlines or ocean waves where appropriate.\nCurved bridges, winding pathways and miniature staircases.\nOverlapping paper clouds, hills and architectural backgrounds.\nIntricate foreground elements framing the composition.\nBeautiful irregular paper-cut edges surrounding the scene.\n\nEvery layer should have visible depth, delicate edges and realistic cast shadows.\n\n3. UNIQUE DESTINATION DETAILS\n\nInclude small architectural and cultural elements that make each destination instantly recognisable.\n\nSelect details according to the location rather than repeating the same decorations.\n\n4. DESTINATION-SPECIFIC COLOUR PALETTE\n\nCreate a completely original colour identity for every destination.\n\nUse 6–9 harmonious shades inspired by its architecture, culture, landscape and atmosphere.\n\nCombine rich colours, soft pastels, contrasting paper layers and carefully selected neutral tones.\n\nNever repeat the same palette between different destinations.\n\n5. THREE-DIMENSIONAL PAPER ART\n\nAuthentic handmade paper-cut aesthetic.\nMultiple overlapping cardstock layers.\nSculpted paper architecture.\nDelicate folded and curved paper details.\nVisible paper thickness.\nSoft realistic shadows between layers.\nBeautiful tactile textures.\nIntricate miniature craftsmanship.\nGentle studio lighting.\n\nThe artwork must look like a real handcrafted paper sculpture photographed professionally, not a flat illustration or plastic 3D render.\n\n6. DISTINCTIVE POSTER COMPOSITION\n\nPlace the entire architectural scene inside an elegant irregular organic paper-cut frame.\n\nUse a balanced vertical composition with:\n\nLarge miniature architectural scene in the centre.\nBeautiful layered foreground.\nSubtle surrounding negative space.\nSoft neutral background.\nRealistic depth and dimensional shadows.\n\n7. MINIMAL TYPOGRAPHY\n\nBelow the artwork, write:\n\n[CITY / DESTINATION NAME]\n\n[COUNTRY]\n\nAdd one short, elegant poetic tagline of approximately 3–6 words inspired by the destination.\n\nUse elegant uppercase modern typography for the destination name and a delicate refined serif font for the tagline.\n\nKeep typography minimal, correctly spelled and beautifully positioned.\n\n8. FINAL ART DIRECTION\n\nA breathtaking fusion of miniature architecture, layered paper sculpture, handcrafted papercraft, whimsical storytelling and premium contemporary travel poster design.\n\nExtremely intricate craftsmanship, sophisticated colour harmony, realistic paper shadows, beautiful depth, exquisite architectural details and museum-quality presentation.\n\nPortrait 2:3 composition. No watermark, no unnecessary text, no photorealistic buildings, no plastic appearance.",
+      "images": [
+        "/lab/media/prompts/blobs/0407b4ab262b6e50f05bdb45a08589e62c743a31886280dbb3564a4a95c3d56c.jpg",
+        "/lab/media/prompts/blobs/17fc9f1a074fea0a78b1b91feeea732d15d88c4e2042eff92d50033653510272.jpg",
+        "/lab/media/prompts/blobs/c968fe10744c10431ed8c0f89fef1431aaaff4a871009d5f226033941c3cb2d0.jpg",
+        "/lab/media/prompts/blobs/bb9c9caa4d957f349df11fb58854d9f92c3e5953aa51b5c8821653642a7add2b.jpg"
+      ],
+      "author": "Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2122013679248159226",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122013679248159226",
+        "published_at": "Sun Nov 15 17:07:40 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "8ecc0b0a76a6b59cafbb91f4b7ddfb56f81dc29d77cd529c9661afc20e751c14",
+        "run_id": "0d89844c-2246-4c85-afc4-12b2e2a0b073",
+        "raw_sha256": "647d39fb4698498c87d69d19bdb6d6fa2a9464300cc7f6e95f5e02b05cd9b665",
+        "result_media_ids": [
+          "2122013665310490625",
+          "2122013665327292417",
+          "2122013665323012096",
+          "2122013665302089728"
         ],
         "input_media_ids": [],
         "note": {
