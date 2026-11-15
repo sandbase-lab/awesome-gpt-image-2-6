@@ -4,7 +4,7 @@
 
 来自 X 原作者的图片、动图与原始提示词，由 [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**72 个案例：54 条提示词 · 18 个作品示例** · Lab 数据日期：2026-11-14T21:04:41.565Z。
+**76 个案例：57 条提示词 · 19 个作品示例** · Lab 数据日期：2026-11-15T04:39:29.461Z。
 
 模型归属依据作者的原帖声明；具体变体可能未知，尚未由 SandBase 复跑。图片和提示词权利属于原作者。
 
@@ -1789,6 +1789,172 @@ Important: Keep the woman's face exactly consistent with the reference image. On
 ```
 
 此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@cc6pazpo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+
+[@cc6pazpo](https://x.com/cc6pazpo/status/2121232098161766742)
+
+[![@cc6pazpo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/media/prompts/blobs/2023273ad9005678097ebd48f18459dbea45dd39bb2042cb70f089df815099c5.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+[![@cc6pazpo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/media/prompts/blobs/f36b5abd1a0ad90b5a26e3e7c968456fe371a8ff595e270e56bbb1b7d218d4da.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+[![@cc6pazpo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/media/prompts/blobs/c3be9de3cb9c5a799de4e7796d3e76dda49313cea34c66b5ef638da118d75b18.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+[![@cc6pazpo 的 GPT Image 2.6 作品](https://www.sandbase.ai/lab/media/prompts/blobs/8a716b0a00d9e7fa53e6f73eefe9669c6f8956249c52cc10bbb248ee48901091.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+
+自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。
+
+**作品示例：作者未公开提示词。**
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121291447706255657-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121291447706255657)
+
+[![@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/f1c9e43e910135ea0066c1b86ed676ef900872623a7ae497e69cb8e883f6a5ba.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121291447706255657-body-prompt)
+[![@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/ae94130a05c0876c3afa56579eb8b67dc785d0e44c359c7a2e16ef877d78d818.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121291447706255657-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+DREAMLIKE MINIATURE CITY | VINTAGE EUROPEAN ARCHITECTURAL WORLD GENERATOR
+
+Create an enchanting, ultra-detailed miniature interpretation of [CITY NAME], transforming its real-world architecture, iconic landmarks, streets and atmosphere into a beautiful vintage European storybook cityscape.
+
+Recreate the city's recognizable skyline and architectural identity using elegant cream-white and powder-blue buildings, intricate classical facades, domes, towers, arched windows, ornate rooftops and charming narrow streets. Add delicate flowering trees, tiny vintage cars, miniature pedestrians dressed in elegant retro fashion, and subtle golden petals floating through the air.
+
+VISUAL STYLE: A sophisticated blend of vintage European illustration, handcrafted miniature architecture and whimsical storybook aesthetics. Soft pastel blue, ivory, warm beige and muted gold palette. Beautiful natural daylight, gentle atmospheric depth, intricate architectural details and a slightly painterly finish while maintaining photorealistic miniature craftsmanship.
+
+COMPOSITION: A cinematic elevated street-level perspective looking into the heart of the city, with buildings framing both sides and iconic architecture creating depth in the background. Fill the entire frame with an immersive miniature world.
+
+IMPORTANT: Preserve the actual identity of the entered city. Feature its most recognizable landmarks and architectural characteristics rather than generating a generic European city. Every building, street, vehicle and detail should feel like part of one cohesive miniature world.
+
+OUTPUT: Vertical 4:5 composition, exceptionally detailed, dreamy, elegant, nostalgic and visually captivating. No text, no labels, no watermarks.
+```
+
+## [@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2121485625769763094)
+
+[![@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/a31d8ac7d2737f03bfdbdb3fe11e1504a08a30cf1f71f5b172e25457001650bc.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+[![@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/42ca72ee781fcd5795823237884ca9e0a06e356048136de1112c8b208846e305.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+[![@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/3f8a2e2868bd7b9c1feaa6d681d8e5a838571ebafe7160b8ac4bd6cdbbddc230.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+[![@Naiknelofar788 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/858dd23389bab7f385d9dedb42bd29ecd5ca61499d03f43bf973b16098c4eca5.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. GIANT TYPOGRAPHIC COMPOSITION
+
+Feature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.
+
+The letter should dominate the composition, extending almost across the entire poster.
+
+Use bold, elegant, geometric typography with distinctive curves and negative spaces.
+
+2. LANDMARK INTEGRATION
+
+Seamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.
+
+The landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.
+
+Preserve the landmark’s authentic architectural details, proportions and recognisable silhouette.
+
+Create an artistic double-exposure effect where the architecture and typography become one unified visual composition.
+
+3. DISTINCTIVE COLOUR TREATMENT
+
+Choose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.
+
+Use two or three contrasting colours within the oversized typography.
+
+Apply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.
+
+Every new destination must receive a different colour combination. Never repeat palettes.
+
+4. TEXTURE & BACKGROUND
+
+Use a warm ivory, soft white or subtle textured paper background.
+
+Introduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.
+
+Keep the surrounding space clean and uncluttered.
+
+5. EDITORIAL TYPOGRAPHY
+
+Include the following information:
+
+[LANDMARK NAME]
+
+[CITY NAME]
+
+[COUNTRY NAME]
+
+Add small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.
+
+Use sophisticated editorial typography with carefully balanced spacing.
+
+6. ART DIRECTION
+
+Luxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.
+
+7. FINAL PRESENTATION
+
+Create a visually striking, intellectual and artistic collectible landmark poster.
+
+The architecture must remain recognisable while becoming an integral part of the oversized letter.
+
+Vertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.
+
+Avoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.
+```
+
+## [@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+
+[@DeepBlueX0](https://x.com/DeepBlueX0/status/2121823146798174625)
+
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/cd87a6a554c6933859dbc052382fff3ebe9ddc5279783cb405114c95ad70414f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/9f14a61de99708926c1ffe8f0dcdbdc87bc50efc9a8efb25aae15d8118a83f73.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/60e93d30d01145963ca412559f733c7a5c7f234d31cd7c69348faf1439d24b92.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/0bf2d7283f3e493c4068524b47ad956d77d4989f35a210051c05f9ae38c2c730.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/95ab309d9d5ec14e8c28e4698ae9b3c7e90387050eb1eaa5e5614623aa77fc4e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+[![@DeepBlueX0 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/01f55d14e50a5d43818d5d7daff3291b1fd4469d946432f9398c083290fd4197.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。
+
+```text
+古代生活場景 × 成熟東方美人 × 同行者第一人稱視角 × 自然互動 × 手機生活抓拍。
+
+每張獨立選擇一位二十多歲的成年東方女性。她容貌自然精緻，氣質可以慵懶、嫵媚、俏皮、清冷或從容。
+
+人物身材高挑修長，腰線纖細，上身豐滿，胸腰曲線鮮明，整體比例自然協調。
+
+【古代場景與服裝】
+
+每張自由選擇一處有生活氣息的古代場景，可以是馬車、畫舫、庭院、客棧、街市、山間或其他地方。
+
+根據人物身份與場景，設計具有東方韻味的衣裙、髮式與配飾。衣裙可輕盈柔軟、修身收腰，以自然的領口、腰線與布料層次展現女性魅力。布料隨姿態、動作與身體接觸自然貼合、垂墜和起皺。
+
+環境保留能辨認場景的關鍵結構。人物、衣著、器物與空間風格彼此協調，細節隨取景自然出現。
+
+【同行者視角與互動】
+
+以同行者近距離手持手機抓拍的第一人稱視角，記錄人物身邊正在發生的一件小事。適度運用廣角，讓人物與周圍環境處於自然的空間關係中。
+
+攝影者的手、手臂或古代衣袖可自然進入畫面邊緣，位置與持機方式合理，並根據當下事件參與互動。
+
+人物可以正在休息、行走、整理衣物、轉身、回頭，或專注於自己的事情。她可能與同行者交談、玩鬧、分享物品、互相幫忙，也可能因對方的舉動露出微妙反應。動作、表情與視線由事件自然帶出。
+
+同批作品自由變化人物、場景、事件、姿態、視線、景別、機位與構圖，探索不同的距離感和畫面結構。
+
+【影像質感】
+
+像真實存在的古代生活瞬間，被同行的人隨手拍下。自然日光或符合場景的燈火照亮人物，保留真實皮膚紋理、衣料質感與環境細節。廣角透視自然，人物身體、前景與背景的比例和光影保持協調。
+
+竪版 9:16，獨立單圖。
+
+左下签名：深蓝色实心圆点在前，白色手写体 DeepBlue 在后
+
+n=10
+```
 
 ## 贡献与权利
 

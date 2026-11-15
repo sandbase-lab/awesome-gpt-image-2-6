@@ -1579,3 +1579,149 @@ Important: Keep the woman's face exactly consistent with the reference image. On
 ```
 
 This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [GPT Image 2.6 work by @cc6pazpo](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121232098161766742-body-prompt)
+
+[@cc6pazpo](https://x.com/cc6pazpo/status/2121232098161766742)
+
+Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.
+
+**Work example: no prompt shared by the author.**
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121291447706255657-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121291447706255657)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+DREAMLIKE MINIATURE CITY | VINTAGE EUROPEAN ARCHITECTURAL WORLD GENERATOR
+
+Create an enchanting, ultra-detailed miniature interpretation of [CITY NAME], transforming its real-world architecture, iconic landmarks, streets and atmosphere into a beautiful vintage European storybook cityscape.
+
+Recreate the city's recognizable skyline and architectural identity using elegant cream-white and powder-blue buildings, intricate classical facades, domes, towers, arched windows, ornate rooftops and charming narrow streets. Add delicate flowering trees, tiny vintage cars, miniature pedestrians dressed in elegant retro fashion, and subtle golden petals floating through the air.
+
+VISUAL STYLE: A sophisticated blend of vintage European illustration, handcrafted miniature architecture and whimsical storybook aesthetics. Soft pastel blue, ivory, warm beige and muted gold palette. Beautiful natural daylight, gentle atmospheric depth, intricate architectural details and a slightly painterly finish while maintaining photorealistic miniature craftsmanship.
+
+COMPOSITION: A cinematic elevated street-level perspective looking into the heart of the city, with buildings framing both sides and iconic architecture creating depth in the background. Fill the entire frame with an immersive miniature world.
+
+IMPORTANT: Preserve the actual identity of the entered city. Feature its most recognizable landmarks and architectural characteristics rather than generating a generic European city. Every building, street, vehicle and detail should feel like part of one cohesive miniature world.
+
+OUTPUT: Vertical 4:5 composition, exceptionally detailed, dreamy, elegant, nostalgic and visually captivating. No text, no labels, no watermarks.
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121485625769763094-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2121485625769763094)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. GIANT TYPOGRAPHIC COMPOSITION
+
+Feature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.
+
+The letter should dominate the composition, extending almost across the entire poster.
+
+Use bold, elegant, geometric typography with distinctive curves and negative spaces.
+
+2. LANDMARK INTEGRATION
+
+Seamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.
+
+The landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.
+
+Preserve the landmark’s authentic architectural details, proportions and recognisable silhouette.
+
+Create an artistic double-exposure effect where the architecture and typography become one unified visual composition.
+
+3. DISTINCTIVE COLOUR TREATMENT
+
+Choose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.
+
+Use two or three contrasting colours within the oversized typography.
+
+Apply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.
+
+Every new destination must receive a different colour combination. Never repeat palettes.
+
+4. TEXTURE & BACKGROUND
+
+Use a warm ivory, soft white or subtle textured paper background.
+
+Introduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.
+
+Keep the surrounding space clean and uncluttered.
+
+5. EDITORIAL TYPOGRAPHY
+
+Include the following information:
+
+[LANDMARK NAME]
+
+[CITY NAME]
+
+[COUNTRY NAME]
+
+Add small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.
+
+Use sophisticated editorial typography with carefully balanced spacing.
+
+6. ART DIRECTION
+
+Luxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.
+
+7. FINAL PRESENTATION
+
+Create a visually striking, intellectual and artistic collectible landmark poster.
+
+The architecture must remain recognisable while becoming an integral part of the oversized letter.
+
+Vertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.
+
+Avoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.
+```
+
+## [Image prompt by @DeepBlueX0](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121823146798174625-body-prompt)
+
+[@DeepBlueX0](https://x.com/DeepBlueX0/status/2121823146798174625)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+古代生活場景 × 成熟東方美人 × 同行者第一人稱視角 × 自然互動 × 手機生活抓拍。
+
+每張獨立選擇一位二十多歲的成年東方女性。她容貌自然精緻，氣質可以慵懶、嫵媚、俏皮、清冷或從容。
+
+人物身材高挑修長，腰線纖細，上身豐滿，胸腰曲線鮮明，整體比例自然協調。
+
+【古代場景與服裝】
+
+每張自由選擇一處有生活氣息的古代場景，可以是馬車、畫舫、庭院、客棧、街市、山間或其他地方。
+
+根據人物身份與場景，設計具有東方韻味的衣裙、髮式與配飾。衣裙可輕盈柔軟、修身收腰，以自然的領口、腰線與布料層次展現女性魅力。布料隨姿態、動作與身體接觸自然貼合、垂墜和起皺。
+
+環境保留能辨認場景的關鍵結構。人物、衣著、器物與空間風格彼此協調，細節隨取景自然出現。
+
+【同行者視角與互動】
+
+以同行者近距離手持手機抓拍的第一人稱視角，記錄人物身邊正在發生的一件小事。適度運用廣角，讓人物與周圍環境處於自然的空間關係中。
+
+攝影者的手、手臂或古代衣袖可自然進入畫面邊緣，位置與持機方式合理，並根據當下事件參與互動。
+
+人物可以正在休息、行走、整理衣物、轉身、回頭，或專注於自己的事情。她可能與同行者交談、玩鬧、分享物品、互相幫忙，也可能因對方的舉動露出微妙反應。動作、表情與視線由事件自然帶出。
+
+同批作品自由變化人物、場景、事件、姿態、視線、景別、機位與構圖，探索不同的距離感和畫面結構。
+
+【影像質感】
+
+像真實存在的古代生活瞬間，被同行的人隨手拍下。自然日光或符合場景的燈火照亮人物，保留真實皮膚紋理、衣料質感與環境細節。廣角透視自然，人物身體、前景與背景的比例和光影保持協調。
+
+竪版 9:16，獨立單圖。
+
+左下签名：深蓝色实心圆点在前，白色手写体 DeepBlue 在后
+
+n=10
+```
