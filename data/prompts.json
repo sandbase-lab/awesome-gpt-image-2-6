@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-15T21:04:54.449Z",
+  "synced_at": "2026-11-16T21:05:39.614Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,8 +11,8 @@
     }
   ],
   "categories": {
-    "portrait": 35,
-    "other": 30,
+    "portrait": 36,
+    "other": 36,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
@@ -3163,6 +3163,275 @@
           "2122013665327292417",
           "2122013665323012096",
           "2122013665302089728"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2121540203324019137-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "COLLECTIBLE THREE-COLOR REDUCTION LINOCUT | CITY TRAVEL POSTER\n\nCreate a striking, collectible three-color reduction linocut travel poster featuring [CITY NAME], printed vertically in a 4:5 aspect ratio on pristine, pure-white paper.\n\nCOMPOSITION & ARCHITECTURE\n\nMake [PRIMARY LANDMARK] the dominant focal point. Select two additional instantly recognizable landmarks from [CITY NAME], ensuring their architectural forms create a compelling visual contrast.\n\nBring all three landmarks together along one continuous waterfront, artistically reimagining their geographical positions while preserving their authentic silhouettes, architectural proportions and defining details.\n\nUse an asymmetric, low three-quarter perspective. Ground every structure in a believable waterfront environment with convincing foundations, bridges and architectural connections.\n\nEstablish a unified horizontal visual flow through varied building heights, intentional spacing and subtle overlaps. Maintain a balanced, organic composition. Avoid conventional skyline arrangements, stacked architectural tiers or disconnected floating structures.\n\nInclude exactly four tiny contemporary pedestrians along the waterfront to introduce scale, atmosphere and subtle human presence.\n\nPRINTMAKING & COLOUR PALETTE\n\nUse exactly three destination-inspired ink colours, carefully selected to reflect the city's character, architecture and atmosphere.\n\nEmbrace authentic reduction linocut aesthetics:\n\n- Bold, sculptural carved shapes and confident silhouettes.\n- Rhythmic white negative-space cuts revealing the texture of the paper.\n- Organic, slightly irregular hand-carved edges.\n- Subtle variations in ink density and uneven pressure, suggesting traditional block printing.\n- Strong contrasts between deep architectural shadows and luminous unprinted areas.\n- Waterfront reflections simplified into expressive, broken horizontal marks.\n\nThe finished artwork should feel like an authentic, artisan-produced limited-edition print rather than a digitally generated illustration.\n\nTYPOGRAPHY & LAYOUT\n\nPosition the text \"[CITY NAME]\" discreetly in the upper-left corner.\n\nUse a clean, SUIT-style uppercase sans-serif typeface in Regular or Medium weight, with restrained letter spacing and generous surrounding white space.\n\nKeep the typography minimal, sophisticated and secondary to the artwork.\n\nFINAL ART DIRECTION\n\nA refined collectible destination poster combining traditional Japanese-inspired reduction printmaking, contemporary graphic design and distinctive architectural illustration.\n\nPrioritize strong composition, architectural authenticity, elegant negative space, carefully controlled colour separation and timeless visual appeal.\n\nSTRICT RESTRICTIONS: No additional text, captions, inscriptions, decorative lettering, logos, borders, signatures or watermarks. Exactly three ink colours, four pedestrians and one continuous waterfront composition.",
+      "images": [
+        "/lab/media/prompts/blobs/494e013c739218e537fc0dad374561cec434b3a6e4d126cc0d6b9396ef0f0b36.jpg",
+        "/lab/media/prompts/blobs/a42b20e35d2eaa6d5c56ac400e95a8ef99dda7364ca44902f654aee2a35f71bc.jpg",
+        "/lab/media/prompts/blobs/d752f58566142ea954cbf24038ef46d6f801773a14f4dfeae14f1ad5dbd841f2.jpg",
+        "/lab/media/prompts/blobs/3db2452aca2a52e7257c887d2289faf64189dcba6a1b2fd2bbb79b3785fea89a.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2121540203324019137",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2121540203324019137",
+        "published_at": "Sat Nov 14 09:46:15 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "47128784f8ee6de8e7c9cabfde2cc7f403c61abd67da1b237aa974c5fabe687b",
+        "run_id": "53cb5581-b8e2-4eb2-a252-9686862f9c80",
+        "raw_sha256": "5de516cfe46e964bb85c6dd031ed60d16f07377fa9e16a89d666a80291aadd03",
+        "result_media_ids": [
+          "2121540153261125633",
+          "2121540166468997120",
+          "2121540178393399296",
+          "2121540189663453186"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122181627057209426-body-prompt",
+      "title": "Image prompt by @Naiknelofar788",
+      "title_zh": "@Naiknelofar788 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create an exceptionally beautiful, sophisticated 3D paper-quilling architectural artwork featuring [LANDMARK NAME], [CITY], [COUNTRY], inspired by the reference image.\n\n1. CENTRAL LANDMARK\n\nFeature one iconic landmark as the dominant subject.\nPreserve its authentic architectural silhouette and recognisable details.\nRecreate the architecture using intricate rolled-paper strips, delicate paper coils and carefully arranged quilled shapes.\nGive the structure beautiful raised, sculptural dimensions.\nMake the landmark appear handcrafted from individually shaped and assembled paper.\n\n2. MINIMALIST GEOMETRIC LANDSCAPE\n\nSurround the landmark with a simple, elegant abstract landscape.\n\nLarge circular sun or moon behind the architecture.\nLayered geometric mountains and hills.\nSimple curved foreground shapes.\nMinimal architectural platforms or steps.\nClean overlapping paper layers.\nNo unnecessary decorative elements.\n\nKeep the landscape flat and geometric while making the landmark richly detailed through paper quilling.\n\n3. SIGNATURE PAPER-QUILLING TECHNIQUE\n\nThis is the defining feature.\n\nIntricately rolled and curled paper strips.\nFine spiral coils and delicate loops.\nPrecisely arranged parallel paper lines.\nRaised paper edges and visible thickness.\nBeautifully sculpted architectural curves.\nRealistic miniature paper craftsmanship.\nSubtle natural shadows between individual paper pieces.\n\nThe quilling should be most detailed on the landmark, while the surrounding landscape remains clean and minimal.\n\n4. UNIQUE COLOUR IDENTITY\n\nChoose a completely different colour palette for every destination.\n\nUse 4–6 coordinated colours inspired by the landmark’s architecture, culture and surroundings.\n\nChange the colours of:\n\nLandmark paper coils.\nBackground sun.\nGeometric mountains.\nForeground landscape.\nSupporting paper details.\n\nAvoid repeating colour combinations across destinations.\n\n5. PRESENTATION AND LAYOUT\n\nSquare or near-square central artwork.\nSoft, pale neutral background.\nGenerous white space around the composition.\nElegant white mounting paper.\nDeep navy or destination-inspired contrasting outer mat.\nRealistic soft shadows.\nProfessional gallery-style presentation.\nFront-facing, perfectly balanced composition.\n\n6. HANDWRITTEN TYPOGRAPHY\n\nWrite the actual landmark name beneath the artwork.\n\n[LANDMARK NAME]\n\nUse a beautiful, natural handwritten script font, as though the name has been personally written by an artist with a fine calligraphy pen.\n\nKeep the lettering elegant, slightly flowing and artistic.\n\nDo not use bold block letters or mechanical typography.\n\n7. FINAL ART DIRECTION\n\nPremium handmade paper-quilling artwork, minimalist architectural illustration, geometric landscape design, intricate paper sculpture, tactile cardstock texture and sophisticated gallery presentation.\n\nThe result should look like a real handcrafted paper artwork photographed in a professional art studio.\n\nNo photographic architecture, no plastic 3D appearance, no flowers, no unnecessary leaves, no watermark, no extra text.",
+      "images": [
+        "/lab/media/prompts/blobs/ef0ed44c46f4ed0043116069df8990912b6f832948f98e1be73ca1a4c2a92426.jpg",
+        "/lab/media/prompts/blobs/9c2652fa5b06c3b16f441b4ea7a37836c5ae30aba0e2d318d49ed78a17be0228.jpg",
+        "/lab/media/prompts/blobs/e5b1a66f2f8aa0da5f766f0d0b6bc6b21810d9cf317befcd85005fa59e6dd28f.jpg",
+        "/lab/media/prompts/blobs/02192b7a4c8aaf52705880b34d23d172e1cc12134109c9a83f8c4d5f914f9ccc.jpg"
+      ],
+      "author": "Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2122181627057209426",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122181627057209426",
+        "published_at": "Mon Nov 16 04:15:02 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "bf357c7753e9d76d152cf5592a02c894ebda66573e01cc9a84cdbb25d1e8697e",
+        "run_id": "c800d5f0-dff0-4d5e-abb7-f214a19527b6",
+        "raw_sha256": "3f27cc7c494a05d4c57cd65feee9d293be9038e40c245f0fe90c1fc8690463c0",
+        "result_media_ids": [
+          "2122181613224390656",
+          "2122181613232787456",
+          "2122181613333381121",
+          "2122181613224448000"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2122186361193341356-body-prompt",
+      "title": "Image prompt by @oggii_0",
+      "title_zh": "@oggii_0 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Turn my photo into a cute 3D animated portrait. Preserve recognizable features and hairstyle. Add a big round head, huge googly eyes, tiny pupils, round glasses, a button nose and tiny “o” mouth. Slightly surprised expression. Oversized black turtleneck, soft matte 3D, sage-green background, chest-up, 3:4.",
+      "images": [
+        "/lab/media/prompts/blobs/2a20993574e81f3356f18174c84bf47e8e134f57206d47acc8cd262818afe560.jpg",
+        "/lab/media/prompts/blobs/91826dd5be4b235625cdc035b43583294fd3ea8ddb3bf06e701c2827fe4ffd2d.jpg",
+        "/lab/media/prompts/blobs/5b95e77947c0d24179848fc5e6150dfb67c97c53c84c5b30799d62851defdd99.jpg"
+      ],
+      "author": "oggii_0",
+      "source_url": "https://x.com/oggii_0/status/2122186361193341356",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122186361193341356",
+        "published_at": "Mon Nov 16 04:33:51 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "Turn your photo into a cute 3D animated portrait using GPT image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "ae1a4d05f2db62ccacba7aef9c6b61dd9664d3f291e6069b2c78f8beddb162a2",
+        "run_id": "83b098be-b369-4b50-8c29-3262a35d90bd",
+        "raw_sha256": "7a73f9eef27760fb26c758605defdb80425d6e829d6a2abaa5ad50ae4d30f1c2",
+        "result_media_ids": [
+          "2122186336635695104",
+          "2122186345133252608",
+          "2122186352779489281"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122203670779748583-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "Create a beautiful, highly detailed travel-inspired scrapbook collage featuring [YOUR DESTINATION / COUNTRY / CITY / THEME], designed as an elegant circular composition on a clean, warm ivory background.\n\nCOMPOSITION & VISUAL STYLE\n\nBuild a large, perfectly balanced circular collage filled with multiple overlapping, realistic photographs showcasing the destination's most iconic landmarks, beautiful landscapes, architecture, local culture, street scenes, and signature food. Arrange the photographs like carefully layered vintage travel magazine cutouts, with subtle torn-paper edges and natural transitions.\n\nDESIGN DETAILS\n\nPlace the destination name prominently in the centre using elegant handwritten cursive typography. Incorporate small decorative elements such as the country's flag, vintage postage stamps, miniature airplane illustrations with dotted flight paths, tiny hearts, handwritten travel notes, botanical leaves, flowers, and playful travel doodles.\n\nCOLOUR & AESTHETIC\n\nUse a soft, sophisticated palette of warm cream, muted pastels, natural greens, gentle blues, and sunlit photographic tones. Add subtle paper textures, delicate shadows, and fine hand-drawn outlines to create a charming, handcrafted editorial appearance.\n\nFINAL PRESENTATION\n\nKeep the entire circular artwork clearly visible, centred, and surrounded by generous ivory negative space. Maintain a polished, cohesive composition with realistic photography and artistic scrapbook layering. Every destination should have its own unique visual identity while retaining the same elegant aesthetic.\n\nAspect ratio: 1:1.\nQuality: Ultra-detailed, high-resolution, premium editorial design.",
+      "images": [
+        "/lab/media/prompts/blobs/ecdbca0162f87ee9b042d785c82bfd4a0adfa5e16580713048b7f2d42da80ffc.jpg",
+        "/lab/media/prompts/blobs/ac046627cbbfa1b9e75e8f5857e05422725a3731ecdd5564dd17d4e1c56b67b1.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2122203670779748583",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122203670779748583",
+        "published_at": "Mon Nov 16 05:42:38 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "51ce3ac7c72b38eecb20466df718f0aabd868faafa2c45cfc5688971b7f8233d",
+        "run_id": "265448ba-1ce2-416c-9c97-ea173a19172a",
+        "raw_sha256": "80ccf32f296d068f997156b935959260e10eaed67056fec7a8c9946da785a9b6",
+        "result_media_ids": [
+          "2122203646066917376",
+          "2122203659350269952"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122211200599793843-body-prompt",
+      "title": "Image prompt by @Andy4aicreate",
+      "title_zh": "@Andy4aicreate 分享的图片提示词",
+      "category": "other",
+      "prompt": "一张九比十六竖版电影感生活摄影，平视三分之二身构图。一位完全虚构的四十岁东亚女性在雨天傍晚的小厨房准备晚饭。她留着深棕短发，穿深青色不透肤长袖棉衫、铁锈红帆布围裙和深灰长裤，没有首饰与妆面修饰。她专注地低头看锅，嘴角自然放松，身体微微侧向炉灶。\n\n左手稳握黑色平底锅的长柄，右手用不锈钢长柄勺翻动锅中的南瓜块和蘑菇，锅保持水平，不抛锅、不让食物悬空。细微的蒸汽沿着锅沿升起，手指与工具接触合理。\n\n厨房有旧木橱柜、灰蓝瓷砖与一扇挂着雨珠的小窗，台面只放洗净的蔬菜和一块叠好的擦布。窗外冷灰雨光与室内暖黄吊灯相互平衡，蒸汽边缘有柔和亮光，背景适度虚化。\n\n五十毫米镜头，光圈二点零，轻微高光晕化与细腻胶片颗粒。保留皮肤自然纹理、围裙的粗棉织纹、锅的使用痕迹和可信的蒸汽。生活抓拍气质，不做时尚大片，不出现品牌、文字、水印、塑料皮肤、过度磨皮或三维渲染质感。\n\n—\n\nJohn",
+      "images": [
+        "/lab/media/prompts/blobs/1ad76c0856ee1142405b112f284959b0a324211beaf2145d746d3048691f1166.jpg"
+      ],
+      "author": "Andy4aicreate",
+      "source_url": "https://x.com/Andy4aicreate/status/2122211200599793843",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122211200599793843",
+        "published_at": "Mon Nov 16 06:12:33 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "用 Token360 · GPT Image 2.6 Flare",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "4b3a4379fb694225c5bfd5f0eeb33da1c027887a834d414aa7ae70de1156dc9b",
+        "run_id": "60373ad2-5743-4d38-9e79-99a16a27e456",
+        "raw_sha256": "1964aac1eaa81291e47c08a2cf0c135025d6aa7cb713de07bfa06b8a5fd45446",
+        "result_media_ids": [
+          "2122211150503055360"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122284153567924407-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "other",
+      "prompt": "SURREAL 3D POP-OUT PHOTOGRAPHY | FRAMED NATURE ART\n\nCreate a stunning, photorealistic 3D pop-out artwork featuring [YOUR SUBJECT / OBJECT / LANDSCAPE / SCENE], transforming an ordinary framed photograph into an extraordinary three-dimensional illusion.\n\nCOMPOSITION & ART DIRECTION\n\nShow a beautifully framed photograph mounted on a minimal, warm ivory or off-white wall. The central subject should dramatically break through the boundaries of the picture frame, extending outward into the real world with an impressive 3D trompe-l'œil effect.\n\nCreate a seamless transition between the flat photograph and the three-dimensional elements. For example, tree trunks, branches, roots, flowers, roads, or other natural elements should visibly emerge beyond the frame, creating realistic depth and dimension.\n\nVISUAL STYLE & DETAILS\n\nUse ultra-realistic textures, intricate surface details, natural colours, cinematic lighting, and believable perspective. Add subtle cast shadows behind and beneath the protruding elements to enhance the physical depth illusion. Keep the inner photograph visually rich, while the extended 3D subject appears sculptural and tangible.\n\nPRESENTATION & QUALITY\n\nMinimalist gallery-style composition, elegant white framing, clean neutral background, sophisticated fine-art photography aesthetic, realistic depth of field, professional art direction, ultra-detailed 3D rendering, photorealistic quality, and a visually striking forced-perspective illusion.\n\nIMPORTANT: The artwork must look like a real photograph physically escaping its frame, not a simple 3D object placed in front of a picture. Maintain a clean composition with the pop-out effect as the main attraction.",
+      "images": [
+        "/lab/media/prompts/blobs/0d87b565f81bc78924eea378e1981515fc50d7bbfb05688bd33aa4e410a2adfb.jpg",
+        "/lab/media/prompts/blobs/d3881ad3276fd6b2964a8fae4f0b42cf5ba126cdfe971b40125251e0c14e33f1.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2122284153567924407",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122284153567924407",
+        "published_at": "Mon Nov 16 11:02:27 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "57aa9f82e2f093c2320dc2df839956775af208414ccff6217123319c443d0eed",
+        "run_id": "02f36f20-8e85-4cfd-9de1-a155d13819ef",
+        "raw_sha256": "5a1ca0f75cef11806bbbb74a81daac5af26b16c2dfd5a8028d6f9b5b20e6ae05",
+        "result_media_ids": [
+          "2122284132697083904",
+          "2122284144331997184"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2122359048293257288-body-prompt",
+      "videos": [
+        "/lab/media/prompts/blobs/b238fe0f19227337489455415d8354e22787671f5d68c6d75ee007da0b60198c.mp4"
+      ],
+      "title": "Image prompt by @morphedai",
+      "title_zh": "@morphedai 分享的图片提示词",
+      "category": "other",
+      "prompt": "A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.",
+      "images": [
+        "/lab/media/prompts/blobs/f308ba5e0f2c9d47ebbdcabe9ec96b5182fe6c618110e4be5a301a9b3c407d69.jpg"
+      ],
+      "author": "morphedai",
+      "source_url": "https://x.com/morphedai/status/2122359048293257288",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122359048293257288",
+        "published_at": "Mon Nov 16 16:00:03 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "An AI-generated looping GIF from GPT Image 2.6 Flare.",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "d984562dcf2bcebbb554e062220006f31a2f67f5f300bd3c88f856445b6579e6",
+        "run_id": "692f1aa2-8881-44ca-8d0f-78c0089bc29e",
+        "raw_sha256": "d37a457c38253b6e8886b57015c2ccdaf29d5ed6b6fc252a957e69a2e487511d",
+        "result_media_ids": [
+          "2121872188785774592"
         ],
         "input_media_ids": [],
         "note": {

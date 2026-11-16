@@ -2146,3 +2146,251 @@ Extremely intricate craftsmanship, sophisticated colour harmony, realistic paper
 
 Portrait 2:3 composition. No watermark, no unnecessary text, no photorealistic buildings, no plastic appearance.
 ```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2121540203324019137-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2121540203324019137)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+COLLECTIBLE THREE-COLOR REDUCTION LINOCUT | CITY TRAVEL POSTER
+
+Create a striking, collectible three-color reduction linocut travel poster featuring [CITY NAME], printed vertically in a 4:5 aspect ratio on pristine, pure-white paper.
+
+COMPOSITION & ARCHITECTURE
+
+Make [PRIMARY LANDMARK] the dominant focal point. Select two additional instantly recognizable landmarks from [CITY NAME], ensuring their architectural forms create a compelling visual contrast.
+
+Bring all three landmarks together along one continuous waterfront, artistically reimagining their geographical positions while preserving their authentic silhouettes, architectural proportions and defining details.
+
+Use an asymmetric, low three-quarter perspective. Ground every structure in a believable waterfront environment with convincing foundations, bridges and architectural connections.
+
+Establish a unified horizontal visual flow through varied building heights, intentional spacing and subtle overlaps. Maintain a balanced, organic composition. Avoid conventional skyline arrangements, stacked architectural tiers or disconnected floating structures.
+
+Include exactly four tiny contemporary pedestrians along the waterfront to introduce scale, atmosphere and subtle human presence.
+
+PRINTMAKING & COLOUR PALETTE
+
+Use exactly three destination-inspired ink colours, carefully selected to reflect the city's character, architecture and atmosphere.
+
+Embrace authentic reduction linocut aesthetics:
+
+- Bold, sculptural carved shapes and confident silhouettes.
+- Rhythmic white negative-space cuts revealing the texture of the paper.
+- Organic, slightly irregular hand-carved edges.
+- Subtle variations in ink density and uneven pressure, suggesting traditional block printing.
+- Strong contrasts between deep architectural shadows and luminous unprinted areas.
+- Waterfront reflections simplified into expressive, broken horizontal marks.
+
+The finished artwork should feel like an authentic, artisan-produced limited-edition print rather than a digitally generated illustration.
+
+TYPOGRAPHY & LAYOUT
+
+Position the text "[CITY NAME]" discreetly in the upper-left corner.
+
+Use a clean, SUIT-style uppercase sans-serif typeface in Regular or Medium weight, with restrained letter spacing and generous surrounding white space.
+
+Keep the typography minimal, sophisticated and secondary to the artwork.
+
+FINAL ART DIRECTION
+
+A refined collectible destination poster combining traditional Japanese-inspired reduction printmaking, contemporary graphic design and distinctive architectural illustration.
+
+Prioritize strong composition, architectural authenticity, elegant negative space, carefully controlled colour separation and timeless visual appeal.
+
+STRICT RESTRICTIONS: No additional text, captions, inscriptions, decorative lettering, logos, borders, signatures or watermarks. Exactly three ink colours, four pedestrians and one continuous waterfront composition.
+```
+
+## [Image prompt by @Naiknelofar788](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122181627057209426-body-prompt)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2122181627057209426)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+Create an exceptionally beautiful, sophisticated 3D paper-quilling architectural artwork featuring [LANDMARK NAME], [CITY], [COUNTRY], inspired by the reference image.
+
+1. CENTRAL LANDMARK
+
+Feature one iconic landmark as the dominant subject.
+Preserve its authentic architectural silhouette and recognisable details.
+Recreate the architecture using intricate rolled-paper strips, delicate paper coils and carefully arranged quilled shapes.
+Give the structure beautiful raised, sculptural dimensions.
+Make the landmark appear handcrafted from individually shaped and assembled paper.
+
+2. MINIMALIST GEOMETRIC LANDSCAPE
+
+Surround the landmark with a simple, elegant abstract landscape.
+
+Large circular sun or moon behind the architecture.
+Layered geometric mountains and hills.
+Simple curved foreground shapes.
+Minimal architectural platforms or steps.
+Clean overlapping paper layers.
+No unnecessary decorative elements.
+
+Keep the landscape flat and geometric while making the landmark richly detailed through paper quilling.
+
+3. SIGNATURE PAPER-QUILLING TECHNIQUE
+
+This is the defining feature.
+
+Intricately rolled and curled paper strips.
+Fine spiral coils and delicate loops.
+Precisely arranged parallel paper lines.
+Raised paper edges and visible thickness.
+Beautifully sculpted architectural curves.
+Realistic miniature paper craftsmanship.
+Subtle natural shadows between individual paper pieces.
+
+The quilling should be most detailed on the landmark, while the surrounding landscape remains clean and minimal.
+
+4. UNIQUE COLOUR IDENTITY
+
+Choose a completely different colour palette for every destination.
+
+Use 4–6 coordinated colours inspired by the landmark’s architecture, culture and surroundings.
+
+Change the colours of:
+
+Landmark paper coils.
+Background sun.
+Geometric mountains.
+Foreground landscape.
+Supporting paper details.
+
+Avoid repeating colour combinations across destinations.
+
+5. PRESENTATION AND LAYOUT
+
+Square or near-square central artwork.
+Soft, pale neutral background.
+Generous white space around the composition.
+Elegant white mounting paper.
+Deep navy or destination-inspired contrasting outer mat.
+Realistic soft shadows.
+Professional gallery-style presentation.
+Front-facing, perfectly balanced composition.
+
+6. HANDWRITTEN TYPOGRAPHY
+
+Write the actual landmark name beneath the artwork.
+
+[LANDMARK NAME]
+
+Use a beautiful, natural handwritten script font, as though the name has been personally written by an artist with a fine calligraphy pen.
+
+Keep the lettering elegant, slightly flowing and artistic.
+
+Do not use bold block letters or mechanical typography.
+
+7. FINAL ART DIRECTION
+
+Premium handmade paper-quilling artwork, minimalist architectural illustration, geometric landscape design, intricate paper sculpture, tactile cardstock texture and sophisticated gallery presentation.
+
+The result should look like a real handcrafted paper artwork photographed in a professional art studio.
+
+No photographic architecture, no plastic 3D appearance, no flowers, no unnecessary leaves, no watermark, no extra text.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [Image prompt by @oggii\_0](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122186361193341356-body-prompt)
+
+[@oggii_0](https://x.com/oggii_0/status/2122186361193341356)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Turn my photo into a cute 3D animated portrait. Preserve recognizable features and hairstyle. Add a big round head, huge googly eyes, tiny pupils, round glasses, a button nose and tiny “o” mouth. Slightly surprised expression. Oversized black turtleneck, soft matte 3D, sage-green background, chest-up, 3:4.
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122203670779748583-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2122203670779748583)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create a beautiful, highly detailed travel-inspired scrapbook collage featuring [YOUR DESTINATION / COUNTRY / CITY / THEME], designed as an elegant circular composition on a clean, warm ivory background.
+
+COMPOSITION & VISUAL STYLE
+
+Build a large, perfectly balanced circular collage filled with multiple overlapping, realistic photographs showcasing the destination's most iconic landmarks, beautiful landscapes, architecture, local culture, street scenes, and signature food. Arrange the photographs like carefully layered vintage travel magazine cutouts, with subtle torn-paper edges and natural transitions.
+
+DESIGN DETAILS
+
+Place the destination name prominently in the centre using elegant handwritten cursive typography. Incorporate small decorative elements such as the country's flag, vintage postage stamps, miniature airplane illustrations with dotted flight paths, tiny hearts, handwritten travel notes, botanical leaves, flowers, and playful travel doodles.
+
+COLOUR & AESTHETIC
+
+Use a soft, sophisticated palette of warm cream, muted pastels, natural greens, gentle blues, and sunlit photographic tones. Add subtle paper textures, delicate shadows, and fine hand-drawn outlines to create a charming, handcrafted editorial appearance.
+
+FINAL PRESENTATION
+
+Keep the entire circular artwork clearly visible, centred, and surrounded by generous ivory negative space. Maintain a polished, cohesive composition with realistic photography and artistic scrapbook layering. Every destination should have its own unique visual identity while retaining the same elegant aesthetic.
+
+Aspect ratio: 1:1.
+Quality: Ultra-detailed, high-resolution, premium editorial design.
+```
+
+## [Image prompt by @Andy4aicreate](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122211200599793843-body-prompt)
+
+[@Andy4aicreate](https://x.com/Andy4aicreate/status/2122211200599793843)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+一张九比十六竖版电影感生活摄影，平视三分之二身构图。一位完全虚构的四十岁东亚女性在雨天傍晚的小厨房准备晚饭。她留着深棕短发，穿深青色不透肤长袖棉衫、铁锈红帆布围裙和深灰长裤，没有首饰与妆面修饰。她专注地低头看锅，嘴角自然放松，身体微微侧向炉灶。
+
+左手稳握黑色平底锅的长柄，右手用不锈钢长柄勺翻动锅中的南瓜块和蘑菇，锅保持水平，不抛锅、不让食物悬空。细微的蒸汽沿着锅沿升起，手指与工具接触合理。
+
+厨房有旧木橱柜、灰蓝瓷砖与一扇挂着雨珠的小窗，台面只放洗净的蔬菜和一块叠好的擦布。窗外冷灰雨光与室内暖黄吊灯相互平衡，蒸汽边缘有柔和亮光，背景适度虚化。
+
+五十毫米镜头，光圈二点零，轻微高光晕化与细腻胶片颗粒。保留皮肤自然纹理、围裙的粗棉织纹、锅的使用痕迹和可信的蒸汽。生活抓拍气质，不做时尚大片，不出现品牌、文字、水印、塑料皮肤、过度磨皮或三维渲染质感。
+
+—
+
+John
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122284153567924407-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2122284153567924407)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+SURREAL 3D POP-OUT PHOTOGRAPHY | FRAMED NATURE ART
+
+Create a stunning, photorealistic 3D pop-out artwork featuring [YOUR SUBJECT / OBJECT / LANDSCAPE / SCENE], transforming an ordinary framed photograph into an extraordinary three-dimensional illusion.
+
+COMPOSITION & ART DIRECTION
+
+Show a beautifully framed photograph mounted on a minimal, warm ivory or off-white wall. The central subject should dramatically break through the boundaries of the picture frame, extending outward into the real world with an impressive 3D trompe-l'œil effect.
+
+Create a seamless transition between the flat photograph and the three-dimensional elements. For example, tree trunks, branches, roots, flowers, roads, or other natural elements should visibly emerge beyond the frame, creating realistic depth and dimension.
+
+VISUAL STYLE & DETAILS
+
+Use ultra-realistic textures, intricate surface details, natural colours, cinematic lighting, and believable perspective. Add subtle cast shadows behind and beneath the protruding elements to enhance the physical depth illusion. Keep the inner photograph visually rich, while the extended 3D subject appears sculptural and tangible.
+
+PRESENTATION & QUALITY
+
+Minimalist gallery-style composition, elegant white framing, clean neutral background, sophisticated fine-art photography aesthetic, realistic depth of field, professional art direction, ultra-detailed 3D rendering, photorealistic quality, and a visually striking forced-perspective illusion.
+
+IMPORTANT: The artwork must look like a real photograph physically escaping its frame, not a simple 3D object placed in front of a picture. Maintain a clean composition with the pop-out effect as the main attraction.
+```
+
+## [Image prompt by @morphedai](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122359048293257288-body-prompt)
+
+[@morphedai](https://x.com/morphedai/status/2122359048293257288)
+
+[Play animation 1](https://www.sandbase.ai/lab/media/prompts/blobs/b238fe0f19227337489455415d8354e22787671f5d68c6d75ee007da0b60198c.mp4)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.
+```
