@@ -4,7 +4,7 @@
 
 来自 X 原作者的图片、动图与原始提示词，由 [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**89 个案例：70 条提示词 · 19 个作品示例** · Lab 数据日期：2026-11-16T21:05:39.614Z。
+**91 个案例：72 条提示词 · 19 个作品示例** · Lab 数据日期：2026-11-17T21:04:16.729Z。
 
 模型归属依据作者的原帖声明；具体变体可能未知，尚未由 SandBase 复跑。图片和提示词权利属于原作者。
 
@@ -2674,6 +2674,92 @@ IMPORTANT: The artwork must look like a real photograph physically escaping its 
 ```text
 A friendly small orange robot waves one hand hello. Clean white background, fixed camera, simple rounded 3D illustration. A seamless loop.
 ```
+
+## [@hiapi\_ai 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122230126280855752-body-prompt)
+
+[@hiapi_ai](https://x.com/hiapi_ai/status/2122230126280855752)
+
+[![@hiapi\_ai 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/a75814d4bf68effa7796078d3266b3c2c1367f85d05fa5db8d5dc3538144e657.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122230126280855752-body-prompt)
+[![@hiapi\_ai 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/7a1799428b586df33db96ad88ec8b59b5fbc1e00cc95d01c2487d0ac63708efa.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122230126280855752-body-prompt)
+[![@hiapi\_ai 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/c80d9e97470a9259236c0c40aa777e9b6aa0d7151c5ca8ec02763a190c958fd5.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122230126280855752-body-prompt)
+[![@hiapi\_ai 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/1dfa92c55b41c85ec0a3e5807afb04e71807a508d2d09d623e832a139cf4d1a5.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122230126280855752-body-prompt)
+
+自动收录：作者在同一串推文的下一条中分享了提示词。模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+三张图的完整提示词，可以直接复制 👇
+
+① 定妆照（GPT Image 2.6 文生图，3:4，2K）
+
+为一个虚构的极简中国女装品牌「SUYE 素野」拍一张 lookbook 时装照（天然亚麻、本色棉，燕麦色、鼠尾草绿和陶土色）。一位二十八九岁的中国女性，神情平静自然，黑色短发波波头，淡妆，站在阳光照进来的素色灰泥墙摄影棚里，旁边有一张木凳。她穿一件宽松的燕麦色亚麻衬衫裙，脚穿编织皮凉鞋。大窗户透进柔和日光，阴影柔和，胶片感调色，时尚杂志大片质感，全身，3:4 竖构图。不要文字，不要 logo，不要水印。
+
+② 换装（GPT Image 2.6 图生图，参考图放定妆照，3:4，2K）
+
+和参考图是同一位女性（脸、黑色短发波波头和平静自然的神情完全保持不变），为同一个虚构极简女装品牌拍一张新的 lookbook 照片（天然亚麻、本色棉，燕麦色、鼠尾草绿和陶土色）。傍晚时分，她走在金色麦田里，穿燕麦色亚麻短外套和同色 A 字长裙，肩上挎一只草编包，全身。柔和自然光，胶片感调色，时尚杂志大片质感，3:4 竖构图。不要文字，不要 logo，不要水印。
+
+其他 6 张只换中间描写场景和衣服的那一句：
+· 她站在灰砖墙的老石巷里，穿陶土色亚麻中长连衣裙，腰间系软带，手里抱一束牛皮纸包着的花。
+· 她跪坐在安静茶室的矮木桌前倒茶，穿鼠尾草绿亚麻交领上衣和阔腿裤，四分之三侧面。
+· 她站在海边礁石上，风吹起头发，穿白色宽松棉衬衫和本色亚麻阔腿裤，赤脚，全身，阴天柔光。
+· 她走在竹林里，穿燕麦色亚麻马甲叠白 T 恤，配鼠尾草绿长裙，斑驳光影，全身。
+· 她在清晨的集市上挑草编篮，穿陶土棕亚麻背带裙，里面是米白衬衫，抓拍瞬间。
+· 黄昏时她倚在天台栏杆上，穿燕麦色粗针开衫，里面是米白亚麻吊带裙，背景是柔和的城市灯光，半身。
+
+③ 详情页（GPT Image 2.6 图生图，参考图放上面 8 张，1:2，2K）
+
+为一个虚构的极简中国女装品牌设计一张竖长的手机端电商详情页。把 8 张参考照片当作页面上的 lookbook 图：同一位模特、同样的衣服和场景，她的脸和衣服与参考图完全一致。暖奶油色背景（色值 F4EFE6），大量留白，优雅的细衬线字体配干净的无衬线字体，安静的日式/中式极简风格。
+从上到下的布局：
+1. 品牌头部：居中大字「SUYE 素野」，下面一行小字「2026 秋 · 亚麻与本色棉系列」。
+2. 一张大幅主图（麦田那张）。
+3. 栏目标题「新品 · 风吹过麦田的颜色」，配三个小圆色块，分别标「燕麦」「鼠尾草绿」「陶土棕」。
+4. 其余 7 张照片排成网格，顺序为：摄影棚衬衫裙、石巷连衣裙、茶室套装、海边衬衫、竹林马甲、集市背带裙、天台开衫，每张下面用小字写商品名和价格：「亚麻衬衫裙 ¥459」「陶土棕系带连衣裙 ¥529」「鼠尾草绿交领套装 ¥689」「白棉衬衫 ¥329」「燕麦马甲 ¥299」「背带裙 ¥399」「粗针开衫 ¥569」。
+5. 一条细分隔线，底部一行小字「虚构品牌 · 仅作演示」。
+所有中文严格按给出的字渲染，清晰正确，不要其他文字，不要 logo，不要水印。
+
+（图是用英文原版提示词跑的，这里译成了中文）
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
+
+## [@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122624949466923407-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2122624949466923407)
+
+[![@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/3c87d06d34d95c18018a912c872faa139dbb8f56a9c239635e8f973dd793b27f.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122624949466923407-body-prompt)
+[![@Goodmanprotocol 分享的图片提示词](https://www.sandbase.ai/lab/media/prompts/blobs/4eaeb1188a76e9c279d37a11b2753c6aab842429bda3ee9a174ccb8b67ebcd9e.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122624949466923407-body-prompt)
+
+依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。
+
+```text
+VINTAGE TORN-PAPER COLLAGE | PHOTOGRAPHIC ART EDITION
+
+REFERENCE: Use the uploaded photograph as the primary visual source.
+ASPECT RATIO: Vertical 3:4.
+
+Transform the photograph into an artistic mixed-media collage poster inspired by vintage travel magazines, handmade paper compositions, and traditional printmaking.
+
+1. Composition & Structure
+Preserve the original subject, natural lighting, perspective, horizon, and spatial relationships. Integrate the photograph into an irregular, organically torn-paper shape. Let the torn edges reveal a warm ivory, textured paper background. Make the paper openings asymmetrical, spontaneous, and naturally layered.
+
+2. Mixed-Media Treatment
+Combine realistic photography with hand-painted illustrations, simplified black-and-white silhouettes, subtle ink textures, and expressive color blocks. Let the hand-painted elements occupy approximately 30–35% of the composition while keeping the main subject recognizable and photographic.
+
+3. Visual Elements
+Extract meaningful details from the original scene, such as roads, trees, rivers, architecture, landscapes, or surrounding objects. Extend selected elements beyond the photographic boundaries using delicate illustrations, vintage cutouts, and contrasting paper fragments. Use a limited palette of warm beige, muted cream, deep charcoal, and one or two rich accent colors.
+
+4. Paper & Texture
+Create authentic overlapping paper layers, rough torn edges, subtle shadows, aged paper grain, screen-print imperfections, and slightly faded ink. The composition should feel physically assembled by hand rather than digitally arranged.
+
+5. Typography & Negative Space
+Maintain generous areas of empty paper. Add only a tiny, understated English typewriter-style caption if appropriate. Avoid oversized headlines, decorative logos, watermarks, or excessive text.
+
+6. Overall Aesthetic
+Achieve the visual character of an independent art magazine, vintage travel editorial, handmade scrapbook, and experimental screen-printed poster. Keep the composition sophisticated, atmospheric, tactile, and visually balanced.
+
+IMPORTANT: Avoid simply placing the original photograph inside a rectangular frame. The photograph must blend organically into the torn-paper composition, with irregular paper boundaries and illustrated elements creating a seamless visual transition. Preserve the identity and essential details of the original subject.
+```
+
+此提示词需要参考输入图；本页未提供，请准备自己有权使用的素材。
 
 ## 贡献与权利
 
