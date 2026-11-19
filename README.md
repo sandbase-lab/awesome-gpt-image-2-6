@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 Images, animations and original prompts from X creators, curated by [SandBase Lab](https://www.sandbase.ai/lab/prompts/gpt-image-2-6).
 
-**91 examples: 72 prompts · 19 work examples** · Lab snapshot: 2026-11-17T21:04:16.729Z.
+**96 examples: 76 prompts · 20 work examples** · Lab snapshot: 2026-11-18T21:04:36.360Z.
 
 Model attribution follows the original creator’s claim. The variant may be unknown; SandBase has not rerun these examples. Images and prompts remain their creators’ work.
 
@@ -2757,6 +2757,210 @@ Maintain generous areas of empty paper. Add only a tiny, understated English typ
 Achieve the visual character of an independent art magazine, vintage travel editorial, handmade scrapbook, and experimental screen-printed poster. Keep the composition sophisticated, atmospheric, tactile, and visually balanced.
 
 IMPORTANT: Avoid simply placing the original photograph inside a rectangular frame. The photograph must blend organically into the torn-paper composition, with irregular paper boundaries and illustrated elements creating a seamless visual transition. Preserve the identity and essential details of the original subject.
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [GPT Image 2.6 work by @cheoneusin](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122834266480681431-body-prompt)
+
+[@cheoneusin](https://x.com/cheoneusin/status/2122834266480681431)
+
+[![GPT Image 2.6 work by @cheoneusin](https://www.sandbase.ai/lab/media/prompts/blobs/52327650cdabcee9874eb0ca73dbed7ba01c968f2dd5dab386c965a60109ccd2.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122834266480681431-body-prompt)
+[![GPT Image 2.6 work by @cheoneusin](https://www.sandbase.ai/lab/media/prompts/blobs/d8cdaa398de4f460831514f35f3b48024dde934f2507587e1adf753907a02215.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122834266480681431-body-prompt)
+[![GPT Image 2.6 work by @cheoneusin](https://www.sandbase.ai/lab/media/prompts/blobs/eb9830b085054a7615ba5055b515b156863173c3dbb182a990c0a58bcab37082.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122834266480681431-body-prompt)
+[![GPT Image 2.6 work by @cheoneusin](https://www.sandbase.ai/lab/media/prompts/blobs/4b223668bb231f1a213dd4ca58e99e1c778170fd8a34e7f50414d92052446549.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122834266480681431-body-prompt)
+
+Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.
+
+**Work example: no prompt shared by the author.**
+
+## [Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122922665958899970-body-prompt)
+
+[@Ziha_ai](https://x.com/Ziha_ai/status/2122922665958899970)
+
+[![Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/472ee002c2fff46e7e0ce0d69abbf30db79ab56cda49fc0918b88778cedc347b.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122922665958899970-body-prompt)
+[![Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/2912d6a89f67efbef3d627bc93cc7d523311c5065137c956abf7fc5b510b7b27.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122922665958899970-body-prompt)
+[![Image prompt by @Ziha\_ai](https://www.sandbase.ai/lab/media/prompts/blobs/552e27c028a01e2c4fffddad63be4ec26db47d4c8f07df7d328c5d828b3ffe62.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2122922665958899970-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+1Transform the uploaded photograph into a standalone, premium-quality 2:3 vertical design poster. The illustration presents an abstract visual symbol derived from the essence of the photographed subject.
+
+Make it in slightly light color palette
+
+Abstract Visual Identity
+
+Extract the photograph's essential visual identity: the subject's silhouette, structure, posture, and narrative relationships. Do not reproduce the entire object literally. Instead, distill these characteristics into a recognizable abstract visual symbol.
+
+Use geometric deconstruction, modular forms, linear structures, negative space, and symbolic abstraction to create a distinctive visual identity, similar to a core symbol found in high-end branding and experimental design systems.
+
+Focus on the subject's defining character rather than intricate details. Ensure the minimal graphic remains conceptually recognizable and connected to the original photograph.
+
+Visual Direction:
+
+Post-digital graphic design
+
+Deconstructed Swiss design
+
+Generative symbol systems
+
+Diagrammatic abstraction
+
+Incorporate geometric modules, fine lines, curved trajectories, grids, micro-symbols, numbering systems, and abstract nodes to construct a cohesive visual language.
+
+Explore the tension between:
+
+Order × Error
+
+Precision × Handmade Imperfection
+
+Digital × Analog
+
+Rationality × Emotion
+
+Achieve strong visual recognition with minimal elements. Avoid unnecessary complexity.
+
+Composition & Layout
+
+Maintain an extremely restrained composition. The abstract symbol should be the sole visual focal point, positioned centrally or slightly off-center, surrounded by generous negative space.
+
+Avoid multiple decorative icons or infographic-style layouts.
+
+The overall aesthetic should reference the visual identities of contemporary art institutions, architecture studios, experimental creative labels, and premium design brands.
+
+Typography & Micro-Details
+
+Typography should function only as a supporting system component, never as a dominant headline.
+
+Optional elements include:
+
+Small index numbers
+
+Minimal alphabetic codes
+
+Short descriptive phrases
+
+Subtle annotations connected to the symbol
+
+Use refined, understated typography inspired by archival systems, experimental publications, and technical documentation.
+
+Color System
+
+Extract the photograph's signature colors and reinterpret them as a cohesive brand color palette.
+
+Introduce a limited number of high-recognition accent colors as functional visual codes, such as:
+
+Teal
+
+Blue
+
+Magenta
+
+Orange
+
+Balance these with off-white, warm white, and neutral gray backgrounds.
+
+Colors should serve as functional identifiers rather than decoration. Avoid chaotic palettes, cheap neon aesthetics, and generic commercial gradients.
+
+Material & Print Texture
+
+Integrate subtle physical imperfections and analog printing characteristics, including:
+
+Xerox texture
+
+Risograph grain
+
+Print registration errors
+
+Scanner noise
+
+Subtle paper texture
+
+Introduce delicate print misalignment, grain, scanning artifacts, and imperfect edges to give the digital symbols the tactile quality of physical printed matter.
+
+Final Art Direction
+
+The final result should extract an independent and self-contained visual DNA from the original photograph.
+
+Create a refined, minimal, and culturally evocative abstract logo that communicates a strong identity through carefully controlled geometry, negative space, and a sophisticated visual system.
+
+The final poster should feel like a collectible piece of experimental graphic design from a contemporary art institution or independent design publication.
+
+Make it quality for the frame printing 50x70 centimeters
+```
+
+This prompt requires a reference input that is not provided here. Supply your own authorized material.
+
+## [Image prompt by @taoartc](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123062919835603378-body-prompt)
+
+[@taoartc](https://x.com/taoartc/status/2123062919835603378)
+
+[![Image prompt by @taoartc](https://www.sandbase.ai/lab/media/prompts/blobs/9a618e22faa953913832638c8d35004b4a3c489dab895e4eb0f55e08a239846d.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123062919835603378-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+A polished anime fantasy illustration in a vertical composition, showing an adult bunny-themed woman seated on a low, ornate golden platform. The camera looks slightly downward from a close, front three-quarter angle, framing her from the tall rabbit ears to her bare thighs. She leans subtly forward with both hands resting beside her, her knees close together, and gives the viewer a small, knowing smile. She has fair skin, luminous pink-red eyes, soft blush, and long silvery-white hair with pale pink undertones. Straight, airy bangs frame her face; the rest of her hair is tied in a high ponytail that fans out in loose, flowing curls toward the right side of the image.
+
+A pair of tall black rabbit ears rises above a miniature tilted purple top hat decorated with clusters of glossy dark-purple and bright green grapes. She wears pink gemstone drop earrings and a dark violet lace choker with an ornate gold setting and a large magenta jewel. Her outfit is a revealing, strapless deep-purple fantasy dress: sculpted corset cups with scalloped edges, delicate gold vine and leaf ornaments crossing the bodice, a translucent dark mesh panel over her midriff, and a short, asymmetrical skirt with layered purple fabric and small green leaf motifs. Fine ribbons, dangling gold charms, glossy satin highlights, and carefully drawn seams add intricate costume detail.
+
+Behind her, a dark luxurious setting is filled with vertical golden strands, hanging crystal drops, floating warm light particles, grape clusters, and reflective purple spheres. Strong warm light enters from the upper left, creating bright highlights across her hair, shoulders, chest, and thighs; golden reflections scatter over the platform and the folds of her skirt. Rich violet, plum, black, and champagne-gold palette, crisp expressive anime linework, smooth luminous skin shading, detailed hair strands, sparkling jewelry, layered fabric texture, and an elegant, playful fantasy mood.
+```
+
+## [Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123066053639246141-body-prompt)
+
+[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2123066053639246141)
+
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/f7f9e1241a2aa2a727818590d62ecda4cdc8edf19a9c3f9627e6d2bb999189bb.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123066053639246141-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/ef20be9c7965dc9a1c00ea02ebc5fb2aaaeeeec1a45ffb0f37a9d856ee372369.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123066053639246141-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/ecf8d5ed768d9ad64be2fb7afbd525eed2372a277c6aa06947f862e19780c6f6.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123066053639246141-body-prompt)
+[![Image prompt by @Goodmanprotocol](https://www.sandbase.ai/lab/media/prompts/blobs/d2e5b6c595ee9d04360ed37070ae05c7e28171033659838243311ae08484a8c0.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123066053639246141-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.
+
+```text
+Create a striking graphic travel painting of [Place] in [City], in a vertical 4:5 composition.
+
+Capture the location from a dramatic, steep overhead perspective, emphasizing its authentic architectural details, paving patterns, stairways, crossings, pathways, or natural surroundings. Eliminate the horizon and sky, allowing the ground-level geometry to dominate the composition.
+
+Populate the scene with numerous small contemporary figures moving naturally through the space. Give each person varied poses, walking directions, and subtle interactions, maintaining realistic proportions, consistent scale, and believable spatial relationships.
+
+Build the artwork around bold geometric compositions, strong contrasts between light and dark surfaces, carefully balanced shadows, and restrained yet vivid clothing accents. Use expressive painterly textures, subtle grain, simplified details, and confident cropping to create the feel of a sophisticated illustrated travel poster.
+
+Add "[City]" in small, uppercase, modern sans-serif typography at the upper-left corner, integrated subtly into the composition.
+
+Maintain a refined balance between architectural geometry, human movement, and artistic expression. The final result should feel visually rich, contemporary, atmospheric, and unmistakably connected to the real character of the destination.
+
+Restrictions: No additional text, captions, logos, borders, signatures, or watermarks.
+```
+
+## [Image prompt by @mehvishs25](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123069107730051199-body-prompt)
+
+[@mehvishs25](https://x.com/mehvishs25/status/2123069107730051199)
+
+[![Image prompt by @mehvishs25](https://www.sandbase.ai/lab/media/prompts/blobs/87435dd3247dae2ecc15b502f8f3eefade5dbed5729c461c9b7b16fab26be87a.jpg)](https://www.sandbase.ai/lab/prompts/gpt-image-2-6/2123069107730051199-body-prompt)
+
+Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.
+
+```text
+Create a highly photorealistic cinematic summer portrait of the same adult woman shown in the uploaded reference image. Maintain her exact facial identity, including her face shape, eyes, nose, lips, skin tone, and natural proportions. Do not alter or beautify her recognizable features.
+
+Appearance & Styling:
+She has naturally beautiful features, expressive dark eyes, soft rosy lips, and realistic skin texture. Her dark brown hair is loosely gathered into a low, slightly messy ponytail, with a few delicate strands moving naturally around her cheeks. She wears an elegant, relaxed-fit pale cream blouse with slightly rolled sleeves and a soft flowing fabric.
+
+Pose & Action:
+Captured from a slightly low camera angle in a graceful three-quarter side profile. She gently holds a small yellow bubble-blowing toy close to her mouth, her lips softly pursed as she releases a stream of tiny iridescent soap bubbles. Her chin is lifted slightly, and her gaze follows the bubbles drifting upward with a subtle, carefree expression.
+
+Environment & Lighting:
+An expansive brilliant azure sky stretches behind her, completely uncluttered by buildings or other distractions. A few translucent bubbles float at different distances, catching delicate rainbow reflections from the sunlight. Golden late-afternoon light softly falls across her face and hair, highlighting natural details while creating gentle shadows.
+
+Photography Style:
+Authentic editorial summer photography, intimate candid atmosphere, natural color grading, shallow depth of field, beautifully balanced composition, subtle nostalgic film aesthetic, lifelike facial details and realistic fabric textures.
+
+Vertical 3:4 composition, high resolution, crisp focus on her face, professional photography quality.
+
+Important: Strictly preserve the woman's identity from the uploaded reference. Adult woman, realistic human facial anatomy, natural expressions. No anime, no cartoon appearance, no CGI, no artificial beauty filter, no plastic skin, no exaggerated facial features.
 ```
 
 This prompt requires a reference input that is not provided here. Supply your own authorized material.

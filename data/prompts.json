@@ -1,6 +1,6 @@
 {
   "slug": "gpt-image-2-6",
-  "synced_at": "2026-11-17T21:04:16.729Z",
+  "synced_at": "2026-11-18T21:04:36.360Z",
   "sources": [
     {
       "key": "x-direct",
@@ -11,8 +11,8 @@
     }
   ],
   "categories": {
-    "portrait": 36,
-    "other": 38,
+    "portrait": 39,
+    "other": 40,
     "ad-creative": 1,
     "character": 12,
     "ui": 1,
@@ -3512,6 +3512,200 @@
         "result_media_ids": [
           "2122624922094796800",
           "2122624937055985664"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2122834266480681431-body-prompt",
+      "title": "GPT Image 2.6 work by @cheoneusin",
+      "title_zh": "@cheoneusin 的 GPT Image 2.6 作品",
+      "category": "other",
+      "prompt": "",
+      "images": [
+        "/lab/media/prompts/blobs/52327650cdabcee9874eb0ca73dbed7ba01c968f2dd5dab386c965a60109ccd2.jpg",
+        "/lab/media/prompts/blobs/d8cdaa398de4f460831514f35f3b48024dde934f2507587e1adf753907a02215.jpg",
+        "/lab/media/prompts/blobs/eb9830b085054a7615ba5055b515b156863173c3dbb182a990c0a58bcab37082.jpg",
+        "/lab/media/prompts/blobs/4b223668bb231f1a213dd4ca58e99e1c778170fd8a34e7f50414d92052446549.jpg"
+      ],
+      "author": "cheoneusin",
+      "source_url": "https://x.com/cheoneusin/status/2122834266480681431",
+      "via": "x-direct",
+      "has_slots": false,
+      "prompt_unavailable": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122834266480681431",
+        "published_at": "Tue Nov 17 23:28:24 +0000 2026",
+        "prompt_source": "none",
+        "model_claim": "Model used: GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "none-single-v3",
+        "source_text_sha256": "a46f029e649c4f57f71921fc8c954cbc907257d2a30ec8f860b9a3d19667fb07",
+        "run_id": "47ebc2ce-82d2-46a7-acb5-dfea296b6f93",
+        "raw_sha256": "e1ecd5a72b12743cb301144838267cb16c0fa90eec24538a8bdb2b370b66c7dc",
+        "result_media_ids": [
+          "2122834157885894656",
+          "2122834163023962112",
+          "2122834210713116672",
+          "2122834228824113152"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed: the author showed a GPT Image 2.6 result but did not share the prompt. Model attribution follows the author; SandBase has not rerun this example. The author did not share the prompt; shown as a work example only.",
+          "zh-CN": "自动收录：作者展示了 GPT Image 2.6 的结果但未公开提示词。模型归属依据作者声明；SandBase 尚未复跑此示例。 作者未公开提示词，仅作为作品示例展示。"
+        }
+      }
+    },
+    {
+      "id": "2122922665958899970-body-prompt",
+      "title": "Image prompt by @Ziha_ai",
+      "title_zh": "@Ziha_ai 分享的图片提示词",
+      "category": "other",
+      "prompt": "1Transform the uploaded photograph into a standalone, premium-quality 2:3 vertical design poster. The illustration presents an abstract visual symbol derived from the essence of the photographed subject.\n\nMake it in slightly light color palette\n\nAbstract Visual Identity\n\nExtract the photograph's essential visual identity: the subject's silhouette, structure, posture, and narrative relationships. Do not reproduce the entire object literally. Instead, distill these characteristics into a recognizable abstract visual symbol.\n\nUse geometric deconstruction, modular forms, linear structures, negative space, and symbolic abstraction to create a distinctive visual identity, similar to a core symbol found in high-end branding and experimental design systems.\n\nFocus on the subject's defining character rather than intricate details. Ensure the minimal graphic remains conceptually recognizable and connected to the original photograph.\n\nVisual Direction:\n\nPost-digital graphic design\n\nDeconstructed Swiss design\n\nGenerative symbol systems\n\nDiagrammatic abstraction\n\nIncorporate geometric modules, fine lines, curved trajectories, grids, micro-symbols, numbering systems, and abstract nodes to construct a cohesive visual language.\n\nExplore the tension between:\n\nOrder × Error\n\nPrecision × Handmade Imperfection\n\nDigital × Analog\n\nRationality × Emotion\n\nAchieve strong visual recognition with minimal elements. Avoid unnecessary complexity.\n\nComposition & Layout\n\nMaintain an extremely restrained composition. The abstract symbol should be the sole visual focal point, positioned centrally or slightly off-center, surrounded by generous negative space.\n\nAvoid multiple decorative icons or infographic-style layouts.\n\nThe overall aesthetic should reference the visual identities of contemporary art institutions, architecture studios, experimental creative labels, and premium design brands.\n\nTypography & Micro-Details\n\nTypography should function only as a supporting system component, never as a dominant headline.\n\nOptional elements include:\n\nSmall index numbers\n\nMinimal alphabetic codes\n\nShort descriptive phrases\n\nSubtle annotations connected to the symbol\n\nUse refined, understated typography inspired by archival systems, experimental publications, and technical documentation.\n\nColor System\n\nExtract the photograph's signature colors and reinterpret them as a cohesive brand color palette.\n\nIntroduce a limited number of high-recognition accent colors as functional visual codes, such as:\n\nTeal\n\nBlue\n\nMagenta\n\nOrange\n\nBalance these with off-white, warm white, and neutral gray backgrounds.\n\nColors should serve as functional identifiers rather than decoration. Avoid chaotic palettes, cheap neon aesthetics, and generic commercial gradients.\n\nMaterial & Print Texture\n\nIntegrate subtle physical imperfections and analog printing characteristics, including:\n\nXerox texture\n\nRisograph grain\n\nPrint registration errors\n\nScanner noise\n\nSubtle paper texture\n\nIntroduce delicate print misalignment, grain, scanning artifacts, and imperfect edges to give the digital symbols the tactile quality of physical printed matter.\n\nFinal Art Direction\n\nThe final result should extract an independent and self-contained visual DNA from the original photograph.\n\nCreate a refined, minimal, and culturally evocative abstract logo that communicates a strong identity through carefully controlled geometry, negative space, and a sophisticated visual system.\n\nThe final poster should feel like a collectible piece of experimental graphic design from a contemporary art institution or independent design publication.\n\nMake it quality for the frame printing 50x70 centimeters",
+      "images": [
+        "/lab/media/prompts/blobs/472ee002c2fff46e7e0ce0d69abbf30db79ab56cda49fc0918b88778cedc347b.jpg",
+        "/lab/media/prompts/blobs/2912d6a89f67efbef3d627bc93cc7d523311c5065137c956abf7fc5b510b7b27.jpg",
+        "/lab/media/prompts/blobs/552e27c028a01e2c4fffddad63be4ec26db47d4c8f07df7d328c5d828b3ffe62.jpg"
+      ],
+      "author": "Ziha_ai",
+      "source_url": "https://x.com/Ziha_ai/status/2122922665958899970",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2122922665958899970",
+        "published_at": "Wed Nov 18 05:19:40 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "A little piece of spring, reimagined as art. Made with GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "9904d3669463a28c8fb5c5d0e853825e5aef5769280b7cc1899e9539139cdb60",
+        "run_id": "9d2e6afc-b144-4325-b623-900a0777bcbc",
+        "raw_sha256": "e38f876680b70df24a98fc75e17cea43b16193165007c0f9bed61fcf2d2cf32a",
+        "result_media_ids": [
+          "2122922564494487552",
+          "2122922637848666112",
+          "2122922652457435136"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example. The prompt needs an uploaded reference image that the author did not include here.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。 提示词需上传参考图，原帖未附带该图。"
+        }
+      }
+    },
+    {
+      "id": "2123062919835603378-body-prompt",
+      "title": "Image prompt by @taoartc",
+      "title_zh": "@taoartc 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "A polished anime fantasy illustration in a vertical composition, showing an adult bunny-themed woman seated on a low, ornate golden platform. The camera looks slightly downward from a close, front three-quarter angle, framing her from the tall rabbit ears to her bare thighs. She leans subtly forward with both hands resting beside her, her knees close together, and gives the viewer a small, knowing smile. She has fair skin, luminous pink-red eyes, soft blush, and long silvery-white hair with pale pink undertones. Straight, airy bangs frame her face; the rest of her hair is tied in a high ponytail that fans out in loose, flowing curls toward the right side of the image.\n\nA pair of tall black rabbit ears rises above a miniature tilted purple top hat decorated with clusters of glossy dark-purple and bright green grapes. She wears pink gemstone drop earrings and a dark violet lace choker with an ornate gold setting and a large magenta jewel. Her outfit is a revealing, strapless deep-purple fantasy dress: sculpted corset cups with scalloped edges, delicate gold vine and leaf ornaments crossing the bodice, a translucent dark mesh panel over her midriff, and a short, asymmetrical skirt with layered purple fabric and small green leaf motifs. Fine ribbons, dangling gold charms, glossy satin highlights, and carefully drawn seams add intricate costume detail.\n\nBehind her, a dark luxurious setting is filled with vertical golden strands, hanging crystal drops, floating warm light particles, grape clusters, and reflective purple spheres. Strong warm light enters from the upper left, creating bright highlights across her hair, shoulders, chest, and thighs; golden reflections scatter over the platform and the folds of her skirt. Rich violet, plum, black, and champagne-gold palette, crisp expressive anime linework, smooth luminous skin shading, detailed hair strands, sparkling jewelry, layered fabric texture, and an elegant, playful fantasy mood.",
+      "images": [
+        "/lab/media/prompts/blobs/9a618e22faa953913832638c8d35004b4a3c489dab895e4eb0f55e08a239846d.jpg"
+      ],
+      "author": "taoartc",
+      "source_url": "https://x.com/taoartc/status/2123062919835603378",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2123062919835603378",
+        "published_at": "Wed Nov 18 14:36:59 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "If you want to play with it, new users get 5 GPT Image 2.6 generations: https://t.co/Sj6CHnb9Yl",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "9b8ae9b737bfffe08d68d807e214ae18921a1d31251211cae9d21c8124bbf051",
+        "run_id": "2817fc95-541b-428f-8a24-5eec30a6ffb7",
+        "raw_sha256": "8ab11e8ee91a1f5b973330886d1ec7cfad51aabbf4617b95c239e2716635de09",
+        "result_media_ids": [
+          "2123061575485685761"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2123066053639246141-body-prompt",
+      "title": "Image prompt by @Goodmanprotocol",
+      "title_zh": "@Goodmanprotocol 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create a striking graphic travel painting of [Place] in [City], in a vertical 4:5 composition.\n\nCapture the location from a dramatic, steep overhead perspective, emphasizing its authentic architectural details, paving patterns, stairways, crossings, pathways, or natural surroundings. Eliminate the horizon and sky, allowing the ground-level geometry to dominate the composition.\n\nPopulate the scene with numerous small contemporary figures moving naturally through the space. Give each person varied poses, walking directions, and subtle interactions, maintaining realistic proportions, consistent scale, and believable spatial relationships.\n\nBuild the artwork around bold geometric compositions, strong contrasts between light and dark surfaces, carefully balanced shadows, and restrained yet vivid clothing accents. Use expressive painterly textures, subtle grain, simplified details, and confident cropping to create the feel of a sophisticated illustrated travel poster.\n\nAdd \"[City]\" in small, uppercase, modern sans-serif typography at the upper-left corner, integrated subtly into the composition.\n\nMaintain a refined balance between architectural geometry, human movement, and artistic expression. The final result should feel visually rich, contemporary, atmospheric, and unmistakably connected to the real character of the destination.\n\nRestrictions: No additional text, captions, logos, borders, signatures, or watermarks.",
+      "images": [
+        "/lab/media/prompts/blobs/f7f9e1241a2aa2a727818590d62ecda4cdc8edf19a9c3f9627e6d2bb999189bb.jpg",
+        "/lab/media/prompts/blobs/ef20be9c7965dc9a1c00ea02ebc5fb2aaaeeeec1a45ffb0f37a9d856ee372369.jpg",
+        "/lab/media/prompts/blobs/ecf8d5ed768d9ad64be2fb7afbd525eed2372a277c6aa06947f862e19780c6f6.jpg",
+        "/lab/media/prompts/blobs/d2e5b6c595ee9d04360ed37070ae05c7e28171033659838243311ae08484a8c0.jpg"
+      ],
+      "author": "Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2123066053639246141",
+      "via": "x-direct",
+      "has_slots": false,
+      "provenance": {
+        "type": "x",
+        "post_id": "2123066053639246141",
+        "published_at": "Wed Nov 18 14:49:26 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "ee4fd4d0b665526c293a15fb1751c9fc66233855affde6aeec2f34ab11097bb9",
+        "run_id": "a762f911-0464-468f-ad7f-98a26c90f08d",
+        "raw_sha256": "6d00886d9ef633f9e549e775acf90ae12f6d46f58aa5706b4af4eeb1516e042b",
+        "result_media_ids": [
+          "2123066002338705408",
+          "2123066017840771072",
+          "2123066029672939521",
+          "2123066042692075520"
+        ],
+        "input_media_ids": [],
+        "note": {
+          "en": "Automatically indexed from a photo/GIF post with an explicit prompt. Model attribution follows the author. Variant and settings unspecified; SandBase has not rerun this example.",
+          "zh-CN": "依据图片/GIF与明确标注的提示词自动收录，模型归属依据作者声明；变体及参数未注明；SandBase 尚未复跑此示例。"
+        }
+      }
+    },
+    {
+      "id": "2123069107730051199-body-prompt",
+      "title": "Image prompt by @mehvishs25",
+      "title_zh": "@mehvishs25 分享的图片提示词",
+      "category": "portrait",
+      "prompt": "Create a highly photorealistic cinematic summer portrait of the same adult woman shown in the uploaded reference image. Maintain her exact facial identity, including her face shape, eyes, nose, lips, skin tone, and natural proportions. Do not alter or beautify her recognizable features.\n\nAppearance & Styling:\nShe has naturally beautiful features, expressive dark eyes, soft rosy lips, and realistic skin texture. Her dark brown hair is loosely gathered into a low, slightly messy ponytail, with a few delicate strands moving naturally around her cheeks. She wears an elegant, relaxed-fit pale cream blouse with slightly rolled sleeves and a soft flowing fabric.\n\nPose & Action:\nCaptured from a slightly low camera angle in a graceful three-quarter side profile. She gently holds a small yellow bubble-blowing toy close to her mouth, her lips softly pursed as she releases a stream of tiny iridescent soap bubbles. Her chin is lifted slightly, and her gaze follows the bubbles drifting upward with a subtle, carefree expression.\n\nEnvironment & Lighting:\nAn expansive brilliant azure sky stretches behind her, completely uncluttered by buildings or other distractions. A few translucent bubbles float at different distances, catching delicate rainbow reflections from the sunlight. Golden late-afternoon light softly falls across her face and hair, highlighting natural details while creating gentle shadows.\n\nPhotography Style:\nAuthentic editorial summer photography, intimate candid atmosphere, natural color grading, shallow depth of field, beautifully balanced composition, subtle nostalgic film aesthetic, lifelike facial details and realistic fabric textures.\n\nVertical 3:4 composition, high resolution, crisp focus on her face, professional photography quality.\n\nImportant: Strictly preserve the woman's identity from the uploaded reference. Adult woman, realistic human facial anatomy, natural expressions. No anime, no cartoon appearance, no CGI, no artificial beauty filter, no plastic skin, no exaggerated facial features.",
+      "images": [
+        "/lab/media/prompts/blobs/87435dd3247dae2ecc15b502f8f3eefade5dbed5729c461c9b7b16fab26be87a.jpg"
+      ],
+      "author": "mehvishs25",
+      "source_url": "https://x.com/mehvishs25/status/2123069107730051199",
+      "via": "x-direct",
+      "has_slots": false,
+      "needs_input": true,
+      "provenance": {
+        "type": "x",
+        "post_id": "2123069107730051199",
+        "published_at": "Wed Nov 18 15:01:34 +0000 2026",
+        "prompt_source": "post-body",
+        "model_claim": "GPT Image 2.6 on ChatGPT",
+        "model_variant": null,
+        "reproduced": false,
+        "review_method": "post-body-single-v3",
+        "source_text_sha256": "544ccba3eabf2c3aa20d5876daaa02c7fef8ebe23ef563564c8b73faf961116b",
+        "run_id": "3fe32820-055f-4667-9805-996fdcaf0001",
+        "raw_sha256": "c8827628868e648bca4bb3c582f172e1e34b0d7ff16970842b96f6768c912462",
+        "result_media_ids": [
+          "2123069092664098816"
         ],
         "input_media_ids": [],
         "note": {
